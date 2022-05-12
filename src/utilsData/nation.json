@@ -131,11 +131,23 @@
   "code": 1441,
   "time": -12
 }, {
+  "en": "Bhutan",
+  "zh": "不丹",
+  "short": "BT",
+  "code": 975,
+  "time": -5
+},{
   "en": "Bolivia",
   "zh": "玻利维亚",
   "short": "BO",
   "code": 591,
   "time": -12
+}, {
+  "en": "Bosnia and Herzegovina",
+  "zh": "波黑",
+  "short": "BA",
+  "code": 387,
+  "time": -7
 }, {
   "en": "Botswana",
   "zh": "博茨瓦纳",
@@ -162,12 +174,14 @@
   "time": -6
 }, {
   "en": "Burkina-faso",
+  "alias": "Burkina Faso",
   "zh": "布基纳法索",
   "short": "BF",
   "code": 226,
   "time": -8
 }, {
   "en": "Burma",
+  "alias": "Myanmar",
   "zh": "缅甸",
   "short": "MM",
   "code": 95,
@@ -186,6 +200,7 @@
   "time": -7
 }, {
   "en": "United States of America",
+  "alias": "United States",
   "zh": "美国",
   "short": "US",
   "code": 1,
@@ -195,6 +210,12 @@
   "zh": "开曼群岛",
   "short": "",
   "code": 1345,
+  "time": -13
+}, {
+  "en": "Canada",
+  "zh": "加拿大",
+  "short": "CA",
+  "code": 1,
   "time": -13
 }, {
   "en": "Central African Republic",
@@ -227,12 +248,6 @@
   "code": 57,
   "time": 0
 }, {
-  "en": "Congo",
-  "zh": "刚果",
-  "short": "CG",
-  "code": 242,
-  "time": -7
-}, {
   "en": "Cook Is.",
   "zh": "库克群岛",
   "short": "CK",
@@ -244,6 +259,12 @@
   "short": "CR",
   "code": 506,
   "time": -14
+}, {
+  "en": "Croatia",
+  "zh": "克罗地亚",
+  "short": "HR",
+  "code": 385,
+  "time": -6
 }, {
   "en": "Cuba",
   "zh": "古巴",
@@ -258,9 +279,16 @@
   "time": -6
 }, {
   "en": "Czech Republic",
+  "alias": "Czechia",
   "zh": "捷克",
   "short": "CZ",
   "code": 420,
+  "time": -7
+}, {
+  "en": "Democratic Republic of the Congo",
+  "zh": "刚果民主共和国",
+  "short": "CD",
+  "code": 243,
   "time": -7
 }, {
   "en": "Denmark",
@@ -276,6 +304,7 @@
   "time": -5
 }, {
   "en": "Dominica Rep.",
+  "alias": "Dominican Republic",
   "zh": "多米尼加共和国",
   "short": "DO",
   "code": 1890,
@@ -294,10 +323,17 @@
   "time": -6
 }, {
   "en": "EI Salvador",
+  "alias": "El Salvador",
   "zh": "萨尔瓦多",
   "short": "SV",
   "code": 503,
   "time": -14
+},{
+  "en": "Eritrea",
+  "zh": "厄立特里亚",
+  "short": "ER",
+  "code": 291,
+  "time": -5
 }, {
   "en": "Estonia",
   "zh": "爱沙尼亚",
@@ -357,6 +393,12 @@
   "zh": "德国",
   "short": "DE",
   "code": 49,
+  "time": -7
+}, {
+  "en": "Ghana",
+  "zh": "加纳",
+  "short": "GH",
+  "code": 233,
   "time": -7
 }, {
   "en": "Uzbekistan",
@@ -503,13 +545,14 @@
   "code": 962,
   "time": -6
 }, {
-  "en": "Kampuchea (Cambodia ]",
+  "en": "Kampuchea",
+  "alias": "Cambodia",
   "zh": "柬埔寨",
   "short": "KH",
   "code": 855,
   "time": -1
 }, {
-  "en": "Kazakstan",
+  "en": "Kazakhstan",
   "zh": "哈萨克斯坦",
   "short": "KZ",
   "code": 327,
@@ -522,10 +565,17 @@
   "time": -5
 }, {
   "en": "Korea",
+  "alias": "South Korea",
   "zh": "韩国",
   "short": "KR",
   "code": 82,
   "time": 1
+}, {
+  "en": "Kosovo",
+  "zh": "科索沃",
+  "short": "XK",
+  "code": 383,
+  "time": -6
 }, {
   "en": "Kuwait",
   "zh": "科威特",
@@ -646,6 +696,12 @@
   "short": "",
   "code": 596,
   "time": -12
+},{
+  "en": "Mauritania",
+  "zh": "毛里塔尼亚",
+  "short": "MR",
+  "code": 222,
+  "time": -8
 }, {
   "en": "Mauritius",
   "zh": "毛里求斯",
@@ -660,6 +716,7 @@
   "time": -15
 }, {
   "en": "Moldova Republic of",
+  "alias": "Moldova",
   "zh": "摩尔多瓦",
   "short": "MD",
   "code": 373,
@@ -676,6 +733,12 @@
   "short": "MN",
   "code": 976,
   "time": 0
+},{
+  "en": "Montenegro",
+  "zh": "黑山",
+  "short": "ME",
+  "code": 382,
+  "time": -6
 }, {
   "en": "Montserrat Is",
   "zh": "蒙特塞拉特岛",
@@ -755,6 +818,12 @@
   "code": 850,
   "time": 1
 }, {
+  "en": "North Macedonia",
+  "zh": "北马其顿",
+  "short": "MK",
+  "code": 389,
+  "time": -5
+}, {
   "en": "Norway",
   "zh": "挪威",
   "short": "NO",
@@ -833,6 +902,12 @@
   "code": 974,
   "time": -5
 }, {
+  "en": "Republic of the Congo",
+  "zh": "刚果共和国",
+  "short": "CG",
+  "code": 242,
+  "time": -7
+}, {
   "en": "Reunion",
   "zh": "留尼旺",
   "short": "",
@@ -899,6 +974,12 @@
   "code": 221,
   "time": -8
 }, {
+  "en": "Serbia",
+  "zh": "塞尔维亚",
+  "short": "RS",
+  "code": 381,
+  "time": -7
+}, {
   "en": "Seychelles",
   "zh": "塞舌尔",
   "short": "SC",
@@ -936,6 +1017,7 @@
   "time": 3
 }, {
   "en": "Somali",
+  "alias": "Somalia",
   "zh": "索马里",
   "short": "SO",
   "code": 252,
@@ -958,6 +1040,12 @@
   "short": "LK",
   "code": 94,
   "time": 0
+}, {
+  "en": "South Sudan",
+  "zh": "南苏丹",
+  "short": "SS",
+  "code": 211,
+  "time": -6
 }, {
   "en": "Sudan",
   "zh": "苏丹",
@@ -996,12 +1084,12 @@
   "time": -6
 }, {
   "en": "Taiwan",
-  "zh": "台湾省",
-  "short": "TW",
+  "zh": "中国台湾省",
+  "short": "CN",
   "code": 886,
   "time": 0
 }, {
-  "en": "Tajikstan",
+  "en": "Tajikistan",
   "zh": "塔吉克斯坦",
   "short": "TJ",
   "code": 992,
@@ -1068,6 +1156,7 @@
   "time": -4
 }, {
   "en": "United Kiongdom",
+  "alias": "United Kingdom",
   "zh": "英国",
   "short": "GB",
   "code": 44,
