@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-10 23:39:08
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-12 11:19:45
+ * @LastEditTime: 2022-05-13 00:07:21
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -14,9 +14,9 @@ import path from 'path'
 import rowData from '@/rowData/DefenseSpend.json'
 
 const __dirname = path.resolve()
+const EXPORT_FILE_PATH = path.join(__dirname, './distData/DefenseSpend.json')
 
 async function fillNationData() {
-  console.log(__dirname)
   await Promise.all(
     rowData.map(async (item: any) => {
       try {
@@ -36,8 +36,7 @@ async function fillNationData() {
       }
     })
   )
-  const distPath = path.join(__dirname, './distData/DefenseSpend.json')
-  fs.writeFileSync(distPath, JSON.stringify(rowData))
+  fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(rowData))
   console.log('done')
 }
 
