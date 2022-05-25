@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-29 13:52:51
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-12 11:15:09
+ * @LastEditTime: 2022-05-25 20:43:31
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -25,6 +25,9 @@ function nationModel(sequelize: any, DataTypes: any) {
     },
     code: {
       type: DataTypes.INTEGER
+    },
+    isoCode: {
+      type: DataTypes.STRING
     },
     time: {
       type: DataTypes.INTEGER

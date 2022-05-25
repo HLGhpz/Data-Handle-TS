@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-15 21:33:35
+ * @LastEditTime: 2022-05-25 21:50:13
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -12,8 +12,13 @@ import FillNationCode from './utils/FillNationCode'
 import BulkInsertDB from './utils/BulkInsertDB'
 import CSV2JSON from './utils/CSV2JSON'
 import CalendarUse from './utils/CalendarUse'
+import Array2Json from './utils/Array2Json'
+import HandleData from './utils/Handle'
+import CheckData from './utils/CheckData'
 
 // BulkInsertDB()
 // FillNationCode()
 // CSV2JSON()
-CalendarUse()
+// CalendarUse()
+// Array2Json()
+CheckData()

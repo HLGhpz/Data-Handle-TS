@@ -1,0 +1,1054 @@
+[
+  {
+    "zh": "阿富汗",
+    "isoCode": "AFG"
+  },
+  {
+    "zh": "安哥拉",
+    "isoCode": "AGO"
+  },
+  {
+    "zh": "阿尔巴尼亚",
+    "isoCode": "ALB"
+  },
+  {
+    "zh": "安道尔共和国",
+    "isoCode": "AND"
+  },
+  {
+    "zh": "阿拉伯联盟国家",
+    "isoCode": "ARB"
+  },
+  {
+    "zh": "阿拉伯联合酋长国",
+    "isoCode": "ARE"
+  },
+  {
+    "zh": "阿根廷",
+    "isoCode": "ARG"
+  },
+  {
+    "zh": "亚美尼亚",
+    "isoCode": "ARM"
+  },
+  {
+    "zh": "美属萨摩亚",
+    "isoCode": "ASM"
+  },
+  {
+    "zh": "安提瓜和巴布达",
+    "isoCode": "ATG"
+  },
+  {
+    "zh": "澳大利亚",
+    "isoCode": "AUS"
+  },
+  {
+    "zh": "奥地利",
+    "isoCode": "AUT"
+  },
+  {
+    "zh": "阿塞拜疆",
+    "isoCode": "AZE"
+  },
+  {
+    "zh": "布隆迪",
+    "isoCode": "BDI"
+  },
+  {
+    "zh": "比利时",
+    "isoCode": "BEL"
+  },
+  {
+    "zh": "贝宁",
+    "isoCode": "BEN"
+  },
+  {
+    "zh": "布基纳法索",
+    "isoCode": "BFA"
+  },
+  {
+    "zh": "孟加拉国",
+    "isoCode": "BGD"
+  },
+  {
+    "zh": "保加利亚",
+    "isoCode": "BGR"
+  },
+  {
+    "zh": "巴林",
+    "isoCode": "BHR"
+  },
+  {
+    "zh": "巴哈马",
+    "isoCode": "BHS"
+  },
+  {
+    "zh": "波斯尼亚和黑塞哥维那",
+    "isoCode": "BIH"
+  },
+  {
+    "zh": "白俄罗斯",
+    "isoCode": "BLR"
+  },
+  {
+    "zh": "伯利兹",
+    "isoCode": "BLZ"
+  },
+  {
+    "zh": "百慕大",
+    "isoCode": "BMU"
+  },
+  {
+    "zh": "玻利维亚",
+    "isoCode": "BOL"
+  },
+  {
+    "zh": "巴西",
+    "isoCode": "BRA"
+  },
+  {
+    "zh": "巴巴多斯",
+    "isoCode": "BRB"
+  },
+  {
+    "zh": "文莱达鲁萨兰国",
+    "isoCode": "BRN"
+  },
+  {
+    "zh": "不丹",
+    "isoCode": "BTN"
+  },
+  {
+    "zh": "博茨瓦纳",
+    "isoCode": "BWA"
+  },
+  {
+    "zh": "中非共和国",
+    "isoCode": "CAF"
+  },
+  {
+    "zh": "加拿大",
+    "isoCode": "CAN"
+  },
+  {
+    "zh": "中歐和波羅的海",
+    "isoCode": "CEB"
+  },
+  {
+    "zh": "瑞士",
+    "isoCode": "CHE"
+  },
+  {
+    "zh": "海峡群岛",
+    "isoCode": "CHI"
+  },
+  {
+    "zh": "智利",
+    "isoCode": "CHL"
+  },
+  {
+    "zh": "中国",
+    "isoCode": "CHN"
+  },
+  {
+    "zh": "科特迪瓦",
+    "isoCode": "CIV"
+  },
+  {
+    "zh": "喀麦隆",
+    "isoCode": "CMR"
+  },
+  {
+    "zh": "刚果（金）",
+    "isoCode": "COD"
+  },
+  {
+    "zh": "刚果（布）",
+    "isoCode": "COG"
+  },
+  {
+    "zh": "哥伦比亚",
+    "isoCode": "COL"
+  },
+  {
+    "zh": "科摩罗",
+    "isoCode": "COM"
+  },
+  {
+    "zh": "佛得角",
+    "isoCode": "CPV"
+  },
+  {
+    "zh": "哥斯达黎加",
+    "isoCode": "CRI"
+  },
+  {
+    "zh": "加勒比小国",
+    "isoCode": "CSS"
+  },
+  {
+    "zh": "古巴",
+    "isoCode": "CUB"
+  },
+  {
+    "zh": "库拉索",
+    "isoCode": "CUW"
+  },
+  {
+    "zh": "开曼群岛",
+    "isoCode": "CYM"
+  },
+  {
+    "zh": "塞浦路斯",
+    "isoCode": "CYP"
+  },
+  {
+    "zh": "捷克共和国",
+    "isoCode": "CZE"
+  },
+  {
+    "zh": "德国",
+    "isoCode": "DEU"
+  },
+  {
+    "zh": "吉布提",
+    "isoCode": "DJI"
+  },
+  {
+    "zh": "多米尼克",
+    "isoCode": "DMA"
+  },
+  {
+    "zh": "丹麦",
+    "isoCode": "DNK"
+  },
+  {
+    "zh": "多米尼加共和国",
+    "isoCode": "DOM"
+  },
+  {
+    "zh": "阿尔及利亚",
+    "isoCode": "DZA"
+  },
+  {
+    "zh": "东亚与太平洋地区（不包括高收入）",
+    "isoCode": "EAP"
+  },
+  {
+    "zh": "早人口紅利",
+    "isoCode": "EAR"
+  },
+  {
+    "zh": "东亚与太平洋地区",
+    "isoCode": "EAS"
+  },
+  {
+    "zh": "欧洲与中亚地区（不包括高收入）",
+    "isoCode": "ECA"
+  },
+  {
+    "zh": "欧洲与中亚地区",
+    "isoCode": "ECS"
+  },
+  {
+    "zh": "厄瓜多尔",
+    "isoCode": "ECU"
+  },
+  {
+    "zh": "阿拉伯埃及共和国",
+    "isoCode": "EGY"
+  },
+  {
+    "zh": "欧洲货币联盟",
+    "isoCode": "EMU"
+  },
+  {
+    "zh": "厄立特里亚",
+    "isoCode": "ERI"
+  },
+  {
+    "zh": "西班牙",
+    "isoCode": "ESP"
+  },
+  {
+    "zh": "爱沙尼亚",
+    "isoCode": "EST"
+  },
+  {
+    "zh": "埃塞俄比亚",
+    "isoCode": "ETH"
+  },
+  {
+    "zh": "欧洲联盟",
+    "isoCode": "EUU"
+  },
+  {
+    "zh": "脆弱和受衝突影響的情況下",
+    "isoCode": "FCS"
+  },
+  {
+    "zh": "芬兰",
+    "isoCode": "FIN"
+  },
+  {
+    "zh": "斐济",
+    "isoCode": "FJI"
+  },
+  {
+    "zh": "法国",
+    "isoCode": "FRA"
+  },
+  {
+    "zh": "法罗群岛",
+    "isoCode": "FRO"
+  },
+  {
+    "zh": "密克罗尼西亚联邦",
+    "isoCode": "FSM"
+  },
+  {
+    "zh": "加蓬",
+    "isoCode": "GAB"
+  },
+  {
+    "zh": "英国",
+    "isoCode": "GBR"
+  },
+  {
+    "zh": "格鲁吉亚",
+    "isoCode": "GEO"
+  },
+  {
+    "zh": "加纳",
+    "isoCode": "GHA"
+  },
+  {
+    "zh": "直布罗陀",
+    "isoCode": "GIB"
+  },
+  {
+    "zh": "几内亚",
+    "isoCode": "GIN"
+  },
+  {
+    "zh": "冈比亚",
+    "isoCode": "GMB"
+  },
+  {
+    "zh": "几内亚比绍共和国",
+    "isoCode": "GNB"
+  },
+  {
+    "zh": "赤道几内亚",
+    "isoCode": "GNQ"
+  },
+  {
+    "zh": "希腊",
+    "isoCode": "GRC"
+  },
+  {
+    "zh": "格林纳达",
+    "isoCode": "GRD"
+  },
+  {
+    "zh": "格陵兰",
+    "isoCode": "GRL"
+  },
+  {
+    "zh": "危地马拉",
+    "isoCode": "GTM"
+  },
+  {
+    "zh": "关岛",
+    "isoCode": "GUM"
+  },
+  {
+    "zh": "圭亚那",
+    "isoCode": "GUY"
+  },
+  {
+    "zh": "高收入国家",
+    "isoCode": "HIC"
+  },
+  {
+    "zh": "中国香港特别行政区",
+    "isoCode": "HKG"
+  },
+  {
+    "zh": "洪都拉斯",
+    "isoCode": "HND"
+  },
+  {
+    "zh": "重债穷国 (HIPC)",
+    "isoCode": "HPC"
+  },
+  {
+    "zh": "克罗地亚",
+    "isoCode": "HRV"
+  },
+  {
+    "zh": "海地",
+    "isoCode": "HTI"
+  },
+  {
+    "zh": "匈牙利",
+    "isoCode": "HUN"
+  },
+  {
+    "zh": "只有IBRD",
+    "isoCode": "IBD"
+  },
+  {
+    "zh": "IBRD与IDA",
+    "isoCode": "IBT"
+  },
+  {
+    "zh": "IDA總",
+    "isoCode": "IDA"
+  },
+  {
+    "zh": "IDA混合",
+    "isoCode": "IDB"
+  },
+  {
+    "zh": "印度尼西亚",
+    "isoCode": "IDN"
+  },
+  {
+    "zh": "只有IDA",
+    "isoCode": "IDX"
+  },
+  {
+    "zh": "马恩岛",
+    "isoCode": "IMN"
+  },
+  {
+    "zh": "印度",
+    "isoCode": "IND"
+  },
+  {
+    "zh": "未分类国家",
+    "isoCode": "INX"
+  },
+  {
+    "zh": "爱尔兰",
+    "isoCode": "IRL"
+  },
+  {
+    "zh": "伊朗伊斯兰共和国",
+    "isoCode": "IRN"
+  },
+  {
+    "zh": "伊拉克",
+    "isoCode": "IRQ"
+  },
+  {
+    "zh": "冰岛",
+    "isoCode": "ISL"
+  },
+  {
+    "zh": "以色列",
+    "isoCode": "ISR"
+  },
+  {
+    "zh": "意大利",
+    "isoCode": "ITA"
+  },
+  {
+    "zh": "牙买加",
+    "isoCode": "JAM"
+  },
+  {
+    "zh": "约旦",
+    "isoCode": "JOR"
+  },
+  {
+    "zh": "日本",
+    "isoCode": "JPN"
+  },
+  {
+    "zh": "哈萨克斯坦",
+    "isoCode": "KAZ"
+  },
+  {
+    "zh": "肯尼亚",
+    "isoCode": "KEN"
+  },
+  {
+    "zh": "吉尔吉斯斯坦",
+    "isoCode": "KGZ"
+  },
+  {
+    "zh": "柬埔寨",
+    "isoCode": "KHM"
+  },
+  {
+    "zh": "基里巴斯",
+    "isoCode": "KIR"
+  },
+  {
+    "zh": "圣基茨和尼维斯",
+    "isoCode": "KNA"
+  },
+  {
+    "zh": "大韩民国",
+    "isoCode": "KOR"
+  },
+  {
+    "zh": "科威特",
+    "isoCode": "KWT"
+  },
+  {
+    "zh": "拉丁美洲与加勒比海地区（不包括高收入）",
+    "isoCode": "LAC"
+  },
+  {
+    "zh": "老挝",
+    "isoCode": "LAO"
+  },
+  {
+    "zh": "黎巴嫩",
+    "isoCode": "LBN"
+  },
+  {
+    "zh": "利比里亚",
+    "isoCode": "LBR"
+  },
+  {
+    "zh": "利比亚",
+    "isoCode": "LBY"
+  },
+  {
+    "zh": "圣卢西亚",
+    "isoCode": "LCA"
+  },
+  {
+    "zh": "拉丁美洲与加勒比海地区",
+    "isoCode": "LCN"
+  },
+  {
+    "zh": "最不发达国家：联合国分类",
+    "isoCode": "LDC"
+  },
+  {
+    "zh": "低收入国家",
+    "isoCode": "LIC"
+  },
+  {
+    "zh": "列支敦士登",
+    "isoCode": "LIE"
+  },
+  {
+    "zh": "斯里兰卡",
+    "isoCode": "LKA"
+  },
+  {
+    "zh": "中低等收入国家",
+    "isoCode": "LMC"
+  },
+  {
+    "zh": "中低收入国家",
+    "isoCode": "LMY"
+  },
+  {
+    "zh": "莱索托",
+    "isoCode": "LSO"
+  },
+  {
+    "zh": "後期人口紅利",
+    "isoCode": "LTE"
+  },
+  {
+    "zh": "立陶宛",
+    "isoCode": "LTU"
+  },
+  {
+    "zh": "卢森堡",
+    "isoCode": "LUX"
+  },
+  {
+    "zh": "拉脱维亚",
+    "isoCode": "LVA"
+  },
+  {
+    "zh": "中国澳门特别行政区",
+    "isoCode": "MAC"
+  },
+  {
+    "zh": "圣马丁（法属）",
+    "isoCode": "MAF"
+  },
+  {
+    "zh": "摩洛哥",
+    "isoCode": "MAR"
+  },
+  {
+    "zh": "摩纳哥",
+    "isoCode": "MCO"
+  },
+  {
+    "zh": "摩尔多瓦",
+    "isoCode": "MDA"
+  },
+  {
+    "zh": "马达加斯加",
+    "isoCode": "MDG"
+  },
+  {
+    "zh": "马尔代夫",
+    "isoCode": "MDV"
+  },
+  {
+    "zh": "中东与北非地区",
+    "isoCode": "MEA"
+  },
+  {
+    "zh": "墨西哥",
+    "isoCode": "MEX"
+  },
+  {
+    "zh": "马绍尔群岛",
+    "isoCode": "MHL"
+  },
+  {
+    "zh": "中等收入国家",
+    "isoCode": "MIC"
+  },
+  {
+    "zh": "北马其顿",
+    "isoCode": "MKD"
+  },
+  {
+    "zh": "马里",
+    "isoCode": "MLI"
+  },
+  {
+    "zh": "马耳他",
+    "isoCode": "MLT"
+  },
+  {
+    "zh": "缅甸",
+    "isoCode": "MMR"
+  },
+  {
+    "zh": "中东与北非地区（不包括高收入）",
+    "isoCode": "MNA"
+  },
+  {
+    "zh": "黑山",
+    "isoCode": "MNE"
+  },
+  {
+    "zh": "蒙古",
+    "isoCode": "MNG"
+  },
+  {
+    "zh": "北马里亚纳群岛",
+    "isoCode": "MNP"
+  },
+  {
+    "zh": "莫桑比克",
+    "isoCode": "MOZ"
+  },
+  {
+    "zh": "毛里塔尼亚",
+    "isoCode": "MRT"
+  },
+  {
+    "zh": "毛里求斯",
+    "isoCode": "MUS"
+  },
+  {
+    "zh": "马拉维",
+    "isoCode": "MWI"
+  },
+  {
+    "zh": "马来西亚",
+    "isoCode": "MYS"
+  },
+  {
+    "zh": "北美",
+    "isoCode": "NAC"
+  },
+  {
+    "zh": "纳米比亚",
+    "isoCode": "NAM"
+  },
+  {
+    "zh": "新喀里多尼亚",
+    "isoCode": "NCL"
+  },
+  {
+    "zh": "尼日尔",
+    "isoCode": "NER"
+  },
+  {
+    "zh": "尼日利亚",
+    "isoCode": "NGA"
+  },
+  {
+    "zh": "尼加拉瓜",
+    "isoCode": "NIC"
+  },
+  {
+    "zh": "荷兰",
+    "isoCode": "NLD"
+  },
+  {
+    "zh": "挪威",
+    "isoCode": "NOR"
+  },
+  {
+    "zh": "尼泊尔",
+    "isoCode": "NPL"
+  },
+  {
+    "zh": "瑙魯",
+    "isoCode": "NRU"
+  },
+  {
+    "zh": "新西兰",
+    "isoCode": "NZL"
+  },
+  {
+    "zh": "经合组织成员",
+    "isoCode": "OED"
+  },
+  {
+    "zh": "阿曼",
+    "isoCode": "OMN"
+  },
+  {
+    "zh": "其他小国",
+    "isoCode": "OSS"
+  },
+  {
+    "zh": "巴基斯坦",
+    "isoCode": "PAK"
+  },
+  {
+    "zh": "巴拿马",
+    "isoCode": "PAN"
+  },
+  {
+    "zh": "秘鲁",
+    "isoCode": "PER"
+  },
+  {
+    "zh": "菲律宾",
+    "isoCode": "PHL"
+  },
+  {
+    "zh": "帕劳",
+    "isoCode": "PLW"
+  },
+  {
+    "zh": "巴布亚新几内亚",
+    "isoCode": "PNG"
+  },
+  {
+    "zh": "波兰",
+    "isoCode": "POL"
+  },
+  {
+    "zh": "預人口紅利",
+    "isoCode": "PRE"
+  },
+  {
+    "zh": "波多黎各",
+    "isoCode": "PRI"
+  },
+  {
+    "zh": "朝鲜民主主义人民共和国",
+    "isoCode": "PRK"
+  },
+  {
+    "zh": "葡萄牙",
+    "isoCode": "PRT"
+  },
+  {
+    "zh": "巴拉圭",
+    "isoCode": "PRY"
+  },
+  {
+    "zh": "约旦河西岸和加沙",
+    "isoCode": "PSE"
+  },
+  {
+    "zh": "太平洋岛国",
+    "isoCode": "PSS"
+  },
+  {
+    "zh": "人口紅利之後",
+    "isoCode": "PST"
+  },
+  {
+    "zh": "法属波利尼西亚",
+    "isoCode": "PYF"
+  },
+  {
+    "zh": "卡塔尔",
+    "isoCode": "QAT"
+  },
+  {
+    "zh": "罗马尼亚",
+    "isoCode": "ROU"
+  },
+  {
+    "zh": "俄罗斯联邦",
+    "isoCode": "RUS"
+  },
+  {
+    "zh": "卢旺达",
+    "isoCode": "RWA"
+  },
+  {
+    "zh": "南亚",
+    "isoCode": "SAS"
+  },
+  {
+    "zh": "沙特阿拉伯",
+    "isoCode": "SAU"
+  },
+  {
+    "zh": "苏丹",
+    "isoCode": "SDN"
+  },
+  {
+    "zh": "塞内加尔",
+    "isoCode": "SEN"
+  },
+  {
+    "zh": "新加坡",
+    "isoCode": "SGP"
+  },
+  {
+    "zh": "所罗门群岛",
+    "isoCode": "SLB"
+  },
+  {
+    "zh": "塞拉利昂",
+    "isoCode": "SLE"
+  },
+  {
+    "zh": "萨尔瓦多",
+    "isoCode": "SLV"
+  },
+  {
+    "zh": "圣马力诺",
+    "isoCode": "SMR"
+  },
+  {
+    "zh": "索马里",
+    "isoCode": "SOM"
+  },
+  {
+    "zh": "塞尔维亚",
+    "isoCode": "SRB"
+  },
+  {
+    "zh": "撒哈拉以南非洲地区（不包括高收入）",
+    "isoCode": "SSA"
+  },
+  {
+    "zh": "南苏丹",
+    "isoCode": "SSD"
+  },
+  {
+    "zh": "撒哈拉以南非洲地区",
+    "isoCode": "SSF"
+  },
+  {
+    "zh": "小国",
+    "isoCode": "SST"
+  },
+  {
+    "zh": "圣多美和普林西比",
+    "isoCode": "STP"
+  },
+  {
+    "zh": "苏里南",
+    "isoCode": "SUR"
+  },
+  {
+    "zh": "斯洛伐克共和国",
+    "isoCode": "SVK"
+  },
+  {
+    "zh": "斯洛文尼亚",
+    "isoCode": "SVN"
+  },
+  {
+    "zh": "瑞典",
+    "isoCode": "SWE"
+  },
+  {
+    "zh": "斯威士兰",
+    "isoCode": "SWZ"
+  },
+  {
+    "zh": "圣马丁(荷属)",
+    "isoCode": "SXM"
+  },
+  {
+    "zh": "塞舌尔",
+    "isoCode": "SYC"
+  },
+  {
+    "zh": "阿拉伯叙利亚共和国",
+    "isoCode": "SYR"
+  },
+  {
+    "zh": "特克斯科斯群岛",
+    "isoCode": "TCA"
+  },
+  {
+    "zh": "乍得",
+    "isoCode": "TCD"
+  },
+  {
+    "zh": "东亚与太平洋地区 (IBRD与IDA)",
+    "isoCode": "TEA"
+  },
+  {
+    "zh": "欧洲与中亚地区 (IBRD与IDA)",
+    "isoCode": "TEC"
+  },
+  {
+    "zh": "多哥",
+    "isoCode": "TGO"
+  },
+  {
+    "zh": "泰国",
+    "isoCode": "THA"
+  },
+  {
+    "zh": "塔吉克斯坦",
+    "isoCode": "TJK"
+  },
+  {
+    "zh": "土库曼斯坦",
+    "isoCode": "TKM"
+  },
+  {
+    "zh": "拉丁美洲与加勒比海地区 (IBRD与IDA)",
+    "isoCode": "TLA"
+  },
+  {
+    "zh": "东帝汶",
+    "isoCode": "TLS"
+  },
+  {
+    "zh": "中东与北非地区 (IBRD与IDA)",
+    "isoCode": "TMN"
+  },
+  {
+    "zh": "汤加",
+    "isoCode": "TON"
+  },
+  {
+    "zh": "南亚 (IBRD与IDA)",
+    "isoCode": "TSA"
+  },
+  {
+    "zh": "撒哈拉以南非洲地区 (IBRD与IDA)",
+    "isoCode": "TSS"
+  },
+  {
+    "zh": "特立尼达和多巴哥",
+    "isoCode": "TTO"
+  },
+  {
+    "zh": "突尼斯",
+    "isoCode": "TUN"
+  },
+  {
+    "zh": "土耳其",
+    "isoCode": "TUR"
+  },
+  {
+    "zh": "图瓦卢",
+    "isoCode": "TUV"
+  },
+  {
+    "zh": "坦桑尼亚",
+    "isoCode": "TZA"
+  },
+  {
+    "zh": "乌干达",
+    "isoCode": "UGA"
+  },
+  {
+    "zh": "乌克兰",
+    "isoCode": "UKR"
+  },
+  {
+    "zh": "中高等收入国家",
+    "isoCode": "UMC"
+  },
+  {
+    "zh": "乌拉圭",
+    "isoCode": "URY"
+  },
+  {
+    "zh": "美国",
+    "isoCode": "USA"
+  },
+  {
+    "zh": "乌兹别克斯坦",
+    "isoCode": "UZB"
+  },
+  {
+    "zh": "圣文森特和格林纳丁斯",
+    "isoCode": "VCT"
+  },
+  {
+    "zh": "委内瑞拉玻利瓦尔共和国",
+    "isoCode": "VEN"
+  },
+  {
+    "zh": "英屬維爾京群島",
+    "isoCode": "VGB"
+  },
+  {
+    "zh": "美属维京群岛",
+    "isoCode": "VIR"
+  },
+  {
+    "zh": "越南",
+    "isoCode": "VNM"
+  },
+  {
+    "zh": "瓦努阿图",
+    "isoCode": "VUT"
+  },
+  {
+    "zh": "世界",
+    "isoCode": "WLD"
+  },
+  {
+    "zh": "萨摩亚",
+    "isoCode": "WSM"
+  },
+  {
+    "zh": "科索沃",
+    "isoCode": "XKX"
+  },
+  {
+    "zh": "也门共和国",
+    "isoCode": "YEM"
+  },
+  {
+    "zh": "南非",
+    "isoCode": "ZAF"
+  },
+  {
+    "zh": "赞比亚",
+    "isoCode": "ZMB"
+  },
+  {
+    "zh": "津巴布韦",
+    "isoCode": "ZWE"
+  }
+]

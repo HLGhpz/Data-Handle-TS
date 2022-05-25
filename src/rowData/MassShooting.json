@@ -1,0 +1,3081 @@
+[{
+  "IncidentDate": "October 1, 2017",
+  "State": "Nevada",
+  "CityOrCounty": "Las Vegas",
+  "Address": "3950 Las Vegas Blvd S",
+  "Killed": "59",
+  "Injured": "441"
+}, {
+  "IncidentDate": "June 12, 2016",
+  "State": "Florida",
+  "CityOrCounty": "Orlando",
+  "Address": "1912 S Orange Ave",
+  "Killed": "50",
+  "Injured": "53"
+}, {
+  "IncidentDate": "December 14, 2012",
+  "State": "Connecticut",
+  "CityOrCounty": "Sandy Hook",
+  "Address": "12 Dickenson Dr",
+  "Killed": "28",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 5, 2017",
+  "State": "Texas",
+  "CityOrCounty": "Sutherland Springs",
+  "Address": "216 4th St",
+  "Killed": "27",
+  "Injured": "20"
+}, {
+  "IncidentDate": "August 3, 2019",
+  "State": "Texas",
+  "CityOrCounty": "El Paso",
+  "Address": "7101 Gateway Blvd",
+  "Killed": "23",
+  "Injured": "23"
+}, {
+  "IncidentDate": "February 14, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Pompano Beach (Parkland)",
+  "Address": "5901 Pine Island Rd",
+  "Killed": "17",
+  "Injured": "17"
+}, {
+  "IncidentDate": "December 2, 2015",
+  "State": "California",
+  "CityOrCounty": "San Bernardino",
+  "Address": "1365 South Waterman Ave",
+  "Killed": "16",
+  "Injured": "19"
+}, {
+  "IncidentDate": "November 7, 2018",
+  "State": "California",
+  "CityOrCounty": "Thousand Oaks",
+  "Address": "99 Rolling Oaks Dr",
+  "Killed": "13",
+  "Injured": "2"
+}, {
+  "IncidentDate": "September 16, 2013",
+  "State": "District of Columbia",
+  "CityOrCounty": "Washington Navy Yard",
+  "Address": "1336 Isaac Hull Ave",
+  "Killed": "13",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 31, 2019",
+  "State": "Virginia",
+  "CityOrCounty": "Virginia Beach",
+  "Address": "2405 Courthouse Drive",
+  "Killed": "13",
+  "Injured": "4"
+}, {
+  "IncidentDate": "October 27, 2018",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Pittsburgh",
+  "Address": "5898 Wilkins Ave",
+  "Killed": "11",
+  "Injured": "7"
+}, {
+  "IncidentDate": "May 26, 2021",
+  "State": "California",
+  "CityOrCounty": "San Jose",
+  "Address": "101 W Younger Ave",
+  "Killed": "10",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 14, 2022",
+  "State": "New York",
+  "CityOrCounty": "Buffalo",
+  "Address": "1275 Jefferson Ave",
+  "Killed": "10",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 18, 2018",
+  "State": "Texas",
+  "CityOrCounty": "Santa Fe",
+  "Address": "16000 Hwy 6",
+  "Killed": "10",
+  "Injured": "13"
+}, {
+  "IncidentDate": "August 4, 2019",
+  "State": "Ohio",
+  "CityOrCounty": "Dayton",
+  "Address": "419 E 5th St",
+  "Killed": "10",
+  "Injured": "17"
+}, {
+  "IncidentDate": "October 1, 2015",
+  "State": "Oregon",
+  "CityOrCounty": "Roseburg",
+  "Address": "1140 Umpqua College Rd",
+  "Killed": "10",
+  "Injured": "9"
+}, {
+  "IncidentDate": "March 22, 2021",
+  "State": "Colorado",
+  "CityOrCounty": "Boulder",
+  "Address": "3600 Table Mesa Dr",
+  "Killed": "10",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 15, 2021",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "8951 Mirabel Rd",
+  "Killed": "9",
+  "Injured": "7"
+}, {
+  "IncidentDate": "May 17, 2015",
+  "State": "Texas",
+  "CityOrCounty": "Waco",
+  "Address": "4671 S Jack Kultgen Fwy",
+  "Killed": "9",
+  "Injured": "18"
+}, {
+  "IncidentDate": "June 17, 2015",
+  "State": "South Carolina",
+  "CityOrCounty": "Charleston",
+  "Address": "110 Calhoun Street",
+  "Killed": "9",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 10, 2017",
+  "State": "Texas",
+  "CityOrCounty": "Plano",
+  "Address": "1712 West Spring Creek Parkway",
+  "Killed": "9",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 18, 2014",
+  "State": "Florida",
+  "CityOrCounty": "Bell",
+  "Address": "2550 NW 29th Terrace",
+  "Killed": "8",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 26, 2015",
+  "State": "Missouri",
+  "CityOrCounty": "Tyrone",
+  "Address": "18279 Highway H",
+  "Killed": "8",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 27, 2017",
+  "State": "Mississippi",
+  "CityOrCounty": "Bogue Chitto",
+  "Address": "2871 Lee Dr",
+  "Killed": "8",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 8, 2015",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "2211 Falling Oaks",
+  "Killed": "8",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 22, 2016",
+  "State": "Ohio",
+  "CityOrCounty": "Piketon",
+  "Address": "4077 Union Hill Rd",
+  "Killed": "8",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 16, 2021",
+  "State": "Georgia",
+  "CityOrCounty": "Acworth",
+  "Address": "6468 Hwy 92",
+  "Killed": "8",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 31, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Odessa",
+  "Address": "8250 TX 191",
+  "Killed": "8",
+  "Injured": "23"
+}, {
+  "IncidentDate": "December 15, 2014",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Lansdale",
+  "Address": "100 block of West 5th St",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 7, 2020",
+  "State": "California",
+  "CityOrCounty": "Aguanga",
+  "Address": "45125 Highway 371",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 9, 2021",
+  "State": "Colorado",
+  "CityOrCounty": "Colorado Springs",
+  "Address": "2828 Preakness Way",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 15, 2020",
+  "State": "North Carolina",
+  "CityOrCounty": "Moncure",
+  "Address": "842 Moncure Flatwood Rd",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 4, 2020",
+  "State": "Alabama",
+  "CityOrCounty": "Valhermoso Springs",
+  "Address": "522 Talucah Rd",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 26, 2013",
+  "State": "Florida",
+  "CityOrCounty": "Hialeah",
+  "Address": "1485 W 46th St",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 7, 2021",
+  "State": "South Carolina",
+  "CityOrCounty": "Rock Hill",
+  "Address": "4456 Marshall Rd",
+  "Killed": "7",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 10, 2019",
+  "State": "New Jersey",
+  "CityOrCounty": "Jersey City",
+  "Address": "223 Martin Luther King Dr",
+  "Killed": "6",
+  "Injured": "3"
+}, {
+  "IncidentDate": "July 16, 2015",
+  "State": "Tennessee",
+  "CityOrCounty": "Chattanooga",
+  "Address": "4051 Amnicola Hwy",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "December 8, 2020",
+  "State": "West Virginia",
+  "CityOrCounty": "Williamsburg",
+  "Address": "611 Flynns Creek Rd",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 26, 2020",
+  "State": "Wisconsin",
+  "CityOrCounty": "Milwaukee",
+  "Address": "3939 W Highland Blvd",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 11, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Orlando",
+  "Address": "4932 Eaglesmere Dr",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 5, 2022",
+  "State": "Texas",
+  "CityOrCounty": "Corsicana",
+  "Address": "2919 W 2nd Ave",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 24, 2013",
+  "State": "Illinois",
+  "CityOrCounty": "Manchester",
+  "Address": "East Street",
+  "Killed": "6",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 2, 2021",
+  "State": "Oklahoma",
+  "CityOrCounty": "Muskogee",
+  "Address": "903 Indiana St",
+  "Killed": "6",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 12, 2018",
+  "State": "California",
+  "CityOrCounty": "Bakersfield",
+  "Address": "660 Manwell Blvd",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 3, 2022",
+  "State": "California",
+  "CityOrCounty": "Sacramento",
+  "Address": "J St and 10th St",
+  "Killed": "6",
+  "Injured": "12"
+}, {
+  "IncidentDate": "June 7, 2013",
+  "State": "California",
+  "CityOrCounty": "Santa Monica",
+  "Address": "2036 Yorkshire Ave",
+  "Killed": "6",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 3, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Allen",
+  "Address": "1517 Pine Bluff Dr",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 11, 2020",
+  "State": "Louisiana",
+  "CityOrCounty": "Monroe",
+  "Address": "1101 Richwood Road 2",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 16, 2019",
+  "State": "California",
+  "CityOrCounty": "San Diego",
+  "Address": "2152 Flintridge Dr",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 27, 2016",
+  "State": "Virginia",
+  "CityOrCounty": "Chesapeake",
+  "Address": "1401 N. George Washington Hwy",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 9, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Spring",
+  "Address": "711 Leaflet Ln",
+  "Killed": "6",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 20, 2016",
+  "State": "Michigan",
+  "CityOrCounty": "Kalamazoo",
+  "Address": "5581 Cracker Barrel Blvd",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "December 27, 2021",
+  "State": "Colorado",
+  "CityOrCounty": "Denver",
+  "Address": "56 Broadway",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 15, 2019",
+  "State": "Illinois",
+  "CityOrCounty": "Aurora",
+  "Address": "641 Archer Ave",
+  "Killed": "6",
+  "Injured": "6"
+}, {
+  "IncidentDate": "March 9, 2016",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Pittsburgh (Wilkinsburg)",
+  "Address": "1304 Franklin Ave",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 23, 2022",
+  "State": "Wisconsin",
+  "CityOrCounty": "Milwaukee",
+  "Address": "2505 N 21st St",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 5, 2017",
+  "State": "Florida",
+  "CityOrCounty": "Orlando",
+  "Address": "2427 Forsyth Rd",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 22, 2016",
+  "State": "Georgia",
+  "CityOrCounty": "Appling",
+  "Address": "3162 Johnson Drive",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 17, 2015",
+  "State": "South Dakota",
+  "CityOrCounty": "Geddes",
+  "Address": "36705 379th Street",
+  "Killed": "6",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 14, 2017",
+  "State": "California",
+  "CityOrCounty": "Corning",
+  "Address": "17357 Stagecoach Rd",
+  "Killed": "6",
+  "Injured": "12"
+}, {
+  "IncidentDate": "January 9, 2021",
+  "State": "Illinois",
+  "CityOrCounty": "Evanston",
+  "Address": "100 Asbury Ave",
+  "Killed": "6",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 10, 2018",
+  "State": "Kentucky",
+  "CityOrCounty": "Paintsville",
+  "Address": "413 Mill St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 17, 2016",
+  "State": "Louisiana",
+  "CityOrCounty": "Baton Rouge",
+  "Address": "9611 Airline Hwy",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 15, 2021",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "6221 S Morgan St",
+  "Killed": "5",
+  "Injured": "3"
+}, {
+  "IncidentDate": "July 26, 2014",
+  "State": "Maine",
+  "CityOrCounty": "Saco",
+  "Address": "35 Water Street",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 28, 2018",
+  "State": "Maryland",
+  "CityOrCounty": "Annapolis",
+  "Address": "888 Bestgate Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 17, 2016",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago (Roseland)",
+  "Address": "100 block of W 105th St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 26, 2016",
+  "State": "Washington",
+  "CityOrCounty": "Belfair",
+  "Address": "300 block of Horseshoe Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 24, 2014",
+  "State": "Washington",
+  "CityOrCounty": "Marysville",
+  "Address": "5611 108th St NE",
+  "Killed": "5",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 22, 2017",
+  "State": "Wisconsin",
+  "CityOrCounty": "Rothschild",
+  "Address": "1133 E Grand Ave",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 16, 2015",
+  "State": "Arizona",
+  "CityOrCounty": "Phoenix",
+  "Address": "4300 block of East Anderson Drive",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 23, 2019",
+  "State": "California",
+  "CityOrCounty": "San Jose",
+  "Address": "568 Habbitts Court",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 6, 2019",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "1921 Chambers Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 7, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Dallas",
+  "Address": "800 Main St",
+  "Killed": "5",
+  "Injured": "9"
+}, {
+  "IncidentDate": "October 29, 2013",
+  "State": "South Carolina",
+  "CityOrCounty": "Bradley (Callison)",
+  "Address": "Callison Highway",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 7, 2015",
+  "State": "Georgia",
+  "CityOrCounty": "Douglasville",
+  "Address": "3640 Willow Tree Circle",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 31, 2019",
+  "State": "California",
+  "CityOrCounty": "Orinda",
+  "Address": "114 Lucille Way",
+  "Killed": "5",
+  "Injured": "3"
+}, {
+  "IncidentDate": "October 15, 2018",
+  "State": "Tennessee",
+  "CityOrCounty": "Columbia",
+  "Address": "1075 Carters Creek Pike",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 29, 2016",
+  "State": "Nevada",
+  "CityOrCounty": "Las Vegas",
+  "Address": "6100 block of West Lake Mead Boulevard",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 28, 2021",
+  "State": "North Carolina",
+  "CityOrCounty": "Boone",
+  "Address": "553 Hardaman Cir",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 12, 2015",
+  "State": "Arizona",
+  "CityOrCounty": "Tucson",
+  "Address": "800 block of West Calle Medina Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 15, 2020",
+  "State": "Missouri",
+  "CityOrCounty": "Springfield",
+  "Address": "3264 E Battlefield Rd",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 8, 2019",
+  "State": "Washington",
+  "CityOrCounty": "White Swan",
+  "Address": "5151 Medicine Valley Rd",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 20, 2016",
+  "State": "Alabama",
+  "CityOrCounty": "Citronelle",
+  "Address": "Jim Platt Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 25, 2021",
+  "State": "California",
+  "CityOrCounty": "Wasco",
+  "Address": "1718 1st St",
+  "Killed": "5",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 7, 2015",
+  "State": "Montana",
+  "CityOrCounty": "Deer Lodge",
+  "Address": "Boulder Creek Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 29, 2020",
+  "State": "Ohio",
+  "CityOrCounty": "Elyria",
+  "Address": "537 Willow Park Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 21, 2019",
+  "State": "California",
+  "CityOrCounty": "Santa Maria",
+  "Address": "519 West Taylor St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 6, 2017",
+  "State": "Florida",
+  "CityOrCounty": "Fort Lauderdale",
+  "Address": "100 Terminal Dr",
+  "Killed": "5",
+  "Injured": "6"
+}, {
+  "IncidentDate": "April 20, 2022",
+  "State": "Minnesota",
+  "CityOrCounty": "Duluth",
+  "Address": "715 E 12th St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 22, 2015",
+  "State": "Georgia",
+  "CityOrCounty": "Suwanee",
+  "Address": "5500 block of Old Atlanta Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 22, 2020",
+  "State": "Mississippi",
+  "CityOrCounty": "Meridian",
+  "Address": "Jeffrey Acres Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 7, 2017",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "3829 Mount Pleasant St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 15, 2015",
+  "State": "Texas",
+  "CityOrCounty": "Tennessee Colony",
+  "Address": "800 block of An County Rd 2217",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 25, 2020",
+  "State": "Arkansas",
+  "CityOrCounty": "Atkins",
+  "Address": "5180 Pine Ridge Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 12, 2019",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "6733 W Irving Park Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 9, 2018",
+  "State": "Delaware",
+  "CityOrCounty": "Wilmington",
+  "Address": "2709 Ferris Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 11, 2016",
+  "State": "New Mexico",
+  "CityOrCounty": "Roswell",
+  "Address": "2300 block of Davis Ave",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 24, 2021",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "3540 Adams St",
+  "Killed": "5",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 16, 2014",
+  "State": "Utah",
+  "CityOrCounty": "Spanish Fork",
+  "Address": "37 N. 630 West",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 11, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Livingston",
+  "Address": "3628 FM 3126",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 28, 2018",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Melcroft",
+  "Address": "1301 Indian Creek Valley Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 23, 2016",
+  "State": "Arizona",
+  "CityOrCounty": "Glendale",
+  "Address": "4812 West Sunnyside Ave",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 28, 2021",
+  "State": "Maryland",
+  "CityOrCounty": "Essex",
+  "Address": "1601 Middleborough Rd",
+  "Killed": "5",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 8, 2014",
+  "State": "Florida",
+  "CityOrCounty": "Fort Myers",
+  "Address": "17372 Phlox Drive",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 28, 2019",
+  "State": "Wisconsin",
+  "CityOrCounty": "Chippewa Falls",
+  "Address": "16964 54th Ave",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 26, 2018",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "22700 Fenkell Ave",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 7, 2016",
+  "State": "Kansas",
+  "CityOrCounty": "Kansas City",
+  "Address": "3000 block of South 36th Street",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 28, 2021",
+  "State": "California",
+  "CityOrCounty": "Lancaster",
+  "Address": "3500 block of Garnet Lane",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "August 3, 2014",
+  "State": "Virginia",
+  "CityOrCounty": "Culpeper",
+  "Address": "14458 Rixeyville Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 2, 2019",
+  "State": "Alabama",
+  "CityOrCounty": "Elkmont",
+  "Address": "25019 Ridge Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 16, 2018",
+  "State": "Texas",
+  "CityOrCounty": "Ponder",
+  "Address": "610 Lone Star Park Ln",
+  "Killed": "5",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 6, 2016",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Reading (Sinking Spring)",
+  "Address": "51 Winding Brook Drive",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 28, 2022",
+  "State": "California",
+  "CityOrCounty": "Sacramento",
+  "Address": "2041 Wyda Way",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 20, 2013",
+  "State": "Texas",
+  "CityOrCounty": "Rice",
+  "Address": "700 block of NW 0149",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 7, 2019",
+  "State": "Massachusetts",
+  "CityOrCounty": "Abington",
+  "Address": "135 Centre Ave",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 27, 2018",
+  "State": "Texas",
+  "CityOrCounty": "Robstown",
+  "Address": "603 East Ave J",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 23, 2016",
+  "State": "Washington",
+  "CityOrCounty": "Burlington",
+  "Address": "201 Cascade Mall Dr",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 13, 2013",
+  "State": "New York",
+  "CityOrCounty": "Mohawk",
+  "Address": "17 W Main St",
+  "Killed": "5",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 24, 2020",
+  "State": "North Carolina",
+  "CityOrCounty": "Vanceboro",
+  "Address": "107 Kinshaw Ct",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 23, 2019",
+  "State": "Florida",
+  "CityOrCounty": "Sebring",
+  "Address": "1901 US 27 S",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 15, 2017",
+  "State": "New Mexico",
+  "CityOrCounty": "La Madera",
+  "Address": "491 NM-111",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 11, 2013",
+  "State": "Indiana",
+  "CityOrCounty": "Columbus",
+  "Address": "E Main Cross St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 27, 2020",
+  "State": "Wisconsin",
+  "CityOrCounty": "Milwaukee",
+  "Address": "2800 block of N 12th St",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 16, 2019",
+  "State": "Mississippi",
+  "CityOrCounty": "Clinton",
+  "Address": "1214 Foxhill Dr",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 15, 2016",
+  "State": "Georgia",
+  "CityOrCounty": "Moultrie",
+  "Address": "Rossman Dairy Road",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 21, 2013",
+  "State": "Washington",
+  "CityOrCounty": "Federal Way",
+  "Address": "33300 block of 18th Lane South",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 7, 2015",
+  "State": "Minnesota",
+  "CityOrCounty": "Excelsior",
+  "Address": "Channel Drive",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 26, 2019",
+  "State": "Louisiana",
+  "CityOrCounty": "Gonzales",
+  "Address": "42350 Church Point Rd",
+  "Killed": "5",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 25, 2014",
+  "State": "Virginia",
+  "CityOrCounty": "Glade Spring",
+  "Address": "33325 Graceland Ln",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 18, 2021",
+  "State": "Arizona",
+  "CityOrCounty": "Tucson",
+  "Address": "1575 E 36th St",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "January 7, 2013",
+  "State": "Oklahoma",
+  "CityOrCounty": "Tulsa",
+  "Address": "6000 block of South Owasso",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 2, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Fort Hood",
+  "Address": "Motor Pool Road and Tank Destroyer Boulevard",
+  "Killed": "4",
+  "Injured": "16"
+}, {
+  "IncidentDate": "July 25, 2019",
+  "State": "California",
+  "CityOrCounty": "Canoga Park",
+  "Address": "21901 Roscoe Boulevard",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 19, 2016",
+  "State": "Missouri",
+  "CityOrCounty": "Edgerton",
+  "Address": "4100 block of Buena Vista Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 12, 2021",
+  "State": "Minnesota",
+  "CityOrCounty": "Saint Paul",
+  "Address": "7th St W and N Walnut St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 12, 2012",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans",
+  "Address": "7400 block of Devine Avenue",
+  "Killed": "4",
+  "Injured": "4"
+}, {
+  "IncidentDate": "October 26, 2014",
+  "State": "Kentucky",
+  "CityOrCounty": "Cadiz",
+  "Address": "1410 Old Dover Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 12, 2019",
+  "State": "New Mexico",
+  "CityOrCounty": "Albuquerque",
+  "Address": "1028 Lura Pl SW",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 1, 2016",
+  "State": "Illinois",
+  "CityOrCounty": "Pembroke Township",
+  "Address": "17250E Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 21, 2021",
+  "State": "Washington",
+  "CityOrCounty": "Tacoma",
+  "Address": "4258 Everett St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 20, 2014",
+  "State": "Illinois",
+  "CityOrCounty": "Rockford",
+  "Address": "3200 block of Montrose Avenue",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 21, 2019",
+  "State": "Ohio",
+  "CityOrCounty": "Cleveland",
+  "Address": "3616 East 144th St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 9, 2017",
+  "State": "Mississippi",
+  "CityOrCounty": "Jackson",
+  "Address": "3150 Robinson Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 1, 2013",
+  "State": "Texas",
+  "CityOrCounty": "Fort Worth",
+  "Address": "2900 block of Pate Drive",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 12, 2019",
+  "State": "New York",
+  "CityOrCounty": "Brooklyn",
+  "Address": "75 Utica Ave",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "November 23, 2013",
+  "State": "Oklahoma",
+  "CityOrCounty": "Tulsa",
+  "Address": "Pine Street and Harvard Avenue",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 23, 2015",
+  "State": "Ohio",
+  "CityOrCounty": "Columbus",
+  "Address": "90 block of S Terrace Ave",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 24, 2021",
+  "State": "Ohio",
+  "CityOrCounty": "West Jefferson",
+  "Address": "127 Jackson St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 29, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Beaumont",
+  "Address": "4100 block of Highland Ave",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 3, 2014",
+  "State": "Arkansas",
+  "CityOrCounty": "Jonesboro",
+  "Address": "2201 Moore Rd",
+  "Killed": "4",
+  "Injured": "4"
+}, {
+  "IncidentDate": "October 5, 2017",
+  "State": "Arizona",
+  "CityOrCounty": "Casa Grande",
+  "Address": "400 block of W 13th Street",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 12, 2013",
+  "State": "Tennessee",
+  "CityOrCounty": "Crab Orchard",
+  "Address": "N/A",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 8, 2021",
+  "State": "Maryland",
+  "CityOrCounty": "Gwynn Oak (Woodlawn)",
+  "Address": "7300 block of Maury Rd",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 9, 2015",
+  "State": "California",
+  "CityOrCounty": "San Francisco",
+  "Address": "Laguna St and Page St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 17, 2020",
+  "State": "Utah",
+  "CityOrCounty": "Grantsville",
+  "Address": "93 Eastmoor Dr",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 11, 2018",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "19432 Lamont St",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "September 8, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Del Valle",
+  "Address": "8330 Linden Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 24, 2021",
+  "State": "South Carolina",
+  "CityOrCounty": "Aiken",
+  "Address": "749 Silver Bluff Rd",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 31, 2015",
+  "State": "Georgia",
+  "CityOrCounty": "Lagrange",
+  "Address": "113 Woodstream Trl",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 22, 2020",
+  "State": "North Carolina",
+  "CityOrCounty": "Charlotte",
+  "Address": "1800 block of Beatties Ford Rd",
+  "Killed": "4",
+  "Injured": "5"
+}, {
+  "IncidentDate": "August 12, 2018",
+  "State": "California",
+  "CityOrCounty": "Clearlake",
+  "Address": "4786 Yarrington Ct",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 27, 2016",
+  "State": "Georgia",
+  "CityOrCounty": "Jackson",
+  "Address": "600 block of Moccasin Gap Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 27, 2022",
+  "State": "Mississippi",
+  "CityOrCounty": "Biloxi",
+  "Address": "2688 Beach Blvd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 24, 2015",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "3100 block of North Harding Street",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 7, 2020",
+  "State": "New Jersey",
+  "CityOrCounty": "Paterson",
+  "Address": "Harrison St and Carroll St",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "October 13, 2018",
+  "State": "Texas",
+  "CityOrCounty": "Taft",
+  "Address": "511 Wilburn St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 5, 2016",
+  "State": "New Mexico",
+  "CityOrCounty": "Albuquerque",
+  "Address": "1532 Stagecoach Lane",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 15, 2015",
+  "State": "South Carolina",
+  "CityOrCounty": "Holly Hill",
+  "Address": "7050 Old State Road",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 30, 2020",
+  "State": "Alaska",
+  "CityOrCounty": "Palmer",
+  "Address": "335 N Valley Way",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 19, 2018",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Philadelphia",
+  "Address": "5100 block of Malcolm St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 24, 2016",
+  "State": "North Carolina",
+  "CityOrCounty": "Wilson",
+  "Address": "2241 Banks Lane East",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 13, 2015",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "1300 block of South Shirley Oaks Drive",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 31, 2021",
+  "State": "California",
+  "CityOrCounty": "Orange",
+  "Address": "202 West Lincoln Ave",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 8, 2014",
+  "State": "New York",
+  "CityOrCounty": "Guilderland",
+  "Address": "1846 Western Ave",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 28, 2019",
+  "State": "California",
+  "CityOrCounty": "Gilroy",
+  "Address": "7050 Miller Ave",
+  "Killed": "4",
+  "Injured": "17"
+}, {
+  "IncidentDate": "December 31, 2017",
+  "State": "New Jersey",
+  "CityOrCounty": "Long Branch",
+  "Address": "635 Wall St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 5, 2013",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "1100 block of Randolph",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 20, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Jacksonville",
+  "Address": "16241 TX-110",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 15, 2014",
+  "State": "Missouri",
+  "CityOrCounty": "Springfield",
+  "Address": "2555 N. Glenstone",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 30, 2019",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Philadelphia",
+  "Address": "5026 Walton Ave",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 18, 2018",
+  "State": "North Carolina",
+  "CityOrCounty": "Asheville",
+  "Address": "73 Hansel Ave",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "July 23, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Bastrop",
+  "Address": "202 Childers Drive",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 25, 2021",
+  "State": "Tennessee",
+  "CityOrCounty": "Athens",
+  "Address": "Co Rd 60",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 7, 2015",
+  "State": "Vermont",
+  "CityOrCounty": "Barre",
+  "Address": "3182 Airport Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 17, 2019",
+  "State": "Montana",
+  "CityOrCounty": "Great Falls",
+  "Address": "1701 10th Ave S",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 17, 2018",
+  "State": "Maryland",
+  "CityOrCounty": "Silver Spring",
+  "Address": "123 Amberleigh Dr",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 7, 2017",
+  "State": "Minnesota",
+  "CityOrCounty": "Saint Paul",
+  "Address": "1600 block of English St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 31, 2021",
+  "State": "Mississippi",
+  "CityOrCounty": "Gulfport",
+  "Address": "1200 block of Lewis Ave",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "October 9, 2013",
+  "State": "Texas",
+  "CityOrCounty": "Paris",
+  "Address": "400 block of NE 6th Street",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 5, 2020",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "4100 block of Shady Oak Dr",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 28, 2018",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Charles",
+  "Address": "150 Whetstone Dr",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 5, 2017",
+  "State": "Maine",
+  "CityOrCounty": "Madison",
+  "Address": "300 block of Russell Rd",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 7, 2013",
+  "State": "Texas",
+  "CityOrCounty": "Dallas",
+  "Address": "7100 block of Long Canyon Trail",
+  "Killed": "4",
+  "Injured": "4"
+}, {
+  "IncidentDate": "November 3, 2020",
+  "State": "Nevada",
+  "CityOrCounty": "Henderson",
+  "Address": "1445 Stonelake Cove Ave",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 3, 2019",
+  "State": "California",
+  "CityOrCounty": "Palm Springs",
+  "Address": "E Sunny Dunes Rd and El Placer Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 11, 2017",
+  "State": "Ohio",
+  "CityOrCounty": "Pedro",
+  "Address": "15497 SR 93",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "August 14, 2013",
+  "State": "Oklahoma",
+  "CityOrCounty": "Oklahoma City",
+  "Address": "4601 SE 79",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 13, 2021",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "300 block of N Randolph St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 20, 2014",
+  "State": "California",
+  "CityOrCounty": "Alturas",
+  "Address": "300 W 1st St",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 28, 2019",
+  "State": "Ohio",
+  "CityOrCounty": "West Chester",
+  "Address": "4637 Wyndtree Dr",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 30, 2017",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "2704 E 75th St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "August 25, 2013",
+  "State": "Florida",
+  "CityOrCounty": "Lake Butler",
+  "Address": "1050 Southeast 6th Street",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 30, 2021",
+  "State": "Michigan",
+  "CityOrCounty": "Oxford",
+  "Address": "745 N Oxford Rd",
+  "Killed": "4",
+  "Injured": "7"
+}, {
+  "IncidentDate": "November 22, 2014",
+  "State": "Ohio",
+  "CityOrCounty": "Cleveland",
+  "Address": "1443 E 92nd St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 6, 2019",
+  "State": "Kansas",
+  "CityOrCounty": "Kansas City",
+  "Address": "1013 Central Ave",
+  "Killed": "4",
+  "Injured": "5"
+}, {
+  "IncidentDate": "June 14, 2017",
+  "State": "California",
+  "CityOrCounty": "San Francisco",
+  "Address": "720 San Bruno",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 11, 2013",
+  "State": "New York",
+  "CityOrCounty": "Brooklyn",
+  "Address": "318 Maujer St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 30, 2021",
+  "State": "Georgia",
+  "CityOrCounty": "Rex",
+  "Address": "3600 block of Jervis Court",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "December 22, 2014",
+  "State": "New York",
+  "CityOrCounty": "Webster",
+  "Address": "191 Lake Rd",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 17, 2019",
+  "State": "California",
+  "CityOrCounty": "Fresno",
+  "Address": "5361 E Lamona Ave",
+  "Killed": "4",
+  "Injured": "6"
+}, {
+  "IncidentDate": "August 21, 2017",
+  "State": "North Carolina",
+  "CityOrCounty": "Whitakers",
+  "Address": "980 Fishing Creek Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "December 1, 2013",
+  "State": "Kansas",
+  "CityOrCounty": "Topeka",
+  "Address": "1629 SW Central Park",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "April 21, 2022",
+  "State": "Arkansas",
+  "CityOrCounty": "Mountain View",
+  "Address": "646 Northcutt Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "June 13, 2015",
+  "State": "Ohio",
+  "CityOrCounty": "Columbus",
+  "Address": "1623 E. Hudson Street",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 15, 2020",
+  "State": "Michigan",
+  "CityOrCounty": "Belleville",
+  "Address": "24914 Martinsville Rd",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 28, 2018",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Reading",
+  "Address": "123 S 3rd St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 15, 2016",
+  "State": "California",
+  "CityOrCounty": "Los Angeles",
+  "Address": "2918 Rimpau Blvd",
+  "Killed": "4",
+  "Injured": "11"
+}, {
+  "IncidentDate": "November 2, 2015",
+  "State": "South Carolina",
+  "CityOrCounty": "Pendleton",
+  "Address": "2217 Refuge Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "March 16, 2021",
+  "State": "Arizona",
+  "CityOrCounty": "Phoenix",
+  "Address": "6215 W Elm St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 22, 2018",
+  "State": "Tennessee",
+  "CityOrCounty": "Antioch",
+  "Address": "3571 Murfreesboro Pike",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "December 9, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Channelview",
+  "Address": "15300 block of Market",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "July 26, 2013",
+  "State": "West Virginia",
+  "CityOrCounty": "Clarksburg",
+  "Address": "743 Locust Avenue",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "September 5, 2021",
+  "State": "Florida",
+  "CityOrCounty": "Lakeland",
+  "Address": "N Socrum Loop Rd and Fulton Green Rd",
+  "Killed": "4",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 20, 2014",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "3400 block of South Parker",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 24, 2019",
+  "State": "Pennsylvania",
+  "CityOrCounty": "State College",
+  "Address": "1450 S Atherton St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 24, 2017",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "10400 block of Balmoral Dr",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "October 20, 2021",
+  "State": "Michigan",
+  "CityOrCounty": "Farwell",
+  "Address": "9539 S Harrison Ave",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 19, 2013",
+  "State": "California",
+  "CityOrCounty": "Orange",
+  "Address": "Katella Avenue",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 23, 2014",
+  "State": "California",
+  "CityOrCounty": "Goleta",
+  "Address": "840 Embarcadero del Norte",
+  "Killed": "4",
+  "Injured": "7"
+}, {
+  "IncidentDate": "May 13, 2019",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "4047 Shreve Ave",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 27, 2017",
+  "State": "Washington",
+  "CityOrCounty": "Bremerton",
+  "Address": "Tenino Dr W",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 14, 2021",
+  "State": "Arizona",
+  "CityOrCounty": "Tucson",
+  "Address": "1655 W Ajo Way",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 18, 2013",
+  "State": "Ohio",
+  "CityOrCounty": "Akron",
+  "Address": "Kimlyn Circle",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 22, 2014",
+  "State": "South Dakota",
+  "CityOrCounty": "Sisseton",
+  "Address": "Fourth Avenue",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 4, 2020",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "6100 block of S Carpenter St",
+  "Killed": "4",
+  "Injured": "4"
+}, {
+  "IncidentDate": "September 20, 2018",
+  "State": "Maryland",
+  "CityOrCounty": "Aberdeen",
+  "Address": "1501 Perryman Rd",
+  "Killed": "4",
+  "Injured": "3"
+}, {
+  "IncidentDate": "February 6, 2017",
+  "State": "Mississippi",
+  "CityOrCounty": "Yazoo City",
+  "Address": "11th Street",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 23, 2022",
+  "State": "California",
+  "CityOrCounty": "Inglewood",
+  "Address": "1300 block of North Park Ave",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 24, 2015",
+  "State": "New York",
+  "CityOrCounty": "Arverne (Queens)",
+  "Address": "231-11 148th Avenue",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 19, 2020",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "9122 Dexter Ave",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "November 13, 2018",
+  "State": "New Mexico",
+  "CityOrCounty": "Gallup",
+  "Address": "CR 1 and Defiance Draw Rd",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 21, 2017",
+  "State": "Mississippi",
+  "CityOrCounty": "Toomsuba",
+  "Address": "Butts Road",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "February 22, 2015",
+  "State": "Texas",
+  "CityOrCounty": "Killeen",
+  "Address": "1706 Godman St.",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 13, 2020",
+  "State": "West Virginia",
+  "CityOrCounty": "Elkview",
+  "Address": "1384 Cemetery Hill Dr",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 24, 2019",
+  "State": "Georgia",
+  "CityOrCounty": "Rockmart",
+  "Address": "319 Williamson St",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 30, 2017",
+  "State": "Kansas",
+  "CityOrCounty": "Topeka",
+  "Address": "4104 SW 28th",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 12, 2013",
+  "State": "Utah",
+  "CityOrCounty": "Midvale",
+  "Address": "8286 Adams Street and 450 West Street",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 5, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "7518 Imogene St",
+  "Killed": "4",
+  "Injured": "0"
+}, {
+  "IncidentDate": "May 17, 2020",
+  "State": "South Carolina",
+  "CityOrCounty": "Saint Matthews",
+  "Address": "100 block of Bugleflower Ln",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 3, 2015",
+  "State": "Wisconsin",
+  "CityOrCounty": "Menasha",
+  "Address": "Friendship Trail",
+  "Killed": "4",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 25, 2016",
+  "State": "Kansas",
+  "CityOrCounty": "Hesston",
+  "Address": "200 S Ridge Rd",
+  "Killed": "4",
+  "Injured": "14"
+}, {
+  "IncidentDate": "March 9, 2018",
+  "State": "North Carolina",
+  "CityOrCounty": "Wadesboro",
+  "Address": "1300 E Caswell St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 15, 2021",
+  "State": "Texas",
+  "CityOrCounty": "San Antonio",
+  "Address": "1621 S New Braunfels Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 17, 2016",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Philadelphia",
+  "Address": "600 block of Westmoreland Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 24, 2020",
+  "State": "Alabama",
+  "CityOrCounty": "Danville",
+  "Address": "68 Flint Creek Pvt Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 7, 2018",
+  "State": "Alabama",
+  "CityOrCounty": "Wetumpka",
+  "Address": "135 Granite Way",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 12, 2021",
+  "State": "Mississippi",
+  "CityOrCounty": "Meridian",
+  "Address": "2000 block of 17th St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 22, 2016",
+  "State": "Washington",
+  "CityOrCounty": "Olympia",
+  "Address": "500 block of Dutterow Road SE",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 16, 2020",
+  "State": "Florida",
+  "CityOrCounty": "Orlando",
+  "Address": "2000 block of N Forsyth Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 16, 2018",
+  "State": "Arkansas",
+  "CityOrCounty": "Little Rock",
+  "Address": "4405 W 14th St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 3, 2017",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Philadelphia",
+  "Address": "1100 block of W Stiles St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 30, 2021",
+  "State": "Missouri",
+  "CityOrCounty": "Kirksville",
+  "Address": "700 block of E Dodson St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 18, 2020",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "11614 Manor Park Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 31, 2020",
+  "State": "Georgia",
+  "CityOrCounty": "Macon",
+  "Address": "571 Moreland Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 6, 2017",
+  "State": "Utah",
+  "CityOrCounty": "Sandy",
+  "Address": "2232 Alta Canyon Drive",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 3, 2015",
+  "State": "New York",
+  "CityOrCounty": "Wyandanch",
+  "Address": "Davidson Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 2, 2021",
+  "State": "Florida",
+  "CityOrCounty": "Fort Lauderdale (Sunrise)",
+  "Address": "10100 Reflections Blvd W",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 6, 2020",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "14200 block of Bridgeport Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 7, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Lake Worth (Lantana)",
+  "Address": "I-95 and W Lantana Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "June 15, 2021",
+  "State": "Alabama",
+  "CityOrCounty": "Albertville",
+  "Address": "956 Industrial Blvd",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 5, 2014",
+  "State": "South Carolina",
+  "CityOrCounty": "Pelzer",
+  "Address": "Law St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 10, 2020",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans",
+  "Address": "4100 block of Rayne Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 26, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "2 Independent Dr",
+  "Killed": "3",
+  "Injured": "9"
+}, {
+  "IncidentDate": "January 4, 2017",
+  "State": "California",
+  "CityOrCounty": "Fontana",
+  "Address": "14520 Village Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 3, 2021",
+  "State": "North Carolina",
+  "CityOrCounty": "Chadbourn",
+  "Address": "Broadway Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 24, 2014",
+  "State": "South Carolina",
+  "CityOrCounty": "Myrtle Beach",
+  "Address": "104 N Ocean Blvd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 4, 2020",
+  "State": "Indiana",
+  "CityOrCounty": "Indianapolis",
+  "Address": "5462 Massachusetts Ave",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "August 23, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "4900 block of Southwind St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 22, 2017",
+  "State": "Georgia",
+  "CityOrCounty": "Atlanta",
+  "Address": "2841 Greenbriar Pkwy SW",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 18, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "3421 Antoine Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 12, 2014",
+  "State": "California",
+  "CityOrCounty": "Pasadena",
+  "Address": "1700 block of Summit Avenue",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 3, 2021",
+  "State": "Colorado",
+  "CityOrCounty": "Oak Creek",
+  "Address": "200 block of Wild Hogg Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 23, 2020",
+  "State": "North Carolina",
+  "CityOrCounty": "Clarkton",
+  "Address": "71 Tina Ln",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 29, 2022",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "4900 block of Cote Brilliante",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 11, 2016",
+  "State": "Michigan",
+  "CityOrCounty": "Saint Joseph",
+  "Address": "811 Port St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 16, 2021",
+  "State": "Florida",
+  "CityOrCounty": "Saint Petersburg",
+  "Address": "2968 Emerson Ave S",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 24, 2020",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "4714 Ward St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 30, 2016",
+  "State": "Washington",
+  "CityOrCounty": "Mukilteo",
+  "Address": "10009 Chennault Beach",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 28, 2021",
+  "State": "Ohio",
+  "CityOrCounty": "Cincinnati",
+  "Address": "3600 block of Idlewild Ave",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 26, 2020",
+  "State": "South Carolina",
+  "CityOrCounty": "Bowman",
+  "Address": "Dibble St and Rail St",
+  "Killed": "3",
+  "Injured": "5"
+}, {
+  "IncidentDate": "November 13, 2016",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "5105 Cleveland Rd",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 18, 2021",
+  "State": "Wisconsin",
+  "CityOrCounty": "Kenosha",
+  "Address": "1548 Sheridan Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "March 9, 2014",
+  "State": "Ohio",
+  "CityOrCounty": "Fremont",
+  "Address": "531 W State St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 16, 2019",
+  "State": "California",
+  "CityOrCounty": "Palmdale",
+  "Address": "Ranch Center Dr and 40th St W",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 22, 2017",
+  "State": "Texas",
+  "CityOrCounty": "Manvel",
+  "Address": "200 block of Oak Shore Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 4, 2013",
+  "State": "California",
+  "CityOrCounty": "Salinas",
+  "Address": "624 Williams Road",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "September 14, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Flour Bluff",
+  "Address": "229 Naval Air Station Drive",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 7, 2017",
+  "State": "North Carolina",
+  "CityOrCounty": "Hickory",
+  "Address": "1423 29th Ave Dr NE",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 25, 2013",
+  "State": "New Jersey",
+  "CityOrCounty": "Irvington",
+  "Address": "371 Nye Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 29, 2014",
+  "State": "Georgia",
+  "CityOrCounty": "Atlanta",
+  "Address": "1600 block of Richmond Avenue",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 3, 2017",
+  "State": "Alabama",
+  "CityOrCounty": "Prattville",
+  "Address": "112 US 82",
+  "Killed": "3",
+  "Injured": "0"
+}, {
+  "IncidentDate": "January 30, 2016",
+  "State": "Arizona",
+  "CityOrCounty": "Glendale",
+  "Address": "67th and Missouri Avenue",
+  "Killed": "3",
+  "Injured": "5"
+}, {
+  "IncidentDate": "November 26, 2021",
+  "State": "Tennessee",
+  "CityOrCounty": "Nashville",
+  "Address": "2815 Torbett St",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "August 29, 2015",
+  "State": "Tennessee",
+  "CityOrCounty": "Bristol",
+  "Address": "618 Henson Road",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "September 24, 2018",
+  "State": "Tennessee",
+  "CityOrCounty": "Memphis",
+  "Address": "1528 Ragan St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 31, 2016",
+  "State": "Florida",
+  "CityOrCounty": "Miami",
+  "Address": "Southwest 203rd Terrace and 115th Avenue",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 27, 2015",
+  "State": "Colorado",
+  "CityOrCounty": "Colorado Springs",
+  "Address": "3480 Centennial Blvd",
+  "Killed": "3",
+  "Injured": "9"
+}, {
+  "IncidentDate": "November 1, 2018",
+  "State": "Missouri",
+  "CityOrCounty": "Springfield",
+  "Address": "906 E Locust St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 4, 2016",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans",
+  "Address": "3727 Ulloa Street",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 31, 2013",
+  "State": "Washington",
+  "CityOrCounty": "Auburn",
+  "Address": "2802 Auburn Way North",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 20, 2021",
+  "State": "California",
+  "CityOrCounty": "Richmond",
+  "Address": "2108 Dunn Ave",
+  "Killed": "3",
+  "Injured": "5"
+}, {
+  "IncidentDate": "April 9, 2014",
+  "State": "Tennessee",
+  "CityOrCounty": "Lookout Valley",
+  "Address": "Kellys Ferry Road and Kellys Ferry Place",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 17, 2019",
+  "State": "Kentucky",
+  "CityOrCounty": "Owensboro",
+  "Address": "940 Audubon Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 24, 2016",
+  "State": "Maryland",
+  "CityOrCounty": "District Heights",
+  "Address": "3100 block of Orleans Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 27, 2020",
+  "State": "California",
+  "CityOrCounty": "Red Bluff",
+  "Address": "10815 State Hwy 99W",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "August 6, 2013",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Saylorsburg",
+  "Address": "1000 Ross Municipal Dr",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "August 2, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Dallas",
+  "Address": "5125 Wynell Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 19, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "7041 Sherman St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 2, 2021",
+  "State": "South Carolina",
+  "CityOrCounty": "Greenwood",
+  "Address": "101 Heddy Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 7, 2013",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "Conley and 7 Mile",
+  "Killed": "3",
+  "Injured": "7"
+}, {
+  "IncidentDate": "February 5, 2015",
+  "State": "Ohio",
+  "CityOrCounty": "Beachwood (Warrensville Heights)",
+  "Address": "20009 Harvard Ave",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "August 25, 2019",
+  "State": "New Mexico",
+  "CityOrCounty": "Hobbs",
+  "Address": "1700 block of E Bond St",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "March 19, 2022",
+  "State": "Virginia",
+  "CityOrCounty": "Norfolk",
+  "Address": "320 Granby St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 19, 2015",
+  "State": "New York",
+  "CityOrCounty": "Rochester",
+  "Address": "500 Genesee St",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "September 18, 2019",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "4200 block of W Madison St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 26, 2013",
+  "State": "Louisiana",
+  "CityOrCounty": "Lockport",
+  "Address": "313 Tenth St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "October 29, 2019",
+  "State": "California",
+  "CityOrCounty": "Long Beach",
+  "Address": "2709 E 7th St",
+  "Killed": "3",
+  "Injured": "9"
+}, {
+  "IncidentDate": "November 22, 2018",
+  "State": "Indiana",
+  "CityOrCounty": "Fort Wayne",
+  "Address": "6100 block of Downingtown Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 27, 2016",
+  "State": "Mississippi",
+  "CityOrCounty": "Kilmichael",
+  "Address": "Pecan Drive",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 30, 2013",
+  "State": "California",
+  "CityOrCounty": "Atwater",
+  "Address": "9200 block of Westside Boulevard",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 3, 2020",
+  "State": "Maine",
+  "CityOrCounty": "Machias",
+  "Address": "323 Kennebec Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 24, 2014",
+  "State": "California",
+  "CityOrCounty": "San Fernando",
+  "Address": "1400 block of Celis Street ",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "May 29, 2019",
+  "State": "Texas",
+  "CityOrCounty": "Cleveland",
+  "Address": "26311 TX-321",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 4, 2017",
+  "State": "Montana",
+  "CityOrCounty": "Lodge Grass",
+  "Address": "200 block of North Helen Street",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 14, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Crosby",
+  "Address": "400 block of Pecan Avenue",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 14, 2020",
+  "State": "South Carolina",
+  "CityOrCounty": "Sumter",
+  "Address": "1008 Marilyn Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 16, 2015",
+  "State": "Alabama",
+  "CityOrCounty": "Cedar Bluff",
+  "Address": "1460 County Rd 664",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 5, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "Town Center Pkwy",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "December 25, 2016",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "8600 block of S Maryland Ave",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "February 20, 2021",
+  "State": "Louisiana",
+  "CityOrCounty": "Metairie",
+  "Address": "6719 Airline Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "September 15, 2013",
+  "State": "Georgia",
+  "CityOrCounty": "Snellville",
+  "Address": "4630 Anderson Livsey Lane",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 14, 2018",
+  "State": "Nevada",
+  "CityOrCounty": "Las Vegas",
+  "Address": "2815 W Lake Mead Blvd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 12, 2017",
+  "State": "Missouri",
+  "CityOrCounty": "Kansas City",
+  "Address": "8607 E 61st Terrace",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 21, 2021",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "4002 Sullivan Ave",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "December 28, 2013",
+  "State": "Alabama",
+  "CityOrCounty": "Montgomery",
+  "Address": "954 Highland Ave",
+  "Killed": "3",
+  "Injured": "5"
+}, {
+  "IncidentDate": "November 14, 2019",
+  "State": "California",
+  "CityOrCounty": "Santa Clarita",
+  "Address": "21900 Centurion Way",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "November 2, 2018",
+  "State": "Florida",
+  "CityOrCounty": "Tallahassee",
+  "Address": "1950 Thomasville Rd",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "February 15, 2017",
+  "State": "Illinois",
+  "CityOrCounty": "Chicago",
+  "Address": "3949 South Albany Avenue",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "May 17, 2016",
+  "State": "South Carolina",
+  "CityOrCounty": "Ravenel",
+  "Address": "5360 Savannah Highway",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 19, 2019",
+  "State": "Florida",
+  "CityOrCounty": "Jacksonville",
+  "Address": "11445 Brian Lakes Drive",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "May 9, 2017",
+  "State": "Kansas",
+  "CityOrCounty": "Kansas City",
+  "Address": "1900 block of S. Boeke",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 4, 2016",
+  "State": "Colorado",
+  "CityOrCounty": "Denver",
+  "Address": "3600 block of Hudson Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 29, 2020",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "5500 block of Floy Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 16, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Beaumont",
+  "Address": "S 4th St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 30, 2021",
+  "State": "Florida",
+  "CityOrCounty": "Hialeah",
+  "Address": "7630 NW 186th St",
+  "Killed": "3",
+  "Injured": "20"
+}, {
+  "IncidentDate": "October 17, 2021",
+  "State": "Mississippi",
+  "CityOrCounty": "Jackson",
+  "Address": "3243 Medgar Evers Blvd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 13, 2018",
+  "State": "California",
+  "CityOrCounty": "Stockton",
+  "Address": "2436 Belleview St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 9, 2015",
+  "State": "Florida",
+  "CityOrCounty": "New Port Richey",
+  "Address": "9552 Adler Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 7, 2021",
+  "State": "Florida",
+  "CityOrCounty": "Homestead",
+  "Address": "12550 SW 282nd St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "December 26, 2020",
+  "State": "Illinois",
+  "CityOrCounty": "Rockford",
+  "Address": "4007 E State St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "October 25, 2021",
+  "State": "Idaho",
+  "CityOrCounty": "Boise",
+  "Address": "350 N Milwaukee St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "December 31, 2018",
+  "State": "Ohio",
+  "CityOrCounty": "Cleveland",
+  "Address": "4462 Denison Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 22, 2015",
+  "State": "New Mexico",
+  "CityOrCounty": "Roswell",
+  "Address": "302 East Reed Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 12, 2021",
+  "State": "Ohio",
+  "CityOrCounty": "Cleveland",
+  "Address": "8805 Buckeye Rd",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "January 6, 2021",
+  "State": "Virginia",
+  "CityOrCounty": "Manassas",
+  "Address": "10010 Ellis Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "April 11, 2019",
+  "State": "Arizona",
+  "CityOrCounty": "Phoenix",
+  "Address": "7112 W Minnezona Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 9, 2021",
+  "State": "South Dakota",
+  "CityOrCounty": "Scotland",
+  "Address": "710 2nd St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 5, 2016",
+  "State": "Florida",
+  "CityOrCounty": "Cape Coral",
+  "Address": "2600 block of Skyline Boulevard S",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "June 30, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "12101 Fondren Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 26, 2021",
+  "State": "Tennessee",
+  "CityOrCounty": "Memphis",
+  "Address": "500 block of Arrington Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 26, 2020",
+  "State": "South Carolina",
+  "CityOrCounty": "Hartsville",
+  "Address": "115 W Camden Ave",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "July 4, 2016",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "1312 Robin",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 29, 2021",
+  "State": "Pennsylvania",
+  "CityOrCounty": "Pittsburgh",
+  "Address": "239 Gilkeson Rd",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "May 22, 2021",
+  "State": "New Jersey",
+  "CityOrCounty": "Bridgeton",
+  "Address": "1029 E Commerce St",
+  "Killed": "3",
+  "Injured": "11"
+}, {
+  "IncidentDate": "June 27, 2020",
+  "State": "Arkansas",
+  "CityOrCounty": "Blytheville",
+  "Address": "600 block of Parkway Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 1, 2017",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "Beacon Ave and Lillian Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 4, 2021",
+  "State": "District of Columbia",
+  "CityOrCounty": "Washington",
+  "Address": "700 block of Longfellow St NW",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "August 29, 2014",
+  "State": "Florida",
+  "CityOrCounty": "Brooksville",
+  "Address": "820 Peach St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 3, 2017",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans",
+  "Address": "3717 Tulane Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 15, 2016",
+  "State": "Washington",
+  "CityOrCounty": "Woodland",
+  "Address": "4006 NW 417th Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 5, 2020",
+  "State": "Ohio",
+  "CityOrCounty": "Toledo",
+  "Address": "2125 Parkwood Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 14, 2014",
+  "State": "Georgia",
+  "CityOrCounty": "Peachtree Corners",
+  "Address": "6505 Bannor Lane",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "September 7, 2019",
+  "State": "North Carolina",
+  "CityOrCounty": "Whiteville",
+  "Address": "Brittany Ln",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 5, 2018",
+  "State": "California",
+  "CityOrCounty": "Los Angeles",
+  "Address": "1600 block of W. 2nd Street",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "September 11, 2016",
+  "State": "Indiana",
+  "CityOrCounty": "Fort Wayne",
+  "Address": "3006 Holton Avenue",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "February 5, 2021",
+  "State": "Mississippi",
+  "CityOrCounty": "Benoit",
+  "Address": "1017 Lake Bolivar Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 1, 2020",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "3000 block of S Jefferson Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "July 28, 2018",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans",
+  "Address": "3400 S Claiborne Ave",
+  "Killed": "3",
+  "Injured": "7"
+}, {
+  "IncidentDate": "January 15, 2017",
+  "State": "Colorado",
+  "CityOrCounty": "Capulin",
+  "Address": "County Road Y",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "July 4, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Dallas",
+  "Address": "8200 block of Towns St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "February 11, 2013",
+  "State": "Delaware",
+  "CityOrCounty": "Wilmington",
+  "Address": "500 North King St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 26, 2020",
+  "State": "New York",
+  "CityOrCounty": "Newburgh",
+  "Address": "1571 NY-300",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 11, 2018",
+  "State": "Arizona",
+  "CityOrCounty": "Globe",
+  "Address": "598 N Broad St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 10, 2017",
+  "State": "Louisiana",
+  "CityOrCounty": "New Orleans (Gentilly)",
+  "Address": "4200 block of Touro St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 10, 2013",
+  "State": "California",
+  "CityOrCounty": "Los Angeles",
+  "Address": "1600 block of West 205th Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 26, 2020",
+  "State": "Michigan",
+  "CityOrCounty": "Pontiac",
+  "Address": "252 Carriage Circle Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "April 23, 2016",
+  "State": "Alabama",
+  "CityOrCounty": "Auburn",
+  "Address": "1200 block of Lee Road 83",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 13, 2020",
+  "State": "Tennessee",
+  "CityOrCounty": "Beechgrove",
+  "Address": "I-24 and Beech Grove Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "August 6, 2014",
+  "State": "California",
+  "CityOrCounty": "Bakersfield",
+  "Address": "1700 block of Quincy Street ",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 23, 2019",
+  "State": "South Carolina",
+  "CityOrCounty": "Abbeville",
+  "Address": "1108 Cambridge St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 16, 2017",
+  "State": "South Carolina",
+  "CityOrCounty": "Ruffin",
+  "Address": "21785 Lowcountry Hwy",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 14, 2014",
+  "State": "Texas",
+  "CityOrCounty": "Corpus Christi",
+  "Address": "229 NAS Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 29, 2013",
+  "State": "South Carolina",
+  "CityOrCounty": "North Charleston",
+  "Address": "4400 Dorchester Road; Suite 115",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 4, 2015",
+  "State": "Texas",
+  "CityOrCounty": "Dallas",
+  "Address": "2000 block of Ben Hur St.",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 20, 2020",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "2117 Chenevert St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 18, 2017",
+  "State": "Maryland",
+  "CityOrCounty": "Edgewood",
+  "Address": "2111 Emmorton Park Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "December 2, 2021",
+  "State": "North Carolina",
+  "CityOrCounty": "Elizabeth City",
+  "Address": "Perry St and Jordan St",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "May 6, 2016",
+  "State": "Maryland",
+  "CityOrCounty": "Bethesda",
+  "Address": "7101 Democracy Blvd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "February 22, 2015",
+  "State": "Georgia",
+  "CityOrCounty": "Clarkesville",
+  "Address": "281 Lower Pond Court",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 10, 2021",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "6300 Ranchester Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 12, 2018",
+  "State": "North Carolina",
+  "CityOrCounty": "Dunn",
+  "Address": "4640 Woods Crossroads Rd",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 13, 2016",
+  "State": "Indiana",
+  "CityOrCounty": "Fort Wayne",
+  "Address": "1723 E Wayne St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "January 19, 2022",
+  "State": "Maryland",
+  "CityOrCounty": "Baltimore",
+  "Address": "E Monument St and N Montford Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "May 31, 2015",
+  "State": "Ohio",
+  "CityOrCounty": "Cleveland",
+  "Address": "16209 block of Laverne Avenue",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "September 26, 2021",
+  "State": "Washington",
+  "CityOrCounty": "Seattle (Des Moines)",
+  "Address": "22855 Pacific Hwy S",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "January 4, 2019",
+  "State": "Virginia",
+  "CityOrCounty": "Hurt",
+  "Address": "3197 Shula Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 30, 2016",
+  "State": "Maryland",
+  "CityOrCounty": "Capitol Heights",
+  "Address": "6862 Walker Mill Rd",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "July 7, 2015",
+  "State": "Maryland",
+  "CityOrCounty": "Baltimore",
+  "Address": "900 block of West Fayette Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 19, 2021",
+  "State": "Wisconsin",
+  "CityOrCounty": "Kenosha",
+  "Address": "610 40th Pl",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "May 25, 2019",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "3400 block of Devonshire",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "March 15, 2017",
+  "State": "Louisiana",
+  "CityOrCounty": "Metairie",
+  "Address": "2508 Pasadena Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "January 6, 2016",
+  "State": "Florida",
+  "CityOrCounty": "Lakeland",
+  "Address": "2312 East Magnolia Street",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "November 3, 2021",
+  "State": "Virginia",
+  "CityOrCounty": "Norfolk",
+  "Address": "821 Whitaker Ln",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "February 3, 2014",
+  "State": "Indiana",
+  "CityOrCounty": "Franklin",
+  "Address": "2100 block of Bridlewood Dr",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 25, 2018",
+  "State": "Missouri",
+  "CityOrCounty": "Saint Louis",
+  "Address": "1151 Northdale Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "June 27, 2016",
+  "State": "Oregon",
+  "CityOrCounty": "Woodburn",
+  "Address": "13436 Killiam Loop NE",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "August 8, 2021",
+  "State": "New York",
+  "CityOrCounty": "Brooklyn",
+  "Address": "101 Wortman Ave",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "June 18, 2018",
+  "State": "Illinois",
+  "CityOrCounty": "Bloomington",
+  "Address": "311 Riley Dr",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 18, 2017",
+  "State": "Michigan",
+  "CityOrCounty": "Detroit",
+  "Address": "16000 block of Rutherford",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "August 30, 2021",
+  "State": "Illinois",
+  "CityOrCounty": "Normal",
+  "Address": "2000 block of Lambert Dr",
+  "Killed": "3",
+  "Injured": "3"
+}, {
+  "IncidentDate": "January 24, 2015",
+  "State": "Nebraska",
+  "CityOrCounty": "Omaha",
+  "Address": "3402 Parker St",
+  "Killed": "3",
+  "Injured": "5"
+}, {
+  "IncidentDate": "November 14, 2018",
+  "State": "Louisiana",
+  "CityOrCounty": "Baton Rouge",
+  "Address": "4896 Gus Young Ave",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "October 1, 2017",
+  "State": "Kansas",
+  "CityOrCounty": "Lawrence",
+  "Address": "1000 block of Massachusetts St",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "October 7, 2021",
+  "State": "Wisconsin",
+  "CityOrCounty": "Milwaukee",
+  "Address": "W Cherry St and N 8th St",
+  "Killed": "3",
+  "Injured": "1"
+}, {
+  "IncidentDate": "March 17, 2015",
+  "State": "California",
+  "CityOrCounty": "Stockton",
+  "Address": "748 N Madison St",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "January 4, 2019",
+  "State": "California",
+  "CityOrCounty": "Torrance",
+  "Address": "22501 Hawthorne Blvd",
+  "Killed": "3",
+  "Injured": "4"
+}, {
+  "IncidentDate": "May 31, 2015",
+  "State": "Georgia",
+  "CityOrCounty": "Conyers",
+  "Address": "4669 Bell Road SE",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "April 4, 2019",
+  "State": "Georgia",
+  "CityOrCounty": "Stockbridge",
+  "Address": "300 block of Eagle Ct",
+  "Killed": "3",
+  "Injured": "2"
+}, {
+  "IncidentDate": "November 20, 2013",
+  "State": "Texas",
+  "CityOrCounty": "Houston",
+  "Address": "8200 block of Sunbury",
+  "Killed": "3",
+  "Injured": "2"
+}]
