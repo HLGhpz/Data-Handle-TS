@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-25 21:50:13
+ * @LastEditTime: 2022-05-26 19:04:20
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -18,7 +18,7 @@ import CheckData from './utils/CheckData'
 
 // BulkInsertDB()
 // FillNationCode()
-// CSV2JSON()
+CSV2JSON()
 // CalendarUse()
 // Array2Json()
-CheckData()
+// CheckData()
