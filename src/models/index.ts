@@ -10,13 +10,16 @@
 import { Sequelize, DataTypes } from 'sequelize'
 import { config } from '@/config/config'
 import { nationModel } from '@/models/nation'
+import { nationCodeModel } from '@/models/nationCode'
 
 const sequelize = new Sequelize('', '', '', config.hlg)
 
 const Nation = nationModel(sequelize, DataTypes)
+const NationCode = nationCodeModel(sequelize, DataTypes)
 
 const db = {
   Nation,
+  NationCode,
   sequelize,
   Sequelize
 }
