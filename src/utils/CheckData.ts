@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-25 21:41:28
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-25 22:30:30
+ * @LastEditTime: 2022-05-27 11:13:29
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -29,20 +29,26 @@ function CheckData() {
     callback: (obj, index) => {
       obj['2021GDP'] =obj['2021GDP'] * 1
       obj['2020GDP'] =obj['2020GDP'] * 1
+      obj.Population = obj.Population * 1
       obj.PerGDP = obj.PerGDP * 1
-      return obj
-    }
-  }).transform({
-    type: 'sort-by',
-    fields: ['2021GDP'],
-    order: 'DESC'
-  }).transform({
-    type: 'map',
-    callback: (obj, index) => {
-      obj.GDPRank = index + 1
+      let diff = (obj['2021GDP']*10000/obj.Population).toFixed(0)
+      if(Math.abs(obj.PerGDP - diff) > 1000){
+        console.log(`${obj.City} ${obj.PerGDP} ${diff}`)
+      }
       return obj
     }
   })
+  // .transform({
+  //   type: 'sort-by',
+  //   fields: ['2021GDP'],
+  //   order: 'DESC'
+  // }).transform({
+  //   type: 'map',
+  //   callback: (obj, index) => {
+  //     obj.GDPRank = index + 1
+  //     return obj
+  //   }
+  // })
   fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(dv.rows), {
     encoding: 'utf-8',
     flag: 'w'
