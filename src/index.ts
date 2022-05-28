@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-27 20:09:26
+ * @LastEditTime: 2022-05-28 20:14:40
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -16,6 +16,7 @@ import Array2Json from './utils/Array2Json'
 import HandleData from './utils/Handle'
 import CheckData from './utils/CheckData'
 import OurWorldInData from './utils/OurWorldInData'
+import Test from './utils/test'
 
 // BulkInsertDB()
 // FillNationCode()
@@ -24,3 +25,4 @@ import OurWorldInData from './utils/OurWorldInData'
 // Array2Json()
 // CheckData()
 OurWorldInData()
+// Test()

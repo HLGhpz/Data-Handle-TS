@@ -1,499 +1,250 @@
 ﻿enName,iso2Code,iso3Code,isoNumber,iso2,zhName
-"Afghanistan
-",AF,AFG,4,ISO 3166-2:AF,阿富汗
-"Åland Islands
-",AX,ALA,248,ISO 3166-2:AX,奥兰
-"Albania
-",AL,ALB,8,ISO 3166-2:AL,阿尔巴尼亚
-"Algeria
-",DZ,DZA,12,ISO 3166-2:DZ,阿尔及利亚
-"American Samoa
-",AS,ASM,16,ISO 3166-2:AS,美属萨摩亚
-"Andorra
-",AD,AND,20,ISO 3166-2:AD,安道尔
-"Angola
-",AO,AGO,24,ISO 3166-2:AO,安哥拉
-"Anguilla
-",AI,AIA,660,ISO 3166-2:AI,安圭拉
-"Antarctica
-",AQ,ATA,10,ISO 3166-2:AQ,南极洲
-"Antigua and Barbuda
-",AG,ATG,28,ISO 3166-2:AG,安提瓜和巴布达
-"Argentina
-",AR,ARG,32,ISO 3166-2:AR,阿根廷
-"Armenia
-",AM,ARM,51,ISO 3166-2:AM,亚美尼亚
-"Aruba
-",AW,ABW,533,ISO 3166-2:AW,阿鲁巴
-"Australia
-",AU,AUS,36,ISO 3166-2:AU,澳大利亚
-"Austria
-",AT,AUT,40,ISO 3166-2:AT,奥地利
-"Azerbaijan
-",AZ,AZE,31,ISO 3166-2:AZ,阿塞拜疆
-"Bahamas
-",BS,BHS,44,ISO 3166-2:BS,巴哈马
-"Bahrain
-",BH,BHR,48,ISO 3166-2:BH,巴林
-"Bangladesh
-",BD,BGD,50,ISO 3166-2:BD,孟加拉国
-"Barbados
-",BB,BRB,52,ISO 3166-2:BB,巴巴多斯
-"Belarus
-",BY,BLR,112,ISO 3166-2:BY,白俄罗斯
-"Belgium
-",BE,BEL,56,ISO 3166-2:BE,比利时
-"Belize
-",BZ,BLZ,84,ISO 3166-2:BZ,伯利兹
-"Benin
-",BJ,BEN,204,ISO 3166-2:BJ,贝宁
-"Bermuda
-",BM,BMU,60,ISO 3166-2:BM,百慕大
-"Bhutan
-",BT,BTN,64,ISO 3166-2:BT,不丹
-"Bolivia (Plurinational State of)
-",BO,BOL,68,ISO 3166-2:BO,玻利维亚
-"Bonaire, Sint Eustatius and Saba
-",BQ,BES,535,ISO 3166-2:BQ,荷兰加勒比区
-"Bosnia and Herzegovina
-",BA,BIH,70,ISO 3166-2:BA,波黑
-"Botswana
-",BW,BWA,72,ISO 3166-2:BW,博茨瓦纳
-"Bouvet Island
-",BV,BVT,74,ISO 3166-2:BV,布韦岛
-"Brazil
-",BR,BRA,76,ISO 3166-2:BR,巴西
-"British Indian Ocean Territory
-",IO,IOT,86,ISO 3166-2:IO,英属印度洋领地
-"Brunei Darussalam
-",BN,BRN,96,ISO 3166-2:BN,文莱
-"Bulgaria
-",BG,BGR,100,ISO 3166-2:BG,保加利亚
-"Burkina Faso
-",BF,BFA,854,ISO 3166-2:BF,布基纳法索
-"Burundi
-",BI,BDI,108,ISO 3166-2:BI,布隆迪
-"Cabo Verde
-",CV,CPV,132,ISO 3166-2:CV,佛得角
-"Cambodia
-",KH,KHM,116,ISO 3166-2:KH,柬埔寨
-"Cameroon
-",CM,CMR,120,ISO 3166-2:CM,喀麦隆
-"Canada
-",CA,CAN,124,ISO 3166-2:CA,加拿大
-"Cayman Islands
-",KY,CYM,136,ISO 3166-2:KY,开曼群岛
-"Central African Republic
-",CF,CAF,140,ISO 3166-2:CF,中非
-"Chad
-",TD,TCD,148,ISO 3166-2:TD,乍得
-"Chile
-",CL,CHL,152,ISO 3166-2:CL,智利
-"China
-",CN,CHN,156,ISO 3166-2:CN,中国
-"Christmas Island
-",CX,CXR,162,ISO 3166-2:CX,圣诞岛
-"Cocos (Keeling) Islands
-",CC,CCK,166,ISO 3166-2:CC,科科斯（基林）群岛
-"Colombia
-",CO,COL,170,ISO 3166-2:CO,哥伦比亚
-"Comoros
-",KM,COM,174,ISO 3166-2:KM,科摩罗
-"Congo
-",CG,COG,178,ISO 3166-2:CG,刚果共和国
-"Congo (Democratic Republic of the)
-",CD,COD,180,ISO 3166-2:CD,刚果民主共和国
-"Cook Islands
-",CK,COK,184,ISO 3166-2:CK,库克群岛
-"Costa Rica
-",CR,CRI,188,ISO 3166-2:CR,哥斯达黎加
-"Côte d'Ivoire
-",CI,CIV,384,ISO 3166-2:CI,象牙海岸
-"Croatia
-",HR,HRV,191,ISO 3166-2:HR,克罗地亚
-"Cuba
-",CU,CUB,192,ISO 3166-2:CU,古巴
-"Curacao !Curaçao
-",CW,CUW,531,ISO 3166-2:CW,库拉索
-"Cyprus
-",CY,CYP,196,ISO 3166-2:CY,塞浦路斯
-"Czechia
-",CZ,CZE,203,ISO 3166-2:CZ,捷克
-"Denmark
-",DK,DNK,208,ISO 3166-2:DK,丹麦
-"Djibouti
-",DJ,DJI,262,ISO 3166-2:DJ,吉布提
-"Dominica
-",DM,DMA,212,ISO 3166-2:DM,多米尼克
-"Dominican Republic
-",DO,DOM,214,ISO 3166-2:DO,多米尼加
-"Ecuador
-",EC,ECU,218,ISO 3166-2:EC,厄瓜多尔
-"Egypt
-",EG,EGY,818,ISO 3166-2:EG,埃及
-"El Salvador
-",SV,SLV,222,ISO 3166-2:SV,萨尔瓦多
-"Equatorial Guinea
-",GQ,GNQ,226,ISO 3166-2:GQ,赤道几内亚
-"Eritrea
-",ER,ERI,232,ISO 3166-2:ER,厄立特里亚
-"Estonia
-",EE,EST,233,ISO 3166-2:EE,爱沙尼亚
-"Eswatini
-",SZ,SWZ,748,ISO 3166-2:SZ,斯威士兰
-"Ethiopia
-",ET,ETH,231,ISO 3166-2:ET,埃塞俄比亚
-"Falkland Islands (Malvinas)
-",FK,FLK,238,ISO 3166-2:FK,福克兰群岛
-"Faroe Islands
-",FO,FRO,234,ISO 3166-2:FO,法罗群岛
-"Fiji
-",FJ,FJI,242,ISO 3166-2:FJ,斐济
-"Finland
-",FI,FIN,246,ISO 3166-2:FI,芬兰
-"France
-",FR,FRA,250,ISO 3166-2:FR,法国
-"French Guiana
-",GF,GUF,254,ISO 3166-2:GF,法属圭亚那
-"French Polynesia
-",PF,PYF,258,ISO 3166-2:PF,法属波利尼西亚
-"French Southern Territories
-",TF,ATF,260,ISO 3166-2:TF,法属南部和南极领地
-"Gabon
-",GA,GAB,266,ISO 3166-2:GA,加蓬
-"Gambia
-",GM,GMB,270,ISO 3166-2:GM,冈比亚
-"Georgia
-",GE,GEO,268,ISO 3166-2:GE,格鲁吉亚
-"Germany
-",DE,DEU,276,ISO 3166-2:DE,德国
-"Ghana
-",GH,GHA,288,ISO 3166-2:GH,加纳
-"Gibraltar
-",GI,GIB,292,ISO 3166-2:GI,直布罗陀
-"Greece
-",GR,GRC,300,ISO 3166-2:GR,希腊
-"Greenland
-",GL,GRL,304,ISO 3166-2:GL,格陵兰
-"Grenada
-",GD,GRD,308,ISO 3166-2:GD,格林纳达
-"Guadeloupe
-",GP,GLP,312,ISO 3166-2:GP,瓜德罗普
-"Guam
-",GU,GUM,316,ISO 3166-2:GU,关岛
-"Guatemala
-",GT,GTM,320,ISO 3166-2:GT,危地马拉
-"Guernsey
-",GG,GGY,831,ISO 3166-2:GG,根西
-"Guinea
-",GN,GIN,324,ISO 3166-2:GN,几内亚
-"Guinea-Bissau
-",GW,GNB,624,ISO 3166-2:GW,几内亚比绍
-"Guyana
-",GY,GUY,328,ISO 3166-2:GY,圭亚那
-"Haiti
-",HT,HTI,332,ISO 3166-2:HT,海地
-"Heard Island and McDonald Islands
-",HM,HMD,334,ISO 3166-2:HM,赫德岛和麦克唐纳群岛
-"Holy See
-",VA,VAT,336,ISO 3166-2:VA,梵蒂冈
-"Honduras
-",HN,HND,340,ISO 3166-2:HN,洪都拉斯
-"Hong Kong
-",HK,HKG,344,ISO 3166-2:HK,香港
-"Hungary
-",HU,HUN,348,ISO 3166-2:HU,匈牙利
-"Iceland
-",IS,ISL,352,ISO 3166-2:IS,冰岛
-"India
-",IN,IND,356,ISO 3166-2:IN,印度
-"Indonesia
-",ID,IDN,360,ISO 3166-2:ID,印尼
-"Iran (Islamic Republic of)
-",IR,IRN,364,ISO 3166-2:IR,伊朗
-"Iraq
-",IQ,IRQ,368,ISO 3166-2:IQ,伊拉克
-"Ireland
-",IE,IRL,372,ISO 3166-2:IE,爱尔兰
-"Isle of Man
-",IM,IMN,833,ISO 3166-2:IM,马恩岛
-"Israel
-",IL,ISR,376,ISO 3166-2:IL,以色列
-"Italy
-",IT,ITA,380,ISO 3166-2:IT,意大利
-"Jamaica
-",JM,JAM,388,ISO 3166-2:JM,牙买加
-"Japan
-",JP,JPN,392,ISO 3166-2:JP,日本
-"Jersey
-",JE,JEY,832,ISO 3166-2:JE,泽西
-"Jordan
-",JO,JOR,400,ISO 3166-2:JO,约旦
-"Kazakhstan
-",KZ,KAZ,398,ISO 3166-2:KZ,哈萨克斯坦
-"Kenya
-",KE,KEN,404,ISO 3166-2:KE,肯尼亚
-"Kiribati
-",KI,KIR,296,ISO 3166-2:KI,基里巴斯
-"Korea (Democratic People's Republic of)
-",KP,PRK,408,ISO 3166-2:KP,北韩
-"Korea (Republic of)
-",KR,KOR,410,ISO 3166-2:KR,南韩
-"Kuwait
-",KW,KWT,414,ISO 3166-2:KW,科威特
-"Kyrgyzstan
-",KG,KGZ,417,ISO 3166-2:KG,吉尔吉斯斯坦
-"Lao People's Democratic Republic
-",LA,LAO,418,ISO 3166-2:LA,老挝
-"Latvia
-",LV,LVA,428,ISO 3166-2:LV,拉脱维亚
-"Lebanon
-",LB,LBN,422,ISO 3166-2:LB,黎巴嫩
-"Lesotho
-",LS,LSO,426,ISO 3166-2:LS,莱索托
-"Liberia
-",LR,LBR,430,ISO 3166-2:LR,利比里亚
-"Libya
-",LY,LBY,434,ISO 3166-2:LY,利比亚
-"Liechtenstein
-",LI,LIE,438,ISO 3166-2:LI,列支敦士登
-"Lithuania
-",LT,LTU,440,ISO 3166-2:LT,立陶宛
-"Luxembourg
-",LU,LUX,442,ISO 3166-2:LU,卢森堡
-"Macao
-",MO,MAC,446,ISO 3166-2:MO,澳门
-"Madagascar
-",MG,MDG,450,ISO 3166-2:MG,马达加斯加
-"Malawi
-",MW,MWI,454,ISO 3166-2:MW,马拉维
-"Malaysia
-",MY,MYS,458,ISO 3166-2:MY,马来西亚
-"Maldives
-",MV,MDV,462,ISO 3166-2:MV,马尔代夫
-"Mali
-",ML,MLI,466,ISO 3166-2:ML,马里
-"Malta
-",MT,MLT,470,ISO 3166-2:MT,马耳他
-"Marshall Islands
-",MH,MHL,584,ISO 3166-2:MH,马绍尔群岛
-"Martinique
-",MQ,MTQ,474,ISO 3166-2:MQ,马提尼克
-"Mauritania
-",MR,MRT,478,ISO 3166-2:MR,毛里塔尼亚
-"Mauritius
-",MU,MUS,480,ISO 3166-2:MU,毛里求斯
-"Mayotte
-",YT,MYT,175,ISO 3166-2:YT,马约特
-"Mexico
-",MX,MEX,484,ISO 3166-2:MX,墨西哥
-"Micronesia (Federated States of)
-",FM,FSM,583,ISO 3166-2:FM,密克罗尼西亚联邦
-"Moldova (Republic of)
-",MD,MDA,498,ISO 3166-2:MD,摩尔多瓦
-"Monaco
-",MC,MCO,492,ISO 3166-2:MC,摩纳哥
-"Mongolia
-",MN,MNG,496,ISO 3166-2:MN,蒙古
-"Montenegro
-",ME,MNE,499,ISO 3166-2:ME,黑山
-"Montserrat
-",MS,MSR,500,ISO 3166-2:MS,蒙特塞拉特
-"Morocco
-",MA,MAR,504,ISO 3166-2:MA,摩洛哥
-"Mozambique
-",MZ,MOZ,508,ISO 3166-2:MZ,莫桑比克
-"Myanmar
-",MM,MMR,104,ISO 3166-2:MM,缅甸
-"Namibia
-",NA,NAM,516,ISO 3166-2:NA,纳米比亚
-"Nauru
-",NR,NRU,520,ISO 3166-2:NR,瑙鲁
-"Nepal
-",NP,NPL,524,ISO 3166-2:NP,
-"Netherlands
-",NL,NLD,528,ISO 3166-2:NL,荷兰
-"New Caledonia
-",NC,NCL,540,ISO 3166-2:NC,新喀里多尼亚
-"New Zealand
-",NZ,NZL,554,ISO 3166-2:NZ,新西兰
-"Nicaragua
-",NI,NIC,558,ISO 3166-2:NI,尼加拉瓜
-"Niger
-",NE,NER,562,ISO 3166-2:NE,尼日尔
-"Nigeria
-",NG,NGA,566,ISO 3166-2:NG,尼日利亚
-"Niue
-",NU,NIU,570,ISO 3166-2:NU,纽埃
-"Norfolk Island
-",NF,NFK,574,ISO 3166-2:NF,诺福克岛
-"North Macedonia
-",MK,MKD,807,ISO 3166-2:MK,北马其顿
-"Northern Mariana Islands
-",MP,MNP,580,ISO 3166-2:MP,北马里亚纳群岛
-"Norway
-",NO,NOR,578,ISO 3166-2:NO,挪威
-"Oman
-",OM,OMN,512,ISO 3166-2:OM,阿曼
-"Pakistan
-",PK,PAK,586,ISO 3166-2:PK,巴基斯坦
-"Palau
-",PW,PLW,585,ISO 3166-2:PW,帕劳
-"Palestine, State of
-",PS,PSE,275,ISO 3166-2:PS,巴勒斯坦
-"Panama
-",PA,PAN,591,ISO 3166-2:PA,巴拿马
-"Papua New Guinea
-",PG,PNG,598,ISO 3166-2:PG,巴布亚新几内亚
-"Paraguay
-",PY,PRY,600,ISO 3166-2:PY,巴拉圭
-"Peru
-",PE,PER,604,ISO 3166-2:PE,秘鲁
-"Philippines
-",PH,PHL,608,ISO 3166-2:PH,菲律宾
-"Pitcairn
-",PN,PCN,612,ISO 3166-2:PN,皮特凯恩群岛
-"Poland
-",PL,POL,616,ISO 3166-2:PL,波兰
-"Portugal
-",PT,PRT,620,ISO 3166-2:PT,葡萄牙
-"Puerto Rico
-",PR,PRI,630,ISO 3166-2:PR,波多黎各
-"Qatar
-",QA,QAT,634,ISO 3166-2:QA,卡塔尔
-"Réunion
-",RE,REU,638,ISO 3166-2:RE,留尼汪
-"Romania
-",RO,ROU,642,ISO 3166-2:RO,罗马尼亚
-"Russian Federation
-",RU,RUS,643,ISO 3166-2:RU,俄罗斯
-"Rwanda
-",RW,RWA,646,ISO 3166-2:RW,卢旺达
-"Saint Barthélemy
-",BL,BLM,652,ISO 3166-2:BL,圣巴泰勒米
-"Saint Helena, Ascension and Tristan da Cunha
-",SH,SHN,654,ISO 3166-2:SH,圣赫勒拿、阿森松和特里斯坦-达库尼亚
-"Saint Kitts and Nevis
-",KN,KNA,659,ISO 3166-2:KN,圣基茨和尼维斯
-"Saint Lucia
-",LC,LCA,662,ISO 3166-2:LC,圣卢西亚
-"Saint Martin (French part)
-",MF,MAF,663,ISO 3166-2:MF,法属圣马丁
-"Saint Pierre and Miquelon
-",PM,SPM,666,ISO 3166-2:PM,圣皮埃尔和密克隆
-"Saint Vincent and the Grenadines
-",VC,VCT,670,ISO 3166-2:VC,圣文森特和格林纳丁斯
-"Samoa
-",WS,WSM,882,ISO 3166-2:WS,萨摩亚
-"San Marino
-",SM,SMR,674,ISO 3166-2:SM,圣马力诺
-"Sao Tome and Principe
-",ST,STP,678,ISO 3166-2:ST,圣多美和普林西比
-"Saudi Arabia
-",SA,SAU,682,ISO 3166-2:SA,沙特阿拉伯
-"Senegal
-",SN,SEN,686,ISO 3166-2:SN,塞内加尔
-"Serbia
-",RS,SRB,688,ISO 3166-2:RS,塞尔维亚
-"Seychelles
-",SC,SYC,690,ISO 3166-2:SC,塞舌尔
-"Sierra Leone
-",SL,SLE,694,ISO 3166-2:SL,塞拉利昂
-"Singapore
-",SG,SGP,702,ISO 3166-2:SG,新加坡
-"Sint Maarten (Dutch part)
-",SX,SXM,534,ISO 3166-2:SX,荷属圣马丁
-"Slovakia
-",SK,SVK,703,ISO 3166-2:SK,斯洛伐克
-"Slovenia
-",SI,SVN,705,ISO 3166-2:SI,斯洛文尼亚
-"Solomon Islands
-",SB,SLB,90,ISO 3166-2:SB,所罗门群岛
-"Somalia
-",SO,SOM,706,ISO 3166-2:SO,索马里
-"South Africa
-",ZA,ZAF,710,ISO 3166-2:ZA,南非
-"South Georgia and the South Sandwich Islands
-",GS,SGS,239,ISO 3166-2:GS,南乔治亚和南桑威奇群岛
-"South Sudan
-",SS,SSD,728,ISO 3166-2:SS,南苏丹
-"Spain
-",ES,ESP,724,ISO 3166-2:ES,西班牙
-"Sri Lanka
-",LK,LKA,144,ISO 3166-2:LK,斯里兰卡
-"Sudan
-",SD,SDN,729,ISO 3166-2:SD,苏丹
-"Suriname
-",SR,SUR,740,ISO 3166-2:SR,苏里南
-"Svalbard and Jan Mayen
-",SJ,SJM,744,ISO 3166-2:SJ,斯瓦尔巴和扬马延
-"Sweden
-",SE,SWE,752,ISO 3166-2:SE,瑞典
-"Switzerland
-",CH,CHE,756,ISO 3166-2:CH,瑞士
-"Syrian Arab Republic
-",SY,SYR,760,ISO 3166-2:SY,叙利亚
-"Taiwan, Province of China[note 1]
-",TW,TWN,158,ISO 3166-2:TW,中国台湾省
-"Tajikistan
-",TJ,TJK,762,ISO 3166-2:TJ,塔吉克斯坦
-"Tanzania, United Republic of
-",TZ,TZA,834,ISO 3166-2:TZ,坦桑尼亚
-"Thailand
-",TH,THA,764,ISO 3166-2:TH,泰国
-"Timor-Leste
-",TL,TLS,626,ISO 3166-2:TL,东帝汶
-"Togo
-",TG,TGO,768,ISO 3166-2:TG,多哥
-"Tokelau
-",TK,TKL,772,ISO 3166-2:TK,托克劳
-"Tonga
-",TO,TON,776,ISO 3166-2:TO,汤加
-"Trinidad and Tobago
-",TT,TTO,780,ISO 3166-2:TT,特立尼达和多巴哥
-"Tunisia
-",TN,TUN,788,ISO 3166-2:TN,突尼斯
-"Turkey
-",TR,TUR,792,ISO 3166-2:TR,土耳其
-"Turkmenistan
-",TM,TKM,795,ISO 3166-2:TM,土库曼斯坦
-"Turks and Caicos Islands
-",TC,TCA,796,ISO 3166-2:TC,特克斯和凯科斯群岛
-"Tuvalu
-",TV,TUV,798,ISO 3166-2:TV,图瓦卢
-"Uganda
-",UG,UGA,800,ISO 3166-2:UG,乌干达
-"Ukraine
-",UA,UKR,804,ISO 3166-2:UA,乌克兰
-"United Arab Emirates
-",AE,ARE,784,ISO 3166-2:AE,阿联酋
-"United Kingdom of Great Britain and Northern Ireland
-",GB,GBR,826,ISO 3166-2:GB,英国
-"United States of America
-",US,USA,840,ISO 3166-2:US,美国
-"United States Minor Outlying Islands
-",UM,UMI,581,ISO 3166-2:UM,美国本土外小岛屿
-"Uruguay
-",UY,URY,858,ISO 3166-2:UY,乌拉圭
-"Uzbekistan
-",UZ,UZB,860,ISO 3166-2:UZ,乌兹别克斯坦
-"Vanuatu
-",VU,VUT,548,ISO 3166-2:VU,瓦努阿图
-"Venezuela (Bolivarian Republic of)
-",VE,VEN,862,ISO 3166-2:VE,委内瑞拉
-"Viet Nam
-",VN,VNM,704,ISO 3166-2:VN,越南
-"Virgin Islands (British)
-",VG,VGB,92,ISO 3166-2:VG,英属维尔京群岛
-"Virgin Islands (U.S.)
-",VI,VIR,850,ISO 3166-2:VI,美属维尔京群岛
-"Wallis and Futuna
-",WF,WLF,876,ISO 3166-2:WF,瓦利斯和富图纳
-"Western Sahara
-",EH,ESH,732,ISO 3166-2:EH,西撒哈拉
-"Yemen
-",YE,YEM,887,ISO 3166-2:YE,也门
-"Zambia
-",ZM,ZMB,894,ISO 3166-2:ZM,赞比亚
-"Zimbabwe
-",ZW,ZWE,716,ISO 3166-2:ZW,津巴布韦
+"Afghanistan",AF,AFG,4,ISO 3166-2:AF,阿富汗
+"Åland Islands",AX,ALA,248,ISO 3166-2:AX,奥兰
+"Albania",AL,ALB,8,ISO 3166-2:AL,阿尔巴尼亚
+"Algeria",DZ,DZA,12,ISO 3166-2:DZ,阿尔及利亚
+"American Samoa",AS,ASM,16,ISO 3166-2:AS,美属萨摩亚
+"Andorra",AD,AND,20,ISO 3166-2:AD,安道尔
+"Angola",AO,AGO,24,ISO 3166-2:AO,安哥拉
+"Anguilla",AI,AIA,660,ISO 3166-2:AI,安圭拉
+"Antarctica",AQ,ATA,10,ISO 3166-2:AQ,南极洲
+"Antigua and Barbuda",AG,ATG,28,ISO 3166-2:AG,安提瓜和巴布达
+"Argentina",AR,ARG,32,ISO 3166-2:AR,阿根廷
+"Armenia",AM,ARM,51,ISO 3166-2:AM,亚美尼亚
+"Aruba",AW,ABW,533,ISO 3166-2:AW,阿鲁巴
+"Australia",AU,AUS,36,ISO 3166-2:AU,澳大利亚
+"Austria",AT,AUT,40,ISO 3166-2:AT,奥地利
+"Azerbaijan",AZ,AZE,31,ISO 3166-2:AZ,阿塞拜疆
+"Bahamas",BS,BHS,44,ISO 3166-2:BS,巴哈马
+"Bahrain",BH,BHR,48,ISO 3166-2:BH,巴林
+"Bangladesh",BD,BGD,50,ISO 3166-2:BD,孟加拉国
+"Barbados",BB,BRB,52,ISO 3166-2:BB,巴巴多斯
+"Belarus",BY,BLR,112,ISO 3166-2:BY,白俄罗斯
+"Belgium",BE,BEL,56,ISO 3166-2:BE,比利时
+"Belize",BZ,BLZ,84,ISO 3166-2:BZ,伯利兹
+"Benin",BJ,BEN,204,ISO 3166-2:BJ,贝宁
+"Bermuda",BM,BMU,60,ISO 3166-2:BM,百慕大
+"Bhutan",BT,BTN,64,ISO 3166-2:BT,不丹
+"Bolivia (Plurinational State of)",BO,BOL,68,ISO 3166-2:BO,玻利维亚
+"Bonaire, Sint Eustatius and Saba",BQ,BES,535,ISO 3166-2:BQ,荷兰加勒比区
+"Bosnia and Herzegovina",BA,BIH,70,ISO 3166-2:BA,波黑
+"Botswana",BW,BWA,72,ISO 3166-2:BW,博茨瓦纳
+"Bouvet Island",BV,BVT,74,ISO 3166-2:BV,布韦岛
+"Brazil",BR,BRA,76,ISO 3166-2:BR,巴西
+"British Indian Ocean Territory",IO,IOT,86,ISO 3166-2:IO,英属印度洋领地
+"Brunei Darussalam",BN,BRN,96,ISO 3166-2:BN,文莱
+"Bulgaria",BG,BGR,100,ISO 3166-2:BG,保加利亚
+"Burkina Faso",BF,BFA,854,ISO 3166-2:BF,布基纳法索
+"Burundi",BI,BDI,108,ISO 3166-2:BI,布隆迪
+"Cabo Verde",CV,CPV,132,ISO 3166-2:CV,佛得角
+"Cambodia",KH,KHM,116,ISO 3166-2:KH,柬埔寨
+"Cameroon",CM,CMR,120,ISO 3166-2:CM,喀麦隆
+"Canada",CA,CAN,124,ISO 3166-2:CA,加拿大
+"Cayman Islands",KY,CYM,136,ISO 3166-2:KY,开曼群岛
+"Central African Republic",CF,CAF,140,ISO 3166-2:CF,中非
+"Chad",TD,TCD,148,ISO 3166-2:TD,乍得
+"Chile",CL,CHL,152,ISO 3166-2:CL,智利
+"China",CN,CHN,156,ISO 3166-2:CN,中国
+"Christmas Island",CX,CXR,162,ISO 3166-2:CX,圣诞岛
+"Cocos (Keeling) Islands",CC,CCK,166,ISO 3166-2:CC,科科斯（基林）群岛
+"Colombia",CO,COL,170,ISO 3166-2:CO,哥伦比亚
+"Comoros",KM,COM,174,ISO 3166-2:KM,科摩罗
+"Congo",CG,COG,178,ISO 3166-2:CG,刚果共和国
+"Congo (Democratic Republic of the)",CD,COD,180,ISO 3166-2:CD,刚果民主共和国
+"Cook Islands",CK,COK,184,ISO 3166-2:CK,库克群岛
+"Costa Rica",CR,CRI,188,ISO 3166-2:CR,哥斯达黎加
+"Côte d'Ivoire",CI,CIV,384,ISO 3166-2:CI,象牙海岸
+"Croatia",HR,HRV,191,ISO 3166-2:HR,克罗地亚
+"Cuba",CU,CUB,192,ISO 3166-2:CU,古巴
+"Curacao !Curaçao",CW,CUW,531,ISO 3166-2:CW,库拉索
+"Cyprus",CY,CYP,196,ISO 3166-2:CY,塞浦路斯
+"Czechia",CZ,CZE,203,ISO 3166-2:CZ,捷克
+"Denmark",DK,DNK,208,ISO 3166-2:DK,丹麦
+"Djibouti",DJ,DJI,262,ISO 3166-2:DJ,吉布提
+"Dominica",DM,DMA,212,ISO 3166-2:DM,多米尼克
+"Dominican Republic",DO,DOM,214,ISO 3166-2:DO,多米尼加
+"Ecuador",EC,ECU,218,ISO 3166-2:EC,厄瓜多尔
+"Egypt",EG,EGY,818,ISO 3166-2:EG,埃及
+"El Salvador",SV,SLV,222,ISO 3166-2:SV,萨尔瓦多
+"Equatorial Guinea",GQ,GNQ,226,ISO 3166-2:GQ,赤道几内亚
+"Eritrea",ER,ERI,232,ISO 3166-2:ER,厄立特里亚
+"Estonia",EE,EST,233,ISO 3166-2:EE,爱沙尼亚
+"Eswatini",SZ,SWZ,748,ISO 3166-2:SZ,斯威士兰
+"Ethiopia",ET,ETH,231,ISO 3166-2:ET,埃塞俄比亚
+"Falkland Islands (Malvinas)",FK,FLK,238,ISO 3166-2:FK,福克兰群岛
+"Faroe Islands",FO,FRO,234,ISO 3166-2:FO,法罗群岛
+"Fiji",FJ,FJI,242,ISO 3166-2:FJ,斐济
+"Finland",FI,FIN,246,ISO 3166-2:FI,芬兰
+"France",FR,FRA,250,ISO 3166-2:FR,法国
+"French Guiana",GF,GUF,254,ISO 3166-2:GF,法属圭亚那
+"French Polynesia",PF,PYF,258,ISO 3166-2:PF,法属波利尼西亚
+"French Southern Territories",TF,ATF,260,ISO 3166-2:TF,法属南部和南极领地
+"Gabon",GA,GAB,266,ISO 3166-2:GA,加蓬
+"Gambia",GM,GMB,270,ISO 3166-2:GM,冈比亚
+"Georgia",GE,GEO,268,ISO 3166-2:GE,格鲁吉亚
+"Germany",DE,DEU,276,ISO 3166-2:DE,德国
+"Ghana",GH,GHA,288,ISO 3166-2:GH,加纳
+"Gibraltar",GI,GIB,292,ISO 3166-2:GI,直布罗陀
+"Greece",GR,GRC,300,ISO 3166-2:GR,希腊
+"Greenland",GL,GRL,304,ISO 3166-2:GL,格陵兰
+"Grenada",GD,GRD,308,ISO 3166-2:GD,格林纳达
+"Guadeloupe",GP,GLP,312,ISO 3166-2:GP,瓜德罗普
+"Guam",GU,GUM,316,ISO 3166-2:GU,关岛
+"Guatemala",GT,GTM,320,ISO 3166-2:GT,危地马拉
+"Guernsey",GG,GGY,831,ISO 3166-2:GG,根西
+"Guinea",GN,GIN,324,ISO 3166-2:GN,几内亚
+"Guinea-Bissau",GW,GNB,624,ISO 3166-2:GW,几内亚比绍
+"Guyana",GY,GUY,328,ISO 3166-2:GY,圭亚那
+"Haiti",HT,HTI,332,ISO 3166-2:HT,海地
+"Heard Island and McDonald Islands",HM,HMD,334,ISO 3166-2:HM,赫德岛和麦克唐纳群岛
+"Holy See",VA,VAT,336,ISO 3166-2:VA,梵蒂冈
+"Honduras",HN,HND,340,ISO 3166-2:HN,洪都拉斯
+"Hong Kong",HK,HKG,344,ISO 3166-2:HK,香港
+"Hungary",HU,HUN,348,ISO 3166-2:HU,匈牙利
+"Iceland",IS,ISL,352,ISO 3166-2:IS,冰岛
+"India",IN,IND,356,ISO 3166-2:IN,印度
+"Indonesia",ID,IDN,360,ISO 3166-2:ID,印尼
+"Iran (Islamic Republic of)",IR,IRN,364,ISO 3166-2:IR,伊朗
+"Iraq",IQ,IRQ,368,ISO 3166-2:IQ,伊拉克
+"Ireland",IE,IRL,372,ISO 3166-2:IE,爱尔兰
+"Isle of Man",IM,IMN,833,ISO 3166-2:IM,马恩岛
+"Israel",IL,ISR,376,ISO 3166-2:IL,以色列
+"Italy",IT,ITA,380,ISO 3166-2:IT,意大利
+"Jamaica",JM,JAM,388,ISO 3166-2:JM,牙买加
+"Japan",JP,JPN,392,ISO 3166-2:JP,日本
+"Jersey",JE,JEY,832,ISO 3166-2:JE,泽西
+"Jordan",JO,JOR,400,ISO 3166-2:JO,约旦
+"Kazakhstan",KZ,KAZ,398,ISO 3166-2:KZ,哈萨克斯坦
+"Kenya",KE,KEN,404,ISO 3166-2:KE,肯尼亚
+"Kiribati",KI,KIR,296,ISO 3166-2:KI,基里巴斯
+"Korea (Democratic People's Republic of)",KP,PRK,408,ISO 3166-2:KP,北韩
+"Korea (Republic of)",KR,KOR,410,ISO 3166-2:KR,南韩
+"Kuwait",KW,KWT,414,ISO 3166-2:KW,科威特
+"Kyrgyzstan",KG,KGZ,417,ISO 3166-2:KG,吉尔吉斯斯坦
+"Lao People's Democratic Republic",LA,LAO,418,ISO 3166-2:LA,老挝
+"Latvia",LV,LVA,428,ISO 3166-2:LV,拉脱维亚
+"Lebanon",LB,LBN,422,ISO 3166-2:LB,黎巴嫩
+"Lesotho",LS,LSO,426,ISO 3166-2:LS,莱索托
+"Liberia",LR,LBR,430,ISO 3166-2:LR,利比里亚
+"Libya",LY,LBY,434,ISO 3166-2:LY,利比亚
+"Liechtenstein",LI,LIE,438,ISO 3166-2:LI,列支敦士登
+"Lithuania",LT,LTU,440,ISO 3166-2:LT,立陶宛
+"Luxembourg",LU,LUX,442,ISO 3166-2:LU,卢森堡
+"Macao",MO,MAC,446,ISO 3166-2:MO,澳门
+"Madagascar",MG,MDG,450,ISO 3166-2:MG,马达加斯加
+"Malawi",MW,MWI,454,ISO 3166-2:MW,马拉维
+"Malaysia",MY,MYS,458,ISO 3166-2:MY,马来西亚
+"Maldives",MV,MDV,462,ISO 3166-2:MV,马尔代夫
+"Mali",ML,MLI,466,ISO 3166-2:ML,马里
+"Malta",MT,MLT,470,ISO 3166-2:MT,马耳他
+"Marshall Islands",MH,MHL,584,ISO 3166-2:MH,马绍尔群岛
+"Martinique",MQ,MTQ,474,ISO 3166-2:MQ,马提尼克
+"Mauritania",MR,MRT,478,ISO 3166-2:MR,毛里塔尼亚
+"Mauritius",MU,MUS,480,ISO 3166-2:MU,毛里求斯
+"Mayotte",YT,MYT,175,ISO 3166-2:YT,马约特
+"Mexico",MX,MEX,484,ISO 3166-2:MX,墨西哥
+"Micronesia (Federated States of)",FM,FSM,583,ISO 3166-2:FM,密克罗尼西亚联邦
+"Moldova (Republic of)",MD,MDA,498,ISO 3166-2:MD,摩尔多瓦
+"Monaco",MC,MCO,492,ISO 3166-2:MC,摩纳哥
+"Mongolia",MN,MNG,496,ISO 3166-2:MN,蒙古
+"Montenegro",ME,MNE,499,ISO 3166-2:ME,黑山
+"Montserrat",MS,MSR,500,ISO 3166-2:MS,蒙特塞拉特
+"Morocco",MA,MAR,504,ISO 3166-2:MA,摩洛哥
+"Mozambique",MZ,MOZ,508,ISO 3166-2:MZ,莫桑比克
+"Myanmar",MM,MMR,104,ISO 3166-2:MM,缅甸
+"Namibia",NA,NAM,516,ISO 3166-2:NA,纳米比亚
+"Nauru",NR,NRU,520,ISO 3166-2:NR,瑙鲁
+"Nepal",NP,NPL,524,ISO 3166-2:NP,
+"Netherlands",NL,NLD,528,ISO 3166-2:NL,荷兰
+"New Caledonia",NC,NCL,540,ISO 3166-2:NC,新喀里多尼亚
+"New Zealand",NZ,NZL,554,ISO 3166-2:NZ,新西兰
+"Nicaragua",NI,NIC,558,ISO 3166-2:NI,尼加拉瓜
+"Niger",NE,NER,562,ISO 3166-2:NE,尼日尔
+"Nigeria",NG,NGA,566,ISO 3166-2:NG,尼日利亚
+"Niue",NU,NIU,570,ISO 3166-2:NU,纽埃
+"Norfolk Island",NF,NFK,574,ISO 3166-2:NF,诺福克岛
+"North Macedonia",MK,MKD,807,ISO 3166-2:MK,北马其顿
+"Northern Mariana Islands",MP,MNP,580,ISO 3166-2:MP,北马里亚纳群岛
+"Norway",NO,NOR,578,ISO 3166-2:NO,挪威
+"Oman",OM,OMN,512,ISO 3166-2:OM,阿曼
+"Pakistan",PK,PAK,586,ISO 3166-2:PK,巴基斯坦
+"Palau",PW,PLW,585,ISO 3166-2:PW,帕劳
+"Palestine, State of",PS,PSE,275,ISO 3166-2:PS,巴勒斯坦
+"Panama",PA,PAN,591,ISO 3166-2:PA,巴拿马
+"Papua New Guinea",PG,PNG,598,ISO 3166-2:PG,巴布亚新几内亚
+"Paraguay",PY,PRY,600,ISO 3166-2:PY,巴拉圭
+"Peru",PE,PER,604,ISO 3166-2:PE,秘鲁
+"Philippines",PH,PHL,608,ISO 3166-2:PH,菲律宾
+"Pitcairn",PN,PCN,612,ISO 3166-2:PN,皮特凯恩群岛
+"Poland",PL,POL,616,ISO 3166-2:PL,波兰
+"Portugal",PT,PRT,620,ISO 3166-2:PT,葡萄牙
+"Puerto Rico",PR,PRI,630,ISO 3166-2:PR,波多黎各
+"Qatar",QA,QAT,634,ISO 3166-2:QA,卡塔尔
+"Réunion",RE,REU,638,ISO 3166-2:RE,留尼汪
+"Romania",RO,ROU,642,ISO 3166-2:RO,罗马尼亚
+"Russian Federation",RU,RUS,643,ISO 3166-2:RU,俄罗斯
+"Rwanda",RW,RWA,646,ISO 3166-2:RW,卢旺达
+"Saint Barthélemy",BL,BLM,652,ISO 3166-2:BL,圣巴泰勒米
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,ISO 3166-2:SH,圣赫勒拿、阿森松和特里斯坦-达库尼亚
+"Saint Kitts and Nevis",KN,KNA,659,ISO 3166-2:KN,圣基茨和尼维斯
+"Saint Lucia",LC,LCA,662,ISO 3166-2:LC,圣卢西亚
+"Saint Martin (French part)",MF,MAF,663,ISO 3166-2:MF,法属圣马丁
+"Saint Pierre and Miquelon",PM,SPM,666,ISO 3166-2:PM,圣皮埃尔和密克隆
+"Saint Vincent and the Grenadines",VC,VCT,670,ISO 3166-2:VC,圣文森特和格林纳丁斯
+"Samoa",WS,WSM,882,ISO 3166-2:WS,萨摩亚
+"San Marino",SM,SMR,674,ISO 3166-2:SM,圣马力诺
+"Sao Tome and Principe",ST,STP,678,ISO 3166-2:ST,圣多美和普林西比
+"Saudi Arabia",SA,SAU,682,ISO 3166-2:SA,沙特阿拉伯
+"Senegal",SN,SEN,686,ISO 3166-2:SN,塞内加尔
+"Serbia",RS,SRB,688,ISO 3166-2:RS,塞尔维亚
+"Seychelles",SC,SYC,690,ISO 3166-2:SC,塞舌尔
+"Sierra Leone",SL,SLE,694,ISO 3166-2:SL,塞拉利昂
+"Singapore",SG,SGP,702,ISO 3166-2:SG,新加坡
+"Sint Maarten (Dutch part)",SX,SXM,534,ISO 3166-2:SX,荷属圣马丁
+"Slovakia",SK,SVK,703,ISO 3166-2:SK,斯洛伐克
+"Slovenia",SI,SVN,705,ISO 3166-2:SI,斯洛文尼亚
+"Solomon Islands",SB,SLB,90,ISO 3166-2:SB,所罗门群岛
+"Somalia",SO,SOM,706,ISO 3166-2:SO,索马里
+"South Africa",ZA,ZAF,710,ISO 3166-2:ZA,南非
+"South Georgia and the South Sandwich Islands",GS,SGS,239,ISO 3166-2:GS,南乔治亚和南桑威奇群岛
+"South Sudan",SS,SSD,728,ISO 3166-2:SS,南苏丹
+"Spain",ES,ESP,724,ISO 3166-2:ES,西班牙
+"Sri Lanka",LK,LKA,144,ISO 3166-2:LK,斯里兰卡
+"Sudan",SD,SDN,729,ISO 3166-2:SD,苏丹
+"Suriname",SR,SUR,740,ISO 3166-2:SR,苏里南
+"Svalbard and Jan Mayen",SJ,SJM,744,ISO 3166-2:SJ,斯瓦尔巴和扬马延
+"Sweden",SE,SWE,752,ISO 3166-2:SE,瑞典
+"Switzerland",CH,CHE,756,ISO 3166-2:CH,瑞士
+"Syrian Arab Republic",SY,SYR,760,ISO 3166-2:SY,叙利亚
+"Taiwan, Province of China[note 1]",TW,TWN,158,ISO 3166-2:TW,中国台湾省
+"Tajikistan",TJ,TJK,762,ISO 3166-2:TJ,塔吉克斯坦
+"Tanzania, United Republic of",TZ,TZA,834,ISO 3166-2:TZ,坦桑尼亚
+"Thailand",TH,THA,764,ISO 3166-2:TH,泰国
+"Timor-Leste",TL,TLS,626,ISO 3166-2:TL,东帝汶
+"Togo",TG,TGO,768,ISO 3166-2:TG,多哥
+"Tokelau",TK,TKL,772,ISO 3166-2:TK,托克劳
+"Tonga",TO,TON,776,ISO 3166-2:TO,汤加
+"Trinidad and Tobago",TT,TTO,780,ISO 3166-2:TT,特立尼达和多巴哥
+"Tunisia",TN,TUN,788,ISO 3166-2:TN,突尼斯
+"Turkey",TR,TUR,792,ISO 3166-2:TR,土耳其
+"Turkmenistan",TM,TKM,795,ISO 3166-2:TM,土库曼斯坦
+"Turks and Caicos Islands",TC,TCA,796,ISO 3166-2:TC,特克斯和凯科斯群岛
+"Tuvalu",TV,TUV,798,ISO 3166-2:TV,图瓦卢
+"Uganda",UG,UGA,800,ISO 3166-2:UG,乌干达
+"Ukraine",UA,UKR,804,ISO 3166-2:UA,乌克兰
+"United Arab Emirates",AE,ARE,784,ISO 3166-2:AE,阿联酋
+"United Kingdom of Great Britain and Northern Ireland",GB,GBR,826,ISO 3166-2:GB,英国
+"United States of America",US,USA,840,ISO 3166-2:US,美国
+"United States Minor Outlying Islands",UM,UMI,581,ISO 3166-2:UM,美国本土外小岛屿
+"Uruguay",UY,URY,858,ISO 3166-2:UY,乌拉圭
+"Uzbekistan",UZ,UZB,860,ISO 3166-2:UZ,乌兹别克斯坦
+"Vanuatu",VU,VUT,548,ISO 3166-2:VU,瓦努阿图
+"Venezuela (Bolivarian Republic of)",VE,VEN,862,ISO 3166-2:VE,委内瑞拉
+"Viet Nam",VN,VNM,704,ISO 3166-2:VN,越南
+"Virgin Islands (British)",VG,VGB,92,ISO 3166-2:VG,英属维尔京群岛
+"Virgin Islands (U.S.)",VI,VIR,850,ISO 3166-2:VI,美属维尔京群岛
+"Wallis and Futuna",WF,WLF,876,ISO 3166-2:WF,瓦利斯和富图纳
+"Western Sahara",EH,ESH,732,ISO 3166-2:EH,西撒哈拉
+"Yemen",YE,YEM,887,ISO 3166-2:YE,也门
+"Zambia",ZM,ZMB,894,ISO 3166-2:ZM,赞比亚
+"Zimbabwe",ZW,ZWE,716,ISO 3166-2:ZW,津巴布韦
