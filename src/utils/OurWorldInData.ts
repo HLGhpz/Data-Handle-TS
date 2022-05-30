@@ -82,7 +82,7 @@ async function ourWorldInData() {
     // 选择部分有用数据
     let useData: any = []
     _.map(result, (item) => {
-      useData.push(...(_.values(_.pick(item, ['iso2Code']))))
+      useData.push(_.values(_.pick(item, ['iso2Code'])))
     })
 
     useData = _.uniqWith(useData, _.isEqual)
