@@ -2,16 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-30 13:30:33
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-30 17:37:43
- * @Description:
- *
- * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
- */
-/*
- * @Author: HLGhpz
- * @Date: 2022-05-27 19:57:52
- * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-28 21:58:47
+ * @LastEditTime: 2022-05-31 10:51:43
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -24,35 +15,38 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const IMPORT_FILE_PATH = path.join(__dirname, './src/rowData/FAO/PigMeat.csv')
+const CategoryName = 'HenEgg'
 
-const EXPORT_FILE_PATH = path.join(__dirname, './distData/FAO/temp.json')
+const IMPORT_FILE_PATH = path.join(
+  __dirname,
+  `./src/rowData/FAO/${CategoryName}.csv`
+)
+
+const EXPORT_FILE_PATH = path.join(
+  __dirname,
+  `./distData/FAO/${CategoryName}.json`
+)
 const EXPORT_FILE_PATH_OTHER = path.join(
   __dirname,
   './distData/FAO/colorMap.json'
 )
 
 const colorPlate = [
-  '#E01F54',
-  '#001852',
-  '#f5e8c8',
-  '#b8d2c7',
-  '#c6b38e',
-  '#a4d8c2',
-  '#f3d999',
-  '#d3758f',
-  '#dcc392',
-  '#2e4783',
-  '#82b6e9',
-  '#ff6347',
-  '#a092f1',
-  '#0a915d',
-  '#eaf889',
-  '#6699FF',
-  '#ff6666',
-  '#3cb371',
-  '#d5b158',
-  '#38b6b6'
+  '#C1232B',
+  '#27727B',
+  '#FCCE10',
+  '#E87C25',
+  '#B5C334',
+  '#FE8463',
+  '#9BCA63',
+  '#FAD860',
+  '#F3A43B',
+  '#60C0DD',
+  '#D7504B',
+  '#C6E579',
+  '#F4E001',
+  '#F0805A',
+  '#26C0C0'
 ]
 
 async function faoData() {
@@ -66,6 +60,10 @@ async function faoData() {
     )
 
     let data = _.chain(dv.rows)
+      .filter((item)=>{
+        // 筛选单位
+        return item.Unit === 'tonnes'
+      })
       .map((item) => {
         item = _.chain(item)
           .mapKeys((value, key) => {
@@ -91,15 +89,18 @@ async function faoData() {
         } else if (item.Code === 'F15') {
           // 卢森堡
           item.Code = 'LUX'
+        } else if (item.Code === 'F51') {
+          // 捷克斯洛伐克
+          item.Code = 'OWID_CZS'
+        } else if (item.Code === 'F206') {
+          // 前苏丹
+          item.Code = 'SDN'
         } else if (item.Code === 'F228') {
           // 苏联
           item.Code = 'OWID_USS'
         } else if (item.Code === 'F248') {
           // 南斯拉夫
           item.Code = 'OWID_YGS'
-        } else if (item.Code === 'F51') {
-          // 捷克斯洛伐克
-          item.Code = 'OWID_CZS'
         } else if (item.Code === 'X01') {
           // 全球
           item.Code = 'OWID_WRL'
@@ -152,8 +153,10 @@ async function faoData() {
     _.map(result, (item) => {
       useData.push(..._.values(_.pick(item, 'iso2Code')))
     })
-    // 去重
+    // console.log(useData)
+    // // 去重
     useData = _.uniqWith(useData, _.isEqual)
+    // console.log(useData)
 
     // 确定颜色映射
     let colorMap: any = {}
