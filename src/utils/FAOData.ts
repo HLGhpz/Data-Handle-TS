@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-30 13:30:33
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-31 10:51:43
+ * @LastEditTime: 2022-05-31 20:48:47
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'HenEgg'
+const CategoryName = 'Pineapple'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
