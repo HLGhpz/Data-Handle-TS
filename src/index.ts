@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-01 11:01:12
+ * @LastEditTime: 2022-06-01 20:20:20
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -21,10 +21,10 @@ import FAOData from './utils/FAOData'
 
 // BulkInsertDB()
 // FillNationCode()
-CSV2JSON()
+// CSV2JSON()
 // CalendarUse()
 // Array2Json()
 // CheckData()
 // OurWorldInData()
 // Test()
-// FAOData()
+FAOData()

@@ -1,0 +1,6041 @@
+[{
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1961,
+  "Production": 990079,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1961,
+  "Production": 495000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1961,
+  "Production": 393500,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1961,
+  "Production": 70740,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1961,
+  "Production": 15298,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1961,
+  "Production": 13271,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1961,
+  "Production": 2250,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1961,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1962,
+  "Production": 870058,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1962,
+  "Production": 440000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1962,
+  "Production": 322500,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1962,
+  "Production": 72830,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1962,
+  "Production": 16594,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1962,
+  "Production": 16005,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1962,
+  "Production": 2109,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1962,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1963,
+  "Production": 965877,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1963,
+  "Production": 475000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1963,
+  "Production": 383500,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1963,
+  "Production": 75200,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1963,
+  "Production": 16239,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1963,
+  "Production": 14114,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1963,
+  "Production": 1804,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1963,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1964,
+  "Production": 1045660,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1964,
+  "Production": 465000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1964,
+  "Production": 464000,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1964,
+  "Production": 73500,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1964,
+  "Production": 23602,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1964,
+  "Production": 17198,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1964,
+  "Production": 2340,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1964,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1965,
+  "Production": 978915,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1965,
+  "Production": 515000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1965,
+  "Production": 346400,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1965,
+  "Production": 72000,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1965,
+  "Production": 23510,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1965,
+  "Production": 19988,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1965,
+  "Production": 1997,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1965,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1966,
+  "Production": 1029482,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1966,
+  "Production": 495000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1966,
+  "Production": 419300,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1966,
+  "Production": 71400,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1966,
+  "Production": 22075,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1966,
+  "Production": 19586,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1966,
+  "Production": 2101,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1966,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1967,
+  "Production": 1098869,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1967,
+  "Production": 504400,
+  "rank": 1,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1967,
+  "Production": 475000,
+  "rank": 2,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1967,
+  "Production": 73600,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1967,
+  "Production": 23609,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1967,
+  "Production": 20037,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1967,
+  "Production": 2203,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1967,
+  "Production": 20,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1968,
+  "Production": 1050764,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1968,
+  "Production": 470000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1968,
+  "Production": 450100,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1968,
+  "Production": 73300,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1968,
+  "Production": 34579,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1968,
+  "Production": 20427,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1968,
+  "Production": 2333,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1968,
+  "Production": 25,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1969,
+  "Production": 988980,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1969,
+  "Production": 444100,
+  "rank": 1,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1969,
+  "Production": 414000,
+  "rank": 2,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1969,
+  "Production": 74000,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1969,
+  "Production": 33854,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1969,
+  "Production": 20849,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1969,
+  "Production": 2152,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1969,
+  "Production": 25,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1970,
+  "Production": 911635,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1970,
+  "Production": 455000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1970,
+  "Production": 342700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1970,
+  "Production": 59600,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1970,
+  "Production": 30310,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1970,
+  "Production": 21659,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1970,
+  "Production": 2341,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1970,
+  "Production": 25,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1971,
+  "Production": 836286,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1971,
+  "Production": 427000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1971,
+  "Production": 303200,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1971,
+  "Production": 59200,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1971,
+  "Production": 22887,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1971,
+  "Production": 21558,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1971,
+  "Production": 2411,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1971,
+  "Production": 30,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1972,
+  "Production": 907292,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1972,
+  "Production": 480000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1972,
+  "Production": 306900,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1972,
+  "Production": 61700,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1972,
+  "Production": 31115,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1972,
+  "Production": 25188,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1972,
+  "Production": 2359,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1972,
+  "Production": 30,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1973,
+  "Production": 995403,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1973,
+  "Production": 535000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1973,
+  "Production": 347200,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1973,
+  "Production": 59000,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1973,
+  "Production": 32284,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1973,
+  "Production": 19374,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1973,
+  "Production": 2515,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1973,
+  "Production": 30,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1974,
+  "Production": 950249,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1974,
+  "Production": 538000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1974,
+  "Production": 283600,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1974,
+  "Production": 63500,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1974,
+  "Production": 41928,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1974,
+  "Production": 20446,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1974,
+  "Production": 2745,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1974,
+  "Production": 30,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1975,
+  "Production": 908607,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1975,
+  "Production": 528000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1975,
+  "Production": 274700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1975,
+  "Production": 60000,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1975,
+  "Production": 22114,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1975,
+  "Production": 20890,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1975,
+  "Production": 2843,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1975,
+  "Production": 60,
+  "rank": 7,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1976,
+  "Production": 899686,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1976,
+  "Production": 530000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1976,
+  "Production": 264100,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1976,
+  "Production": 60690,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1976,
+  "Production": 22364,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1976,
+  "Production": 16946,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1976,
+  "Production": 3826,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1976,
+  "Production": 1700,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1976,
+  "Production": 60,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1977,
+  "Production": 923321,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1977,
+  "Production": 525000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1977,
+  "Production": 275400,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1977,
+  "Production": 62100,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1977,
+  "Production": 30138,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1977,
+  "Production": 23801,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1977,
+  "Production": 4422,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1977,
+  "Production": 2400,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1977,
+  "Production": 60,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1978,
+  "Production": 987547,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1978,
+  "Production": 570000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1978,
+  "Production": 287000,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1978,
+  "Production": 57800,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1978,
+  "Production": 36340,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1978,
+  "Production": 29984,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1978,
+  "Production": 4463,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1978,
+  "Production": 1900,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1978,
+  "Production": 60,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1979,
+  "Production": 910503,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1979,
+  "Production": 506500,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1979,
+  "Production": 263900,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1979,
+  "Production": 58500,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1979,
+  "Production": 40385,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1979,
+  "Production": 33386,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1979,
+  "Production": 5267,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1979,
+  "Production": 2500,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1979,
+  "Production": 65,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1980,
+  "Production": 968198,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1980,
+  "Production": 560400,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1980,
+  "Production": 265200,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1980,
+  "Production": 61100,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1980,
+  "Production": 39958,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1980,
+  "Production": 31837,
+  "rank": 5,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1980,
+  "Production": 6238,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1980,
+  "Production": 3400,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1980,
+  "Production": 65,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1981,
+  "Production": 919207,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1981,
+  "Production": 506000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1981,
+  "Production": 260500,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1981,
+  "Production": 62800,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1981,
+  "Production": 39254,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1981,
+  "Production": 37598,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1981,
+  "Production": 7313,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1981,
+  "Production": 5600,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1981,
+  "Production": 90,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1981,
+  "Production": 52,
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1982,
+  "Production": 992416,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1982,
+  "Production": 482000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1982,
+  "Production": 333700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1982,
+  "Production": 65400,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1982,
+  "Production": 57807,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1982,
+  "Production": 38396,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1982,
+  "Production": 8100,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1982,
+  "Production": 6621,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1982,
+  "Production": 252,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1982,
+  "Production": 140,
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1983,
+  "Production": 1096858,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1983,
+  "Production": 553000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1983,
+  "Production": 309900,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1983,
+  "Production": 91052,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1983,
+  "Production": 76700,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1983,
+  "Production": 45298,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1983,
+  "Production": 12700,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1983,
+  "Production": 7850,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1983,
+  "Production": 150,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1983,
+  "Production": 126,
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1983,
+  "Production": 82,
+  "rank": 10,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1984,
+  "Production": 1118477,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1984,
+  "Production": 608000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1984,
+  "Production": 297400,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1984,
+  "Production": 78400,
+  "rank": 3,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1984,
+  "Production": 68812,
+  "rank": 4,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1984,
+  "Production": 41915,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1984,
+  "Production": 13900,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1984,
+  "Production": 9525,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1984,
+  "Production": 300,
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1984,
+  "Production": 125,
+  "rank": 9,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1984,
+  "Production": 100,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1985,
+  "Production": 1186165,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1985,
+  "Production": 680000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1985,
+  "Production": 289700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1985,
+  "Production": 97031,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1985,
+  "Production": 56200,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1985,
+  "Production": 43658,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1985,
+  "Production": 10945,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1985,
+  "Production": 8100,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1985,
+  "Production": 255,
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1985,
+  "Production": 216,
+  "rank": 9,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1985,
+  "Production": 60,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1986,
+  "Production": 1277032,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1986,
+  "Production": 750000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1986,
+  "Production": 291300,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1986,
+  "Production": 98906,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1986,
+  "Production": 69700,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1986,
+  "Production": 43488,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1986,
+  "Production": 11900,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1986,
+  "Production": 10626,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1986,
+  "Production": 450,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1986,
+  "Production": 404,
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1986,
+  "Production": 211,
+  "rank": 10,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1986,
+  "Production": 47,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1987,
+  "Production": 1332767,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1987,
+  "Production": 820000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1987,
+  "Production": 290200,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1987,
+  "Production": 75677,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1987,
+  "Production": 69820,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1987,
+  "Production": 45000,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1987,
+  "Production": 19200,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1987,
+  "Production": 11811,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1987,
+  "Production": 580,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1987,
+  "Production": 233,
+  "rank": 9,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1987,
+  "Production": 201,
+  "rank": 10,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1987,
+  "Production": 45,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1988,
+  "Production": 1257684,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1988,
+  "Production": 732921,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1988,
+  "Production": 287600,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1988,
+  "Production": 98337,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1988,
+  "Production": 69170,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1988,
+  "Production": 45745,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1988,
+  "Production": 15694,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1988,
+  "Production": 7000,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1988,
+  "Production": 650,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1988,
+  "Production": 237,
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1988,
+  "Production": 230,
+  "rank": 10,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1988,
+  "Production": 100,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1989,
+  "Production": 1185538,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1989,
+  "Production": 650283,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1989,
+  "Production": 268100,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1989,
+  "Production": 113403,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1989,
+  "Production": 72920,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1989,
+  "Production": 46836,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1989,
+  "Production": 16404,
+  "rank": 6,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1989,
+  "Production": 16000,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1989,
+  "Production": 640,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1989,
+  "Production": 400,
+  "rank": 9,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1989,
+  "Production": 320,
+  "rank": 10,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1989,
+  "Production": 232,
+  "rank": 11,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1990,
+  "Production": 1157241,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1990,
+  "Production": 624773,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1990,
+  "Production": 285700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1990,
+  "Production": 95758,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1990,
+  "Production": 68770,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1990,
+  "Production": 46712,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1990,
+  "Production": 17200,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1990,
+  "Production": 15457,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1990,
+  "Production": 972,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1990,
+  "Production": 925,
+  "rank": 9,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1990,
+  "Production": 370,
+  "rank": 10,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1990,
+  "Production": 329,
+  "rank": 11,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1990,
+  "Production": 275,
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1991,
+  "Production": 1145537,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1991,
+  "Production": 641576,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1991,
+  "Production": 248800,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1991,
+  "Production": 109722,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1991,
+  "Production": 61810,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1991,
+  "Production": 47662,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1991,
+  "Production": 16200,
+  "rank": 6,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1991,
+  "Production": 14935,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1991,
+  "Production": 1585,
+  "rank": 8,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1991,
+  "Production": 1222,
+  "rank": 9,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1991,
+  "Production": 786,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1991,
+  "Production": 480,
+  "rank": 11,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1991,
+  "Production": 400,
+  "rank": 12,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1991,
+  "Production": 240,
+  "rank": 13,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1991,
+  "Production": 119,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1992,
+  "Production": 1386012,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1992,
+  "Production": 724329,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1992,
+  "Production": 307700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1992,
+  "Production": 155111,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1992,
+  "Production": 66546,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1992,
+  "Production": 48788,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1992,
+  "Production": 46611,
+  "rank": 6,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1992,
+  "Production": 17390,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1992,
+  "Production": 14636,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1992,
+  "Production": 1222,
+  "rank": 9,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1992,
+  "Production": 1217,
+  "rank": 10,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1992,
+  "Production": 960,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1992,
+  "Production": 510,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1992,
+  "Production": 446,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1992,
+  "Production": 294,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1992,
+  "Production": 252,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1993,
+  "Production": 1332269,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1993,
+  "Production": 789113,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1993,
+  "Production": 241900,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1993,
+  "Production": 116070,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1993,
+  "Production": 56753,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1993,
+  "Production": 48086,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1993,
+  "Production": 42156,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1993,
+  "Production": 16380,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1993,
+  "Production": 15780,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1993,
+  "Production": 1619,
+  "rank": 9,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1993,
+  "Production": 1530,
+  "rank": 10,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1993,
+  "Production": 1222,
+  "rank": 11,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1993,
+  "Production": 640,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1993,
+  "Production": 420,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1993,
+  "Production": 336,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1993,
+  "Production": 264,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1994,
+  "Production": 1476140,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1994,
+  "Production": 826870,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1994,
+  "Production": 302200,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1994,
+  "Production": 167471,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1994,
+  "Production": 55406,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1994,
+  "Production": 48999,
+  "rank": 5,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1994,
+  "Production": 39369,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1994,
+  "Production": 15100,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1994,
+  "Production": 13800,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1994,
+  "Production": 2531,
+  "rank": 9,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1994,
+  "Production": 1500,
+  "rank": 10,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1994,
+  "Production": 1222,
+  "rank": 11,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1994,
+  "Production": 617,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1994,
+  "Production": 465,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1994,
+  "Production": 314,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1994,
+  "Production": 276,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1995,
+  "Production": 1609047,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1995,
+  "Production": 969363,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1995,
+  "Production": 254100,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1995,
+  "Production": 194585,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1995,
+  "Production": 61300,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1995,
+  "Production": 51685,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1995,
+  "Production": 39478,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1995,
+  "Production": 16440,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1995,
+  "Production": 11000,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1995,
+  "Production": 4084,
+  "rank": 9,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1995,
+  "Production": 3726,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1995,
+  "Production": 1600,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1995,
+  "Production": 624,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1995,
+  "Production": 500,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1995,
+  "Production": 288,
+  "rank": 14,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1995,
+  "Production": 274,
+  "rank": 15,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1996,
+  "Production": 1687312,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1996,
+  "Production": 1025219,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1996,
+  "Production": 240500,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1996,
+  "Production": 210766,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1996,
+  "Production": 67800,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1996,
+  "Production": 52548,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1996,
+  "Production": 39089,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1996,
+  "Production": 18200,
+  "rank": 7,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1996,
+  "Production": 15811,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1996,
+  "Production": 8929,
+  "rank": 9,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1996,
+  "Production": 5636,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1996,
+  "Production": 1200,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1996,
+  "Production": 650,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1996,
+  "Production": 369,
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1996,
+  "Production": 300,
+  "rank": 14,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1996,
+  "Production": 295,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1997,
+  "Production": 1825846,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1997,
+  "Production": 1075417,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1997,
+  "Production": 301700,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1997,
+  "Production": 239570,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1997,
+  "Production": 59800,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1997,
+  "Production": 52198,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1997,
+  "Production": 37349,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1997,
+  "Production": 19018,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1997,
+  "Production": 16800,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1997,
+  "Production": 13775,
+  "rank": 9,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1997,
+  "Production": 6814,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1997,
+  "Production": 1673,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1997,
+  "Production": 635,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1997,
+  "Production": 435,
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1997,
+  "Production": 350,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1997,
+  "Production": 312,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1998,
+  "Production": 2070936,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1998,
+  "Production": 1314136,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1998,
+  "Production": 260671,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1998,
+  "Production": 260100,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1998,
+  "Production": 62000,
+  "rank": 4,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1998,
+  "Production": 60423,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1998,
+  "Production": 47423,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1998,
+  "Production": 19279,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1998,
+  "Production": 18962,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1998,
+  "Production": 17400,
+  "rank": 9,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1998,
+  "Production": 6853,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1998,
+  "Production": 1944,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1998,
+  "Production": 641,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1998,
+  "Production": 440,
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1998,
+  "Production": 340,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1998,
+  "Production": 324,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1999,
+  "Production": 2284475,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1999,
+  "Production": 1481300,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 1999,
+  "Production": 286000,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 1999,
+  "Production": 273845,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1999,
+  "Production": 64096,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 1999,
+  "Production": 60116,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1999,
+  "Production": 40769,
+  "rank": 6,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 1999,
+  "Production": 28371,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 1999,
+  "Production": 25754,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 1999,
+  "Production": 14000,
+  "rank": 9,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 1999,
+  "Production": 6214,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1999,
+  "Production": 2263,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1999,
+  "Production": 646,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1999,
+  "Production": 398,
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 1999,
+  "Production": 365,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 1999,
+  "Production": 338,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2000,
+  "Production": 2430443,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2000,
+  "Production": 1591900,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2000,
+  "Production": 287847,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2000,
+  "Production": 278800,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2000,
+  "Production": 70266,
+  "rank": 4,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2000,
+  "Production": 63300,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2000,
+  "Production": 42450,
+  "rank": 6,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2000,
+  "Production": 33000,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2000,
+  "Production": 23891,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2000,
+  "Production": 16000,
+  "rank": 9,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2000,
+  "Production": 14206,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2000,
+  "Production": 4347,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2000,
+  "Production": 2821,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2000,
+  "Production": 652,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2000,
+  "Production": 360,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2000,
+  "Production": 356,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2001,
+  "Production": 2505059,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2001,
+  "Production": 1584700,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2001,
+  "Production": 281800,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2001,
+  "Production": 270338,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2001,
+  "Production": 131106,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2001,
+  "Production": 85972,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2001,
+  "Production": 48240,
+  "rank": 6,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2001,
+  "Production": 34500,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2001,
+  "Production": 26169,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2001,
+  "Production": 16000,
+  "rank": 9,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2001,
+  "Production": 14900,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2001,
+  "Production": 6909,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2001,
+  "Production": 2600,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2001,
+  "Production": 658,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2001,
+  "Production": 402,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2001,
+  "Production": 390,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2002,
+  "Production": 2726275,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2002,
+  "Production": 1740600,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2002,
+  "Production": 281143,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2002,
+  "Production": 269300,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2002,
+  "Production": 141364,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2002,
+  "Production": 104823,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2002,
+  "Production": 54170,
+  "rank": 6,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2002,
+  "Production": 36050,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2002,
+  "Production": 35700,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2002,
+  "Production": 34747,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2002,
+  "Production": 16500,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2002,
+  "Production": 7320,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2002,
+  "Production": 2900,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2002,
+  "Production": 662,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2002,
+  "Production": 410,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2002,
+  "Production": 394,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2003,
+  "Production": 2783844,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2003,
+  "Production": 1795100,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2003,
+  "Production": 265000,
+  "rank": 2,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2003,
+  "Production": 249207,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2003,
+  "Production": 158131,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2003,
+  "Production": 114899,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2003,
+  "Production": 47000,
+  "rank": 6,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2003,
+  "Production": 45200,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2003,
+  "Production": 40100,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2003,
+  "Production": 38247,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2003,
+  "Production": 17000,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2003,
+  "Production": 8567,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2003,
+  "Production": 3000,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2003,
+  "Production": 669,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2003,
+  "Production": 550,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2003,
+  "Production": 415,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2004,
+  "Production": 2950092,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2004,
+  "Production": 1998200,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2004,
+  "Production": 299046,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2004,
+  "Production": 232500,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2004,
+  "Production": 162288,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2004,
+  "Production": 57110,
+  "rank": 5,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2004,
+  "Production": 48089,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2004,
+  "Production": 45800,
+  "rank": 7,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2004,
+  "Production": 38700,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2004,
+  "Production": 36177,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2004,
+  "Production": 19000,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2004,
+  "Production": 7853,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2004,
+  "Production": 3000,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2004,
+  "Production": 675,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2004,
+  "Production": 525,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2004,
+  "Production": 431,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2005,
+  "Production": 3324222,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2005,
+  "Production": 2185000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2005,
+  "Production": 363822,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2005,
+  "Production": 285900,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2005,
+  "Production": 164849,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2005,
+  "Production": 108965,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2005,
+  "Production": 51950,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2005,
+  "Production": 51332,
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2005,
+  "Production": 48000,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2005,
+  "Production": 27111,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2005,
+  "Production": 21000,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2005,
+  "Production": 10851,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2005,
+  "Production": 3000,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2005,
+  "Production": 681,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2005,
+  "Production": 499,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2005,
+  "Production": 450,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2006,
+  "Production": 3406353,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2006,
+  "Production": 2320300,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2006,
+  "Production": 352822,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2006,
+  "Production": 232700,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2006,
+  "Production": 168274,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2006,
+  "Production": 124485,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2006,
+  "Production": 63000,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2006,
+  "Production": 53100,
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2006,
+  "Production": 27213,
+  "rank": 8,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2006,
+  "Production": 26395,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2006,
+  "Production": 24606,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2006,
+  "Production": 8058,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2006,
+  "Production": 3071,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2006,
+  "Production": 700,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2006,
+  "Production": 476,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2006,
+  "Production": 468,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2007,
+  "Production": 3598848,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2007,
+  "Production": 2436200,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2007,
+  "Production": 395614,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2007,
+  "Production": 244800,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2007,
+  "Production": 159851,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2007,
+  "Production": 128407,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2007,
+  "Production": 67000,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2007,
+  "Production": 52500,
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2007,
+  "Production": 37347,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2007,
+  "Production": 32962,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2007,
+  "Production": 28000,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2007,
+  "Production": 10820,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2007,
+  "Production": 2676,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2007,
+  "Production": 715,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2007,
+  "Production": 538,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2007,
+  "Production": 489,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2008,
+  "Production": 3823331,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2008,
+  "Production": 2548500,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2008,
+  "Production": 430521,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2008,
+  "Production": 266600,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2008,
+  "Production": 173297,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2008,
+  "Production": 132179,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2008,
+  "Production": 95400,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2008,
+  "Production": 51600,
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2008,
+  "Production": 45350,
+  "rank": 8,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2008,
+  "Production": 33899,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2008,
+  "Production": 31000,
+  "rank": 10,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2008,
+  "Production": 9547,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2008,
+  "Production": 2900,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2008,
+  "Production": 720,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2008,
+  "Production": 509,
+  "rank": 14,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2008,
+  "Production": 506,
+  "rank": 15,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2009,
+  "Production": 3722892,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2009,
+  "Production": 2603300,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2009,
+  "Production": 277757,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2009,
+  "Production": 258000,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2009,
+  "Production": 171555,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2009,
+  "Production": 135549,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2009,
+  "Production": 100200,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2009,
+  "Production": 51593,
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2009,
+  "Production": 40000,
+  "rank": 8,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2009,
+  "Production": 37032,
+  "rank": 9,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2009,
+  "Production": 32291,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2009,
+  "Production": 10198,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2009,
+  "Production": 2700,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2009,
+  "Production": 700,
+  "rank": 13,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2009,
+  "Production": 569,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2009,
+  "Production": 527,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2010,
+  "Production": 3792364,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2010,
+  "Production": 2589100,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2010,
+  "Production": 390630,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2010,
+  "Production": 189400,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2010,
+  "Production": 167215,
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2010,
+  "Production": 142188,
+  "rank": 5,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2010,
+  "Production": 125280,
+  "rank": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2010,
+  "Production": 58401,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2010,
+  "Production": 48165,
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2010,
+  "Production": 38000,
+  "rank": 9,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2010,
+  "Production": 28201,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2010,
+  "Production": 10199,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2010,
+  "Production": 2594,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2010,
+  "Production": 805,
+  "rank": 13,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2010,
+  "Production": 696,
+  "rank": 14,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2010,
+  "Production": 690,
+  "rank": 15,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2011,
+  "Production": 3948687,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2011,
+  "Production": 2768600,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2011,
+  "Production": 273127,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2011,
+  "Production": 207500,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2011,
+  "Production": 159400,
+  "rank": 4,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2011,
+  "Production": 154625,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2011,
+  "Production": 146084,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2011,
+  "Production": 90100,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2011,
+  "Production": 53400,
+  "rank": 8,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2011,
+  "Production": 50347,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2011,
+  "Production": 29347,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2011,
+  "Production": 10200,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2011,
+  "Production": 2300,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2011,
+  "Production": 1609,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2011,
+  "Production": 813,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2011,
+  "Production": 692,
+  "rank": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2012,
+  "Production": 4315460,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2012,
+  "Production": 2910000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2012,
+  "Production": 401049,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2012,
+  "Production": 253800,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2012,
+  "Production": 212300,
+  "rank": 4,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2012,
+  "Production": 158241,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2012,
+  "Production": 140082,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2012,
+  "Production": 81894,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2012,
+  "Production": 56000,
+  "rank": 8,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2012,
+  "Production": 51165,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2012,
+  "Production": 31060,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2012,
+  "Production": 12428,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2012,
+  "Production": 2806,
+  "rank": 12,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2012,
+  "Production": 2350,
+  "rank": 13,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2012,
+  "Production": 700,
+  "rank": 14,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2012,
+  "Production": 681,
+  "rank": 15,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2013,
+  "Production": 4160177,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2013,
+  "Production": 2878700,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2013,
+  "Production": 265049,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2013,
+  "Production": 242800,
+  "rank": 3,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2013,
+  "Production": 214700,
+  "rank": 4,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2013,
+  "Production": 173169,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2013,
+  "Production": 143106,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2013,
+  "Production": 75000,
+  "rank": 7,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2013,
+  "Production": 63694,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2013,
+  "Production": 41858,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2013,
+  "Production": 35692,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2013,
+  "Production": 19725,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2013,
+  "Production": 2501,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2013,
+  "Production": 1936,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2013,
+  "Production": 702,
+  "rank": 14,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2013,
+  "Production": 696,
+  "rank": 15,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2014,
+  "Production": 4442435,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2014,
+  "Production": 2955600,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2014,
+  "Production": 428363,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2014,
+  "Production": 245000,
+  "rank": 3,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2014,
+  "Production": 240600,
+  "rank": 4,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2014,
+  "Production": 182290,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2014,
+  "Production": 140405,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2014,
+  "Production": 72764,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2014,
+  "Production": 66000,
+  "rank": 8,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2014,
+  "Production": 39149,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2014,
+  "Production": 36592,
+  "rank": 10,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2014,
+  "Production": 28899,
+  "rank": 11,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2014,
+  "Production": 2600,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2014,
+  "Production": 1918,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2014,
+  "Production": 801,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2014,
+  "Production": 714,
+  "rank": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2015,
+  "Production": 4348759,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2015,
+  "Production": 2949600,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2015,
+  "Production": 303526,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2015,
+  "Production": 268764,
+  "rank": 3,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2015,
+  "Production": 242000,
+  "rank": 4,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2015,
+  "Production": 192327,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2015,
+  "Production": 146566,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2015,
+  "Production": 70000,
+  "rank": 7,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2015,
+  "Production": 60929,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2015,
+  "Production": 47322,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2015,
+  "Production": 34405,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2015,
+  "Production": 25000,
+  "rank": 11,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2015,
+  "Production": 2474,
+  "rank": 12,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2015,
+  "Production": 2401,
+  "rank": 13,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2015,
+  "Production": 2138,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2015,
+  "Production": 715,
+  "rank": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2016,
+  "Production": 4371103,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2016,
+  "Production": 2967300,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2016,
+  "Production": 321247,
+  "rank": 2,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2016,
+  "Production": 286388,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2016,
+  "Production": 232900,
+  "rank": 4,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2016,
+  "Production": 162184,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2016,
+  "Production": 142920,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2016,
+  "Production": 86000,
+  "rank": 7,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2016,
+  "Production": 60266,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2016,
+  "Production": 48626,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2016,
+  "Production": 27676,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2016,
+  "Production": 27000,
+  "rank": 11,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2016,
+  "Production": 2846,
+  "rank": 12,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2016,
+  "Production": 2369,
+  "rank": 13,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2016,
+  "Production": 2119,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2016,
+  "Production": 721,
+  "rank": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2017,
+  "Production": 4558025,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2017,
+  "Production": 3029000,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2017,
+  "Production": 404131,
+  "rank": 2,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2017,
+  "Production": 298382,
+  "rank": 3,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2017,
+  "Production": 224900,
+  "rank": 4,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2017,
+  "Production": 182185,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2017,
+  "Production": 147219,
+  "rank": 6,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2017,
+  "Production": 91590,
+  "rank": 7,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2017,
+  "Production": 63115,
+  "rank": 8,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2017,
+  "Production": 49675,
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2017,
+  "Production": 30327,
+  "rank": 10,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2017,
+  "Production": 29000,
+  "rank": 11,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2017,
+  "Production": 2823,
+  "rank": 12,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2017,
+  "Production": 2257,
+  "rank": 13,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "SVN",
+  "Country": "Slovenia",
+  "Year": 2017,
+  "Production": 2055,
+  "rank": 14,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2017,
+  "Production": 730,
+  "rank": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2018,
+  "Production": 4263649,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2018,
+  "Production": 3226901,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2018,
+  "Production": 263030,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2018,
+  "Production": 208000,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2018,
+  "Production": 160092,
+  "rank": 4,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2018,
+  "Production": 156935,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2018,
+  "Production": 98906,
+  "rank": 6,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2018,
+  "Production": 84301,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2018,
+  "Production": 30803,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2018,
+  "Production": 28000,
+  "rank": 9,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2018,
+  "Production": 3013,
+  "rank": 10,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2018,
+  "Production": 2244,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2018,
+  "Production": 730,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2018,
+  "Production": 640,
+  "rank": 13,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2018,
+  "Production": 54,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2019,
+  "Production": 4261020,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2019,
+  "Production": 3247068,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2019,
+  "Production": 258874,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2019,
+  "Production": 208200,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2019,
+  "Production": 177130,
+  "rank": 4,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2019,
+  "Production": 167721,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2019,
+  "Production": 99144,
+  "rank": 6,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2019,
+  "Production": 39552,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2019,
+  "Production": 29602,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2019,
+  "Production": 27000,
+  "rank": 9,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2019,
+  "Production": 3085,
+  "rank": 10,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2019,
+  "Production": 2194,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2019,
+  "Production": 733,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2019,
+  "Production": 663,
+  "rank": 13,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2019,
+  "Production": 54,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2020,
+  "Production": 4241366,
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2020,
+  "Production": 3272351,
+  "rank": 1,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "KOR",
+  "Country": "Republic of Korea",
+  "Year": 2020,
+  "Production": 198817,
+  "rank": 2,
+  "zhName": "南韩",
+  "iso2Code": "KR"
+}, {
+  "Code": "JPN",
+  "Country": "Japan",
+  "Year": 2020,
+  "Production": 193200,
+  "rank": 3,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Code": "AZE",
+  "Country": "Azerbaijan",
+  "Year": 2020,
+  "Production": 185247,
+  "rank": 4,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2020,
+  "Production": 158687,
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2020,
+  "Production": 105122,
+  "rank": 6,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TWN",
+  "Country": "China, Taiwan Province of",
+  "Year": 2020,
+  "Production": 69708,
+  "rank": 7,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Code": "IRN",
+  "Country": "Iran (Islamic Republic of)",
+  "Year": 2020,
+  "Production": 30244,
+  "rank": 8,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Code": "ISR",
+  "Country": "Israel",
+  "Year": 2020,
+  "Production": 21908,
+  "rank": 9,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Code": "NPL",
+  "Country": "Nepal",
+  "Year": 2020,
+  "Production": 2574,
+  "rank": 10,
+  "zhName": "",
+  "iso2Code": "NP"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 2020,
+  "Production": 1895,
+  "rank": 11,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2020,
+  "Production": 736,
+  "rank": 12,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CHL",
+  "Country": "Chile",
+  "Year": 2020,
+  "Production": 679,
+  "rank": 13,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2020,
+  "Production": 198,
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}]

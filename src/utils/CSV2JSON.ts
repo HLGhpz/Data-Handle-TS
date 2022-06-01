@@ -27,13 +27,8 @@ function CSV2JSON() {
     {
       type: 'csv'
     }
-  ).transform({
-    type:'fold',
-    fields:['Exam', 'Enroll'],
-    key: 'type',
-    value: 'value',
-  })
-  
+  )
+
   const data = _.chain(dv.rows).map((item) => {
     ;(item.Exam = item.Exam * 1), (item.Enroll = +item.Enroll)
     return item

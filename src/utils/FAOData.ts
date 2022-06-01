@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-30 13:30:33
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-01 11:35:34
+ * @LastEditTime: 2022-06-01 21:35:14
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'Pineapple'
+const CategoryName = 'Persimmon'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -60,9 +60,22 @@ async function faoData() {
     )
 
     let data = _.chain(dv.rows)
-      .filter((item)=>{
+      .filter((item) => {
         // 筛选单位
         return item.Unit === 'tonnes'
+      })
+      .filter((item) => {
+        // 筛选产量
+        return (
+          item.Value !== 0 &&
+          item.Value !== '' &&
+          item.Value !== '0' &&
+          item.Value !== 'NA' &&
+          item.Value !== '-' &&
+          item.Value !== '#N/A' &&
+          item.Value !== '#VALUE!' &&
+          item.Value !== '#DIV/0!'
+        )
       })
       .map((item) => {
         item = _.chain(item)
