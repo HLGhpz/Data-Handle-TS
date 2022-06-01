@@ -1,0 +1,461 @@
+[{
+  "Year": "2022",
+  "Ratio": "",
+  "type": "Exam",
+  "value": "1193"
+}, {
+  "Year": "2022",
+  "Ratio": "",
+  "type": "Enroll",
+  "value": ""
+}, {
+  "Year": "2021",
+  "Ratio": "92.89%",
+  "type": "Exam",
+  "value": "1078"
+}, {
+  "Year": "2021",
+  "Ratio": "92.89%",
+  "type": "Enroll",
+  "value": "1001"
+}, {
+  "Year": "2020",
+  "Ratio": "90.34%",
+  "type": "Exam",
+  "value": "1071"
+}, {
+  "Year": "2020",
+  "Ratio": "90.34%",
+  "type": "Enroll",
+  "value": "967"
+}, {
+  "Year": "2019",
+  "Ratio": "79.53%",
+  "type": "Exam",
+  "value": "1031"
+}, {
+  "Year": "2019",
+  "Ratio": "79.53%",
+  "type": "Enroll",
+  "value": "820"
+}, {
+  "Year": "2018",
+  "Ratio": "81.13%",
+  "type": "Exam",
+  "value": "975"
+}, {
+  "Year": "2018",
+  "Ratio": "81.13%",
+  "type": "Enroll",
+  "value": "791"
+}, {
+  "Year": "2017",
+  "Ratio": "74.46%",
+  "type": "Exam",
+  "value": "940"
+}, {
+  "Year": "2017",
+  "Ratio": "74.46%",
+  "type": "Enroll",
+  "value": "700"
+}, {
+  "Year": "2016",
+  "Ratio": "75%",
+  "type": "Exam",
+  "value": "940"
+}, {
+  "Year": "2016",
+  "Ratio": "75%",
+  "type": "Enroll",
+  "value": "705"
+}, {
+  "Year": "2015",
+  "Ratio": "74.30%",
+  "type": "Exam",
+  "value": "942"
+}, {
+  "Year": "2015",
+  "Ratio": "74.30%",
+  "type": "Enroll",
+  "value": "700"
+}, {
+  "Year": "2014",
+  "Ratio": "74.30%",
+  "type": "Exam",
+  "value": "939"
+}, {
+  "Year": "2014",
+  "Ratio": "74.30%",
+  "type": "Enroll",
+  "value": "698"
+}, {
+  "Year": "2013",
+  "Ratio": "76%",
+  "type": "Exam",
+  "value": "912"
+}, {
+  "Year": "2013",
+  "Ratio": "76%",
+  "type": "Enroll",
+  "value": "694"
+}, {
+  "Year": "2012",
+  "Ratio": "75%",
+  "type": "Exam",
+  "value": "915"
+}, {
+  "Year": "2012",
+  "Ratio": "75%",
+  "type": "Enroll",
+  "value": "685"
+}, {
+  "Year": "2011",
+  "Ratio": "72%",
+  "type": "Exam",
+  "value": "933"
+}, {
+  "Year": "2011",
+  "Ratio": "72%",
+  "type": "Enroll",
+  "value": "675"
+}, {
+  "Year": "2010",
+  "Ratio": "69%",
+  "type": "Exam",
+  "value": "946"
+}, {
+  "Year": "2010",
+  "Ratio": "69%",
+  "type": "Enroll",
+  "value": "657"
+}, {
+  "Year": "2009",
+  "Ratio": "62%",
+  "type": "Exam",
+  "value": "1020"
+}, {
+  "Year": "2009",
+  "Ratio": "62%",
+  "type": "Enroll",
+  "value": "629"
+}, {
+  "Year": "2008",
+  "Ratio": "57%",
+  "type": "Exam",
+  "value": "1050"
+}, {
+  "Year": "2008",
+  "Ratio": "57%",
+  "type": "Enroll",
+  "value": "599"
+}, {
+  "Year": "2007",
+  "Ratio": "56%",
+  "type": "Exam",
+  "value": "1010"
+}, {
+  "Year": "2007",
+  "Ratio": "56%",
+  "type": "Enroll",
+  "value": "566"
+}, {
+  "Year": "2006",
+  "Ratio": "57%",
+  "type": "Exam",
+  "value": "950"
+}, {
+  "Year": "2006",
+  "Ratio": "57%",
+  "type": "Enroll",
+  "value": "546"
+}, {
+  "Year": "2005",
+  "Ratio": "57%",
+  "type": "Exam",
+  "value": "877"
+}, {
+  "Year": "2005",
+  "Ratio": "57%",
+  "type": "Enroll",
+  "value": "504"
+}, {
+  "Year": "2004",
+  "Ratio": "61%",
+  "type": "Exam",
+  "value": "729"
+}, {
+  "Year": "2004",
+  "Ratio": "61%",
+  "type": "Enroll",
+  "value": "447"
+}, {
+  "Year": "2003",
+  "Ratio": "62%",
+  "type": "Exam",
+  "value": "613"
+}, {
+  "Year": "2003",
+  "Ratio": "62%",
+  "type": "Enroll",
+  "value": "382"
+}, {
+  "Year": "2002",
+  "Ratio": "63%",
+  "type": "Exam",
+  "value": "510"
+}, {
+  "Year": "2002",
+  "Ratio": "63%",
+  "type": "Enroll",
+  "value": "320"
+}, {
+  "Year": "2001",
+  "Ratio": "59%",
+  "type": "Exam",
+  "value": "454"
+}, {
+  "Year": "2001",
+  "Ratio": "59%",
+  "type": "Enroll",
+  "value": "268"
+}, {
+  "Year": "2000",
+  "Ratio": "59%",
+  "type": "Exam",
+  "value": "375"
+}, {
+  "Year": "2000",
+  "Ratio": "59%",
+  "type": "Enroll",
+  "value": "221"
+}, {
+  "Year": "1999",
+  "Ratio": "56%",
+  "type": "Exam",
+  "value": "288"
+}, {
+  "Year": "1999",
+  "Ratio": "56%",
+  "type": "Enroll",
+  "value": "160"
+}, {
+  "Year": "1998",
+  "Ratio": "34%",
+  "type": "Exam",
+  "value": "320"
+}, {
+  "Year": "1998",
+  "Ratio": "34%",
+  "type": "Enroll",
+  "value": "108"
+}, {
+  "Year": "1997",
+  "Ratio": "36%",
+  "type": "Exam",
+  "value": "278"
+}, {
+  "Year": "1997",
+  "Ratio": "36%",
+  "type": "Enroll",
+  "value": "100"
+}, {
+  "Year": "1996",
+  "Ratio": "40%",
+  "type": "Exam",
+  "value": "241"
+}, {
+  "Year": "1996",
+  "Ratio": "40%",
+  "type": "Enroll",
+  "value": "97"
+}, {
+  "Year": "1995",
+  "Ratio": "37%",
+  "type": "Exam",
+  "value": "253"
+}, {
+  "Year": "1995",
+  "Ratio": "37%",
+  "type": "Enroll",
+  "value": "93"
+}, {
+  "Year": "1994",
+  "Ratio": "36%",
+  "type": "Exam",
+  "value": "251"
+}, {
+  "Year": "1994",
+  "Ratio": "36%",
+  "type": "Enroll",
+  "value": "90"
+}, {
+  "Year": "1993",
+  "Ratio": "34%",
+  "type": "Exam",
+  "value": "286"
+}, {
+  "Year": "1993",
+  "Ratio": "34%",
+  "type": "Enroll",
+  "value": "98"
+}, {
+  "Year": "1992",
+  "Ratio": "25%",
+  "type": "Exam",
+  "value": "303"
+}, {
+  "Year": "1992",
+  "Ratio": "25%",
+  "type": "Enroll",
+  "value": "75"
+}, {
+  "Year": "1991",
+  "Ratio": "21%",
+  "type": "Exam",
+  "value": "296"
+}, {
+  "Year": "1991",
+  "Ratio": "21%",
+  "type": "Enroll",
+  "value": "62"
+}, {
+  "Year": "1990",
+  "Ratio": "22%",
+  "type": "Exam",
+  "value": "283"
+}, {
+  "Year": "1990",
+  "Ratio": "22%",
+  "type": "Enroll",
+  "value": "61"
+}, {
+  "Year": "1989",
+  "Ratio": "23%",
+  "type": "Exam",
+  "value": "266"
+}, {
+  "Year": "1989",
+  "Ratio": "23%",
+  "type": "Enroll",
+  "value": "60"
+}, {
+  "Year": "1988",
+  "Ratio": "25%",
+  "type": "Exam",
+  "value": "272"
+}, {
+  "Year": "1988",
+  "Ratio": "25%",
+  "type": "Enroll",
+  "value": "67"
+}, {
+  "Year": "1987",
+  "Ratio": "27%",
+  "type": "Exam",
+  "value": "228"
+}, {
+  "Year": "1987",
+  "Ratio": "27%",
+  "type": "Enroll",
+  "value": "62"
+}, {
+  "Year": "1986",
+  "Ratio": "30%",
+  "type": "Exam",
+  "value": "191"
+}, {
+  "Year": "1986",
+  "Ratio": "30%",
+  "type": "Enroll",
+  "value": "57"
+}, {
+  "Year": "1985",
+  "Ratio": "35%",
+  "type": "Exam",
+  "value": "176"
+}, {
+  "Year": "1985",
+  "Ratio": "35%",
+  "type": "Enroll",
+  "value": "62"
+}, {
+  "Year": "1984",
+  "Ratio": "29%",
+  "type": "Exam",
+  "value": "164"
+}, {
+  "Year": "1984",
+  "Ratio": "29%",
+  "type": "Enroll",
+  "value": "48"
+}, {
+  "Year": "1983",
+  "Ratio": "23%",
+  "type": "Exam",
+  "value": "167"
+}, {
+  "Year": "1983",
+  "Ratio": "23%",
+  "type": "Enroll",
+  "value": "39"
+}, {
+  "Year": "1982",
+  "Ratio": "17%",
+  "type": "Exam",
+  "value": "187"
+}, {
+  "Year": "1982",
+  "Ratio": "17%",
+  "type": "Enroll",
+  "value": "32"
+}, {
+  "Year": "1981",
+  "Ratio": "11%",
+  "type": "Exam",
+  "value": "259"
+}, {
+  "Year": "1981",
+  "Ratio": "11%",
+  "type": "Enroll",
+  "value": "28"
+}, {
+  "Year": "1980",
+  "Ratio": "8%",
+  "type": "Exam",
+  "value": "333"
+}, {
+  "Year": "1980",
+  "Ratio": "8%",
+  "type": "Enroll",
+  "value": "28"
+}, {
+  "Year": "1979",
+  "Ratio": "6%",
+  "type": "Exam",
+  "value": "468"
+}, {
+  "Year": "1979",
+  "Ratio": "6%",
+  "type": "Enroll",
+  "value": "28"
+}, {
+  "Year": "1978",
+  "Ratio": "7%",
+  "type": "Exam",
+  "value": "610"
+}, {
+  "Year": "1978",
+  "Ratio": "7%",
+  "type": "Enroll",
+  "value": "40.2"
+}, {
+  "Year": "1977",
+  "Ratio": "5%",
+  "type": "Exam",
+  "value": "570"
+}, {
+  "Year": "1977",
+  "Ratio": "5%",
+  "type": "Enroll",
+  "value": "27"
+}]
