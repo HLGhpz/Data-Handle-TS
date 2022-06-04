@@ -1,0 +1,21 @@
+﻿Domain Code,Domain,Area Code (ISO3),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1961,1961,tonnes,917000,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1962,1962,tonnes,927500,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1963,1963,tonnes,938000,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1964,1964,tonnes,945000,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1965,1965,tonnes,962500,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1966,1966,tonnes,973000,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,951,"Milk, whole fresh buffalo",1967,1967,tonnes,980000,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,882,"Milk, whole fresh cow",1962,1962,tonnes,630595,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,882,"Milk, whole fresh cow",1963,1963,tonnes,647896,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,882,"Milk, whole fresh cow",1964,1964,tonnes,656889,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,882,"Milk, whole fresh cow",1965,1965,tonnes,664898,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,F41,China,5510,Production,882,"Milk, whole fresh cow",1966,1966,tonnes,650095,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1961,1961,tonnes,57019696,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1962,1962,tonnes,57266448,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1963,1963,tonnes,56790624,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1964,1964,tonnes,57591216,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1965,1965,tonnes,56323872,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1966,1966,tonnes,54390880,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1967,1967,tonnes,53855648,,Official data
+QCL,Crops and livestock products,USA,United States of America,5510,Production,882,"Milk, whole fresh cow",1968,1968,tonnes,53172096,,Official data

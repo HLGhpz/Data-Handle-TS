@@ -1,21 +1,21 @@
 /*
  * @Author: HLGhpz
- * @Date: 2022-05-30 13:30:33
+ * @Date: 2022-06-02 15:34:26
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-02 20:25:53
+ * @LastEditTime: 2022-06-02 17:22:44
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
 
-import _, { keys } from 'lodash'
+import _ from 'lodash'
 import fs from 'fs'
 import path from 'path'
 import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'CowMilk'
+const CategoryName = 'CowAndBuffaloMilk'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -123,23 +123,46 @@ async function faoData() {
       })
       .value()
 
-    //选择原始数据
-    let result = []
-    for (let i = 1961; i <= 2020; i++) {
-      let temp = _.chain(data)
-        .filter({ Year: i })
-        .orderBy('Production', 'desc')
-        .map((item, index) => {
-          item.rank = index
-          return item
-        })
-        .filter((item) => {
-          return item.rank <= 15
-        })
-        .value()
+    // 获取年份和国家数据
+    let years: any = []
+    years = _.chain(data)
+      .map('Year')
+      .uniq()
+      .value()
 
+    let countries = []
+    countries = _.chain(data)
+      .map('Code')
+      .uniq()
+      .value()
+
+    _.forEach(countries, (item) => {
+      _.forEach(years, (year) => {
+        let temp = _.chain(data).filter({ Code: item, Year: year }).value()
+        if (temp.length !== 0) {
+          let productionSum = _.sumBy(temp, 'Production')
+          temp.forEach((item) => {
+            item.productionSum = productionSum
+          })
+        }
+      })
+    })
+
+    // console.log('data', data)
+
+    //选择原始数据
+    let result: any = []
+    _.forEach(years, (item) => {
+      let temp = _.chain(data)
+        .filter({ Year: item })
+        .orderBy('productionSum', 'desc')
+        .value()
+      let tempCountry = _.chain(temp).map('Code').uniq().value().slice(0, 16)
+      temp = _.chain(temp).filter((item)=>{
+        return tempCountry.includes(item.Code)
+      }).value()
       result.push(...temp)
-    }
+    })
 
     // 通过数据库对数据进行补全
     result = await Promise.all(
@@ -167,10 +190,8 @@ async function faoData() {
     _.map(result, (item) => {
       useData.push(..._.values(_.pick(item, 'iso2Code')))
     })
-    // console.log(useData)
-    // // 去重
+
     useData = _.uniqWith(useData, _.isEqual)
-    // console.log(useData)
 
     // 确定颜色映射
     let colorMap: any = {}
