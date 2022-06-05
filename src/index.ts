@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-04 08:06:20
+ * @LastEditTime: 2022-06-05 21:33:16
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -10,7 +10,7 @@
 
 import FillNationCode from './utils/FillNationCode'
 import BulkInsertDB from './utils/BulkInsertDB'
-import CSV2JSON from './utils/Invest'
+import CSV2JSON from './utils/CSV2JSON'
 import CalendarUse from './utils/CalendarUse'
 import Array2Json from './utils/Array2Json'
 import HandleData from './utils/Handle'
@@ -21,6 +21,7 @@ import FAOData from './utils/FAOData'
 import FAOStackData from './utils/FAOStackData'
 import Invest from './utils/Invest'
 import SuperCalculate from './utils/SuperCalculate'
+import Intracen from './utils/Intracen'
 
 // BulkInsertDB()
 // FillNationCode()
@@ -33,5 +34,6 @@ import SuperCalculate from './utils/SuperCalculate'
 // FAOData()
 // FAOStackData()
 // Invest()
-SuperCalculate()
+// SuperCalculate()
+Intracen()
 

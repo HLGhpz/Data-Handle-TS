@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-28 19:29:02
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-28 19:38:54
+ * @LastEditTime: 2022-06-05 15:13:06
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -30,29 +30,30 @@ const EXPORT_FILE_PATH = path.join(__dirname, './distData/temp.json')
 async function test() {
   await db.NationCode.sync({ alert: true })
   try {
-    // let res = await db.NationCode.findAll()
-    // console.log('res', res)
-
-    await Promise.all(
-      _.chain(tempData)
-        .map(async (item) => {
-          try {
-            let res = await db.NationCode.findOne({
-              where: {
-                iso2Code: (item.code).toUpperCase()
-              }
-            })
-            if(!res){
-              console.log(item.code)
+    for (let id = 1; id <= 249; id++) {
+      let res = await db.NationCode.findOne({
+        where: {
+          id: id
+        }
+      })
+      // console.log(res.id)
+      if (res.enName.search('zhName') != -1) {
+        let temp = res.enName.replace('zhName', '')
+        // console.log(temp)
+        await db.NationCode.update(
+          {
+            enName: temp
+          },
+          {
+            where: {
+              id: id
             }
-          } catch (err) {
-            console.log('err', err)
           }
-        })
-        .value()
-    )
+        )
+      }
+    }
   } catch (err) {
-    console.log(err)
+    console.log('err', err)
   }
 }
 

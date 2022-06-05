@@ -1,501 +1,501 @@
-﻿Rank,Name,Computer,Manufacturer,Country,Year,TotalCores,Rmax,Rpeak,,,,,,,,,,,,,,,,,,,,,,,
-1,Frontier,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2021,"8,730,112","1,102,000.00","1,685,651.46",,,,,,,,,,,,,,,,,,,,,,,
-2,Supercomputer Fugaku,"Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"7,630,848","442,010.00","537,212.00",,,,,,,,,,,,,,,,,,,,,,,
-3,LUMI,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,Finland,2022,"1,110,144","151,900.00","214,351.87",,,,,,,,,,,,,,,,,,,,,,,
-4,Summit,"IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM,United States,2018,"2,414,592","148,600.00","200,794.88",,,,,,,,,,,,,,,,,,,,,,,
-5,Sierra,"IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM / NVIDIA / Mellanox,United States,2018,"1,572,480","94,640.00","125,712.00",,,,,,,,,,,,,,,,,,,,,,,
-6,Sunway TaihuLight,"Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway",NRCPC,China,2016,"10,649,600","93,014.59","125,435.90",,,,,,,,,,,,,,,,,,,,,,,
-7,Perlmutter,"HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,United States,2021,"761,856","70,870.00","93,750.00",,,,,,,,,,,,,,,,,,,,,,,
-8,Selene,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2020,"555,520","63,460.00","79,215.00",,,,,,,,,,,,,,,,,,,,,,,
-9,Tianhe-2A,"TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000",NUDT,China,2018,"4,981,760","61,444.50","100,678.66",,,,,,,,,,,,,,,,,,,,,,,
-10,Adastra,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,France,2022,"319,072","46,100.00","61,607.94",,,,,,,,,,,,,,,,,,,,,,,
-11,JUWELS Booster Module,"Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2020,"449,280","44,120.00","70,980.00",,,,,,,,,,,,,,,,,,,,,,,
-12,HPC5,"PowerEdge C4140, Xeon Gold 6252 24C 2.1GHz, NVIDIA Tesla V100, Mellanox HDR Infiniband",DELL EMC,Italy,2020,"669,760","35,450.00","51,720.76",,,,,,,,,,,,,,,,,,,,,,,
-13,Voyager-EUS2,"ND96amsr_A100_v4, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100 80GB​, Mellanox HDR Infiniband",Microsoft Azure,United States,2021,"253,440","30,050.00","39,531.15",,,,,,,,,,,,,,,,,,,,,,,
-14,Polaris,"Apollo 6500, AMD EPYC 7532 32C 2.4GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,United States,2021,"256,592","25,810.00","34,163.19",,,,,,,,,,,,,,,,,,,,,,,
-15,SSC-21,"Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200",HPE,South Korea,2021,"204,160","25,177.00","31,751.10",,,,,,,,,,,,,,,,,,,,,,,
-16,Frontera,"Dell C6420, Xeon Platinum 8280 28C 2.7GHz, Mellanox InfiniBand HDR",DELL EMC,United States,2019,"448,448","23,516.40","38,745.91",,,,,,,,,,,,,,,,,,,,,,,
-17,CEA-HF,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2",Atos,France,2021,"810,240","23,237.60","31,761.40",,,,,,,,,,,,,,,,,,,,,,,
-18,Dammam-7,"Cray CS-Storm, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, InfiniBand HDR 100",HPE,Saudi Arabia,2020,"672,520","22,400.00","55,423.56",,,,,,,,,,,,,,,,,,,,,,,
-19,ABCI 2.0,"PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Fujitsu,Japan,2021,"504,000","22,208.72","54,340.99",,,,,,,,,,,,,,,,,,,,,,,
-20,Wisteria/BDEC-01 (Odyssey),"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2021,"368,640","22,121.00","25,952.26",,,,,,,,,,,,,,,,,,,,,,,
-21,Marconi-100,"IBM Power System AC922, IBM POWER9 16C 3GHz, Nvidia Volta V100, Dual-rail Mellanox EDR Infiniband",IBM,Italy,2019,"347,776","21,640.00","29,354.00",,,,,,,,,,,,,,,,,,,,,,,
-22,Chervonenkis,"YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband","YANDEX, NVIDIA",Russia,2021,"193,440","21,530.00","29,415.17",,,,,,,,,,,,,,,,,,,,,,,
-23,Piz Daint,"Cray XC50, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect , NVIDIA Tesla P100",HPE,Switzerland,2017,"387,872","21,230.00","27,154.30",,,,,,,,,,,,,,,,,,,,,,,
-24,Trinity,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect",HPE,United States,2017,"979,072","20,158.70","41,461.15",,,,,,,,,,,,,,,,,,,,,,,
-25,ARCHER2,"Cray XE, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United Kingdom,2021,"716,800","19,539.00","25,804.00",,,,,,,,,,,,,,,,,,,,,,,
-26,SuperMUC-NG,"ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path",Lenovo,Germany,2018,"305,856","19,476.60","26,873.86",,,,,,,,,,,,,,,,,,,,,,,
-27,Hawk,"Apollo 9000, AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband",HPE,Germany,2020,"698,880","19,334.00","25,159.68",,,,,,,,,,,,,,,,,,,,,,,
-28,Ghawar-1,"HPE Cray EX, AMD EPYC 7702 64C 2GHz, Slingshot-10",HPE,Saudi Arabia,2021,"714,240","19,256.00","22,855.68",,,,,,,,,,,,,,,,,,,,,,,
-29,Frontier TDS,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2021,"120,832","19,200.00","23,105.54",,,,,,,,,,,,,,,,,,,,,,,
-30,Lassen,"IBM Power System AC922, IBM POWER9 22C 3.1GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Tesla V100",IBM / NVIDIA / Mellanox,United States,2018,"288,288","18,200.00","23,047.20",,,,,,,,,,,,,,,,,,,,,,,
-31,Guru,"ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR",Lenovo,South Korea,2021,"306,432","18,002.80","25,495.14",,,,,,,,,,,,,,,,,,,,,,,
-32,Maru,"ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR",Lenovo,South Korea,2021,"306,432","18,002.80","25,495.14",,,,,,,,,,,,,,,,,,,,,,,
-33,PANGEA III,"IBM Power System AC922, IBM POWER9 18C 3.45GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Volta GV100",IBM,France,2019,"291,024","17,860.00","25,025.81",,,,,,,,,,,,,,,,,,,,,,,
-34,HiPerGator AI,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR",Nvidia,United States,2021,"138,880","17,200.00","21,314.72",,,,,,,,,,,,,,,,,,,,,,,
-35,TOKI-SORA,"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"276,480","16,592.00","19,464.20",,,,,,,,,,,,,,,,,,,,,,,
-36,Pioneer-EUS,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2020,"157,440","16,590.00","24,557.23",,,,,,,,,,,,,,,,,,,,,,,
-37,Pioneer-SCUS,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2021,"157,440","16,590.00","24,557.23",,,,,,,,,,,,,,,,,,,,,,,
-38,Pioneer-WEU,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,Netherlands,2021,"157,440","16,590.00","24,557.23",,,,,,,,,,,,,,,,,,,,,,,
-39,Pioneer-WUS2,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2021,"157,440","16,590.00","24,557.23",,,,,,,,,,,,,,,,,,,,,,,
-40,Galushkin,"YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband","YANDEX, NVIDIA",Russia,2021,"134,912","16,020.00","20,636.10",,,,,,,,,,,,,,,,,,,,,,,
-41,Cori,"Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ",HPE,United States,2016,"622,336","14,014.70","27,880.65",,,,,,,,,,,,,,,,,,,,,,,
-42,Nurion,"Cray CS500, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path",HPE,South Korea,2018,"570,020","13,929.30","25,705.90",,,,,,,,,,,,,,,,,,,,,,,
-43,Lyapunov,"Inspur NF5488A5, AMD EPYC 7662 64C 2GHz, NVIDIA A100 40GB, Infiniband","NVIDIA, Inspur",Russia,2020,"130,944","12,810.00","20,029.19",,,,,,,,,,,,,,,,,,,,,,,
-44,HPC4,"Proliant DL380 Gen10, Xeon Platinum 8160  24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla P100",HPE,Italy,2018,"253,600","12,210.00","18,621.14",,,,,,,,,,,,,,,,,,,,,,,
-45,Tera-1000-2,"Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2",Atos,France,2017,"561,408","11,965.50","23,396.35",,,,,,,,,,,,,,,,,,,,,,,
-46,Christofari Neo,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband",Nvidia,Russia,2021,"98,208","11,950.00","14,908.61",,,,,,,,,,,,,,,,,,,,,,,
-47,Stampede2,"PowerEdge C6320P/C6420, Intel Xeon Phi 7250 68C 1.4GHz/Platinum 8160, Intel Omni-Path",DELL EMC,United States,2017,"367,024","10,680.70","18,309.22",,,,,,,,,,,,,,,,,,,,,,,
-48,MeluXina - Accelerator Module,"BullSequana XH2000, AMD EPYC 7452 32C 2.35GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Luxembourg,2021,"99,200","10,520.00","15,288.00",,,,,,,,,,,,,,,,,,,,,,,
-49,Cactus,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2021,"327,680","10,013.00","11,796.48",,,,,,,,,,,,,,,,,,,,,,,
-50,Dogwood,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2020,"327,680","10,013.00","11,796.48",,,,,,,,,,,,,,,,,,,,,,,
-51,Earth Simulator -SX-Aurora TSUBASA,"SX-Aurora TSUBASA B401-8, Vector Engine Type20B 8C 1.6GHz, Infiniband HDR200",NEC,Japan,2021,"43,776","9,990.70","13,447.99",,,,,,,,,,,,,,,,,,,,,,,
-52,Amazon EC2 Instance Cluster us-east-1a,"Amazon EC2 r5.24xlarge, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet",Amazon Web Services,United States,2019,"172,692","9,950.26","15,106.52",,,,,,,,,,,,,,,,,,,,,,,
-53,NVIDIA Cambridge-1 DGX SuperPOD,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR",Nvidia,United States,2021,"79,360","9,682.00","12,047.00",,,,,,,,,,,,,,,,,,,,,,,
-54,,"Apollo 6500, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,Japan,2022,"72,384","9,459.00","9,669.30",,,,,,,,,,,,,,,,,,,,,,,
-55,DGX SuperPOD,"NVIDIA DGX-2H, Xeon Platinum 8174 24C 3.1GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR",Nvidia,United States,2020,"127,488","9,444.00","11,209.11",,,,,,,,,,,,,,,,,,,,,,,
-56,JURECA Data Centric Module,"BullSequana XH2000, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2021,"105,840","9,330.00","14,508.00",,,,,,,,,,,,,,,,,,,,,,,
-57,Gadi,"PRIMERGY CX2570 M5, ThinkSystem SD650, Xeon Platinum 8274/8268, NVIDIA Tesla V100 SXM2, Mellanox HDR Infiniband",Fujitsu / Lenovo,Australia,2020,"204,032","9,264.31","15,142.20",,,,,,,,,,,,,,,,,,,,,,,
-58,Aitken,"HPE Apollo 9000/HPE SGI 8600, AMD EPYC 7742 64C 2.25GHz/Intel Xeon Gold 6248 20C 2.5GHz, Mellanox EDR/HDR Infiniband",HPE,United States,2022,"293,936","9,070.00","12,493.06",,,,,,,,,,,,,,,,,,,,,,,
-59,Taiwania 2,"QCT QuantaGrid D52G-4U/LC, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2018,"170,352","9,000.00","15,208.23",,,,,,,,,,,,,,,,,,,,,,,
-60,Dragão,"Supermicro SYS-4029GP-TVRT, Xeon Gold 6230R 26C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2021,"188,224","8,983.00","14,006.48",,,,,,,,,,,,,,,,,,,,,,,
-61,Raven-GPU,"ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Mellanox HDR Infiniband",Lenovo,Germany,2021,"96,768","8,620.00","16,031.54",,,,,,,,,,,,,,,,,,,,,,,
-62,AiMOS,"IBM Power System AC922, IBM POWER9 20C 3.45GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM,United States,2019,"130,000","8,339.00","11,032.03",,,,,,,,,,,,,,,,,,,,,,,
-63,Taranis,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox InfiniBand HDR100",Atos,France,2020,"294,912","8,191.03","10,321.92",,,,,,,,,,,,,,,,,,,,,,,
-64,TSUBAME3.0,"SGI ICE XA, IP139-SXM2, Xeon E5-2680v4 14C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100 SXM2",HPE,Japan,2017,"135,828","8,125.00","12,127.07",,,,,,,,,,,,,,,,,,,,,,,
-65,Roxy,"Apollo 2000, Xeon Gold 6248 20C 2.5GHz, Infiniband EDR",HPE,United States,2020,"174,720","8,124.48","13,977.60",,,,,,,,,,,,,,,,,,,,,,,
-66,HoreKa-Green,"ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband",Lenovo,Germany,2021,"90,932","8,025.60","15,006.79",,,,,,,,,,,,,,,,,,,,,,,
-67,Narwhal,"HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10",HPE,United States,2020,"276,480","8,023.60","11,501.57",,,,,,,,,,,,,,,,,,,,,,,
-68,Plasma Simulator,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Infiniband HDR 200",NEC,Japan,2020,"34,560","7,892.70","10,510.66",,,,,,,,,,,,,,,,,,,,,,,
-69,Underhill,"ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR",Lenovo,Canada,2022,"148,320","7,764.57","10,916.35",,,,,,,,,,,,,,,,,,,,,,,
-70,Robert,"ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR",Lenovo,Canada,2022,"148,320","7,764.57","10,916.35",,,,,,,,,,,,,,,,,,,,,,,
-71,Belenos,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR100",Atos,France,2020,"294,912","7,683.36","10,469.38",,,,,,,,,,,,,,,,,,,,,,,
-72,alpha ONE,"Apollo 6500, AMD EPYC 7F52 16C 3.5GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,Germany,2022,"57,344","7,625.00","7,864.83",,,,,,,,,,,,,,,,,,,,,,,
-73,PupMaya,"Apollo 2000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",HPE,United States,2019,"169,920","7,483.73","12,902.40",,,,,,,,,,,,,,,,,,,,,,,
-74,Artemis,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Infiniband EDR, NVIDIA Tesla V100",Nvidia,United Arab Emirates,2019,"107,568","7,257.00","9,492.16",,,,,,,,,,,,,,,,,,,,,,,
-75,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"241,920","7,038.93","8,128.51",,,,,,,,,,,,,,,,,,,,,,,
-76,Levante,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,Germany,2021,"308,096","6,998.79","10,276.00",,,,,,,,,,,,,,,,,,,,,,,
-77,JOLIOT-CURIE ROME,"Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100",Atos,France,2019,"197,120","6,988.04","12,039.37",,,,,,,,,,,,,,,,,,,,,,,
-78,Theta,"Cray XC40, Intel Xeon Phi 7230 64C 1.3GHz, Aries interconnect ",HPE,United States,2017,"280,320","6,920.90","11,661.31",,,,,,,,,,,,,,,,,,,,,,,
-79,"Karolina, GPU partition","Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200",HPE,Czechia,2021,"71,424","6,752.00","9,080.18",,,,,,,,,,,,,,,,,,,,,,,
-80,Christofari,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100",Nvidia,Russia,2019,"99,600","6,669.00","8,789.76",,,,,,,,,,,,,,,,,,,,,,,
-81,Flow,"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"110,592","6,617.80","7,785.68",,,,,,,,,,,,,,,,,,,,,,,
-82,MareNostrum,"Lenovo SD530, Xeon Platinum 8160 24C 2.1GHz, Intel Omni-Path",Lenovo,Spain,2017,"153,216","6,470.80","10,296.12",,,,,,,,,,,,,,,,,,,,,,,
-83,ONYX,"Cray XC40, Xeon E5-2699v4  22C 2.2GHz, Aries interconnect ",HPE,United States,2017,"211,816","6,316.03","7,455.92",,,,,,,,,,,,,,,,,,,,,,,
-84,LUMI-C,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10",HPE,Finland,2021,"194,560","6,299.79","7,626.75",,,,,,,,,,,,,,,,,,,,,,,
-85,Titan,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,South Korea,2022,"56,544","6,291.00","7,188.48",,,,,,,,,,,,,,,,,,,,,,,
-86,JUWELS Module 1,"Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2018,"114,480","6,177.73","9,891.07",,,,,,,,,,,,,,,,,,,,,,,
-87,,"HPE SGI 8600, Xeon Gold 6248R 24C 3GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",HPE,Japan,2020,"100,096","6,162.00","8,439.62",,,,,,,,,,,,,,,,,,,,,,,
-88,SQUID - CPU Nodes,"NEC LX 103Bj-8, Xeon Platinum 8368 38C 2.4GHz, Infiniband HDR200",NEC,Japan,2021,"115,520","6,105.10","8,871.94",,,,,,,,,,,,,,,,,,,,,,,
-89,Lise,"Bull intel Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path",Atos,Germany,2019,"121,920","6,048.26","8,930.92",,,,,,,,,,,,,,,,,,,,,,,
-90,Pleiades,"SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4  2.6/2.8/2.5/2.4 GHz, Infiniband FDR",HPE,United States,2016,"241,108","5,951.55","7,107.15",,,,,,,,,,,,,,,,,,,,,,,
-91,Emmy+,"BullSequana X, Intel Xeon Platinum 9242/Gold 6148, Intel Omni-Path",Atos,Germany,2020,"120,296","5,948.80","8,911.26",,,,,,,,,,,,,,,,,,,,,,,
-92,Narval (GPU),"PowerEdge XE8545, AMD EPYC 7413 24C 2.65GHz, NVIDIA A100, InfiniBand HDR100",DELL EMC,Canada,2021,"76,320","5,886.00","12,165.35",,,,,,,,,,,,,,,,,,,,,,,
-93,Sawtooth,"HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR/HDR ",HPE,United States,2019,"99,792","5,780.62","9,220.61",,,,,,,,,,,,,,,,,,,,,,,
-94,,"Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ",Cray Inc./Hitachi,Japan,2018,"135,792","5,730.50","9,125.22",,,,,,,,,,,,,,,,,,,,,,,
-95,,"Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ",Cray Inc./Hitachi,Japan,2018,"135,792","5,730.50","9,125.22",,,,,,,,,,,,,,,,,,,,,,,
-96,COBRA,"Intel Compute Module HNS2600BP, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Intel,Germany,2018,"127,520","5,612.83","9,793.54",,,,,,,,,,,,,,,,,,,,,,,
-97,Shaheen II,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,Saudi Arabia,2015,"196,608","5,536.99","7,235.17",,,,,,,,,,,,,,,,,,,,,,,
-98,Electra,"HPE SGI 8600/SGI ICE-X, E5-2680V4/ Xeon Gold 6148 20C 2.4GHz, Infiniband EDR/FDR-56 IB",HPE,United States,2018,"124,416","5,444.64","8,316.52",,,,,,,,,,,,,,,,,,,,,,,
-99,Raven,"ThinkSystem SD650 V2, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR 100",Lenovo,Germany,2021,"114,624","5,415.98","8,803.12",,,,,,,,,,,,,,,,,,,,,,,
-100,MAHTI,"Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100",Atos,Finland,2020,"169,728","5,388.52","7,060.68",,,,,,,,,,,,,,,,,,,,,,,
-101,Pangea,"SGI ICE X, Xeon Xeon E5-2670/ E5-2680v3 12C 2.5GHz, Infiniband FDR",HPE,France,2013,"220,800","5,283.11","6,712.32",,,,,,,,,,,,,,,,,,,,,,,
-102,Berzelius,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR",Atos,Sweden,2021,"59,520","5,253.00","9,636.48",,,,,,,,,,,,,,,,,,,,,,,
-103,"DiRAC, Tursa","BullSequana XH2000, AMD EPYC 7302 32C 3GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband",Atos,United Kingdom,2021,"55,552","5,228.00","8,580.00",,,,,,,,,,,,,,,,,,,,,,,
-104,TX-GAIA (Green AI Accelerator),"Apollo 2000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Intel Omni-Path",HPE,United States,2019,"88,400","5,161.00","6,981.48",,,,,,,,,,,,,,,,,,,,,,,
-105,Athena,"FormatServer THOR ERG21, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Format,Poland,2021,"47,616","5,051.00","7,709.18",,,,,,,,,,,,,,,,,,,,,,,
-106,BioHive-1,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2021,"39,680","4,902.00","5,709.44",,,,,,,,,,,,,,,,,,,,,,,
-107,Flow Type II subsystem,"PRIMERGY CX2570 M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",Fujitsu,Japan,2020,"79,560","4,880.46","7,519.30",,,,,,,,,,,,,,,,,,,,,,,
-108,Eagle,"HPE SGI 8600, Xeon Gold 6154 18C 3GHz, EDR Infiniband/ 8D Hypercube",HPE,United States,2018,"75,600","4,850.66","7,257.60",,,,,,,,,,,,,,,,,,,,,,,
-109,Cheyenne,"SGI ICE XA, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR",HPE,United States,2016,"144,900","4,788.19","5,332.32",,,,,,,,,,,,,,,,,,,,,,,
-110,Betzy,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband",Atos,Norway,2020,"172,032","4,724.79","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-111,PARAM Siddhi-AI,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,India,2020,"41,664","4,619.00","5,267.14",,,,,,,,,,,,,,,,,,,,,,,
-112,ITO - Subsystem A,"Fujitsu PRIMERGY CX2550/CX2560 M4, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR",Fujitsu,Japan,2018,"72,000","4,540.69","6,912.00",,,,,,,,,,,,,,,,,,,,,,,
-113,Discoverer,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Infiniband HDR",Atos,Bulgaria,2021,"144,384","4,518.87","5,942.00",,,,,,,,,,,,,,,,,,,,,,,
-114,Jean Zay,"HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, Intel Omni-Path",HPE,France,2019,"93,960","4,478.00","7,345.56",,,,,,,,,,,,,,,,,,,,,,,
-115,Wisteria/BDEC-01 (Aquarius),"PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Fujitsu,Japan,2021,"42,120","4,425.00","7,268.83",,,,,,,,,,,,,,,,,,,,,,,
-116,Atlas,"Bull 4029GP-TVRT, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2020,"91,936","4,376.00","8,848.49",,,,,,,,,,,,,,,,,,,,,,,
-117,Advanced Computing System(PreE),"Sugon TC8600, Hygon Dhyana  32C 2GHz, Deep Computing Processor, 200Gb 6D-Torus",Sugon,China,2018,"163,840","4,325.00","6,134.17",,,,,,,,,,,,,,,,,,,,,,,
-118,CRONOS,"BullSequana X, Xeon Platinum 8260 24C 2.4GHz, Infiniband HDR",Atos,France,2020,"81,600","4,299.33","7,136.87",,,,,,,,,,,,,,,,,,,,,,,
-119,Oakbridge-CX,"Fujitsu PRIMERGY CX2550/CX2560 M5, Xeon Platinum 8280 28C 2.7GHz, Intel Omni-Path",Fujitsu,Japan,2019,"76,608","4,289.85","6,618.93",,,,,,,,,,,,,,,,,,,,,,,
-120,SNL/NNSA CTS-1 Manzano,"Tundra Extreme Scale, Xeon Platinum 8268 24C 2.9GHz, Intel Omni-Path",Penguin Computing,United States,2020,"71,424","4,281.00","6,628.15",,,,,,,,,,,,,,,,,,,,,,,
-121,Noctua 2,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,Germany,2022,"135,168","4,190.90","5,298.59",,,,,,,,,,,,,,,,,,,,,,,
-122,,"Apollo 6500 XL270d Gen10, Xeon Gold 6140 18C 2.3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",HPE,Japan,2019,"70,416","4,128.00","5,783.81",,,,,,,,,,,,,,,,,,,,,,,
-123,rzVernal,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"35,872","4,096.00","6,926.34",,,,,,,,,,,,,,,,,,,,,,,
-124,JOLIOT-CURIE SKL,"Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR",Atos,France,2017,"79,488","4,065.55","6,635.52",,,,,,,,,,,,,,,,,,,,,,,
-125,Abel,"Cray XC30, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,United States,2015,"145,920","4,042.46","5,369.86",,,,,,,,,,,,,,,,,,,,,,,
-126,Warhawk,"HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10",HPE,United States,2021,"129,920","4,033.50","5,404.67",,,,,,,,,,,,,,,,,,,,,,,
-127,DGX Saturn V,"NVIDIA DGX-1 Volta36, Xeon E5-2698v4 20C 2.2GHz, NVIDIA Tesla V100, Infiniband EDR",Nvidia,United States,2018,"87,040","3,998.00","7,414.78",,,,,,,,,,,,,,,,,,,,,,,
-128,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"126,468","3,944.68","4,249.33",,,,,,,,,,,,,,,,,,,,,,,
-129,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"126,468","3,944.68","4,249.33",,,,,,,,,,,,,,,,,,,,,,,
-130,,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, InfiniBand HDR 100",NEC,Germany,2020,"18,688","3,870.10","5,605.63",,,,,,,,,,,,,,,,,,,,,,,
-131,VEGA HPC CPU,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox InfiniBand HDR100",Atos,Slovenia,2021,"122,880","3,822.00","5,367.00",,,,,,,,,,,,,,,,,,,,,,,
-132,Pratyush,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,India,2018,"119,232","3,763.94","4,006.20",,,,,,,,,,,,,,,,,,,,,,,
-133,,"Apollo 6500 XL270d Gen10, Xeon Gold 6150/6152 18C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",HPE,Japan,2019,"65,208","3,712.00","5,365.09",,,,,,,,,,,,,,,,,,,,,,,
-134,LLNL Ruby,"Supermicro SYS-2029TP-HTR, Xeon Platnium 8276L 28C 2.2GHz, Cornelis Networks Omni-Path",Supermicro,United States,2020,"85,568","3,700.15","6,023.99",,,,,,,,,,,,,,,,,,,,,,,
-135,Tioga,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"30,208","3,666.00","5,832.70",,,,,,,,,,,,,,,,,,,,,,,
-136,Orion,"PowerEdge C6420, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR",DELL EMC,United States,2019,"70,560","3,665.72","5,419.01",,,,,,,,,,,,,,,,,,,,,,,
-137,IARA,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband",Nvidia,Brazil,2021,"24,800","3,657.00","4,130.40",,,,,,,,,,,,,,,,,,,,,,,
-138,,"ThinkSystem SD650 V2, Xeon Platinum 8358 32C 2.6GHz, Mellanox HDR Infiniband",Lenovo,China,2021,"59,392","3,656.78","4,941.41",,,,,,,,,,,,,,,,,,,,,,,
-139,Joule 2.0,"HP ProLiant XL170r/XL190r/DL360 Gen10, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100",HPE,United States,2018,"86,400","3,608.62","5,750.78",,,,,,,,,,,,,,,,,,,,,,,
-140,Niagara,"ThinkSystem SD530, Xeon Gold 6248 20C 2.5GHz, InfiniBand HDR100",Lenovo,Canada,2017,"80,640","3,599.66","6,253.06",,,,,,,,,,,,,,,,,,,,,,,
-141,,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40",HPE,United States,2014,"72,800","3,577.00","6,131.84",,,,,,,,,,,,,,,,,,,,,,,
-142,,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40",HPE,United States,2015,"72,800","3,577.00","6,131.84",,,,,,,,,,,,,,,,,,,,,,,
-143,Anvil,"PowerEdge 6525, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR 100",DELL EMC,United States,2022,"127,488","3,563.10","4,997.53",,,,,,,,,,,,,,,,,,,,,,,
-144,B1A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"80,640","3,545.65","6,967.30",,,,,,,,,,,,,,,,,,,,,,,
-145,Altair,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2020,"63,360","3,533.61","5,879.81",,,,,,,,,,,,,,,,,,,,,,,
-146,ATOS THX.A.B,"BullSequana XH2000, Xeon Platinum 8358 32C 2.6GHz, NVIDIA A100, Infiniband HDR",Atos,France,2022,"25,056","3,505.00","5,003.77",,,,,,,,,,,,,,,,,,,,,,,
-147,Unizah-II,"Cray CS500, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",HPE,Saudi Arabia,2020,"85,560","3,487.91","6,844.80",,,,,,,,,,,,,,,,,,,,,,,
-148,Ohtaka,"PowerEdge C6525, AMD EPYC 7702 64C 2GHz, Mellanox HDR Infiniband",DELL EMC,Japan,2020,"215,040","3,486.10","6,881.28",,,,,,,,,,,,,,,,,,,,,,,
-149,CARO,"NEC HPC2808Ri-2, AMD EPYC 7702 64C 2GHz, InfiniBand HDR100",NEC,Germany,2021,"174,592","3,458.30","5,586.94",,,,,,,,,,,,,,,,,,,,,,,
-150,davinci-1,"BullSequana X, AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,Italy,2020,"38,400","3,449.00","6,412.03",,,,,,,,,,,,,,,,,,,,,,,
-151,Cedar (GPU),"PowerEdge C6420, Xeon Silver 4216 16C 2.1GHz, NVIDIA Tesla V100, Intel Omni-Path",ACTION,Canada,2020,"67,584","3,371.00","5,834.40",,,,,,,,,,,,,,,,,,,,,,,
-152,Topaz,"SGI ICE X, Xeon E5-2699v3 18C 2.3GHz, Infiniband FDR",HPE,United States,2015,"124,200","3,318.95","4,570.56",,,,,,,,,,,,,,,,,,,,,,,
-153,,"NVIDIA DGX-1/Relion 2904GT, Xeon E5-2698v4 20C 2.2GHz/ E5-2650v4, Infiniband EDR, NVIDIA Tesla P100/Quadro GP100",Self-made,United States,2017,"60,512","3,307.00","4,896.51",,,,,,,,,,,,,,,,,,,,,,,
-154,Topaze-cpu,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,France,2021,"110,592","3,261.02","4,335.21",,,,,,,,,,,,,,,,,,,,,,,
-155,,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Mellanox InfiniBand HDR100",NEC,Germany,2020,"14,336","3,250.40","4,282.08",,,,,,,,,,,,,,,,,,,,,,,
-156,Damson,"Bull Sequana X1000, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR",Atos,United Kingdom,2017,"113,832","3,243.41","3,791.58",,,,,,,,,,,,,,,,,,,,,,,
-157,LLNL/NNSA CTS-1 MAGMA,"Relion Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path",Penguin Computing,United States,2019,"62,400","3,241.24","4,592.64",,,,,,,,,,,,,,,,,,,,,,,
-158,Mustang,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"55,296","3,221.40","4,777.57",,,,,,,,,,,,,,,,,,,,,,,
-159,"Big Red 200, GPU Partition","HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100, Slingshot-10",HPE,United States,2021,"31,744","3,194.00","4,006.14",,,,,,,,,,,,,,,,,,,,,,,
-160,HPC2,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, NVIDIA K20x",IBM,Italy,2014,"72,000","3,188.00","4,605.00",,,,,,,,,,,,,,,,,,,,,,,
-161,Fênix,"Bull 4029GP-TVRT, Xeon Gold 5122 4C 3.6GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2019,"60,480","3,161.00","5,371.78",,,,,,,,,,,,,,,,,,,,,,,
-162,Toubkal,"PowerEdge C6420, CRC-StackHPC, Xeon Platnium 8276L 28C 2.2GHz, Mellanox InfiniBand HDR100",DELL EMC,Morocco,2020,"71,232","3,158.11","5,014.73",,,,,,,,,,,,,,,,,,,,,,,
-163,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"71,680","3,151.69","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-164,B5A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"71,680","3,151.69","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-165,Lichtenberg II (Phase 1),"MEGWARE MiriQuid, Intel Xeon Platinum 9242 48C 2.3GHz, Mellanox InfiniBand HDR100",MEGWARE,Germany,2020,"59,136","3,148.38","4,352.41",,,,,,,,,,,,,,,,,,,,,,,
-166,,"Cray XC30, Intel Xeon E5-2697v2 12C 2.7GHz, Aries interconnect ",HPE,United States,2014,"225,984","3,143.52","4,881.25",,,,,,,,,,,,,,,,,,,,,,,
-167,A1C,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Singapore,2021,"92,160","3,131.25","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-168,A5A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-169,A1A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-170,A1A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15",,,,,,,,,,,,,,,,,,,,,,,
-171,Thunder,"SGI ICE X, Xeon E5-2699v3/E5-2697 v3, Infiniband FDR, NVIDIA Tesla K40, Intel Xeon Phi 7120P",HPE,United States,2015,"152,692","3,126.24","5,610.48",,,,,,,,,,,,,,,,,,,,,,,
-172,VEGA HPC GPU,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, NVIDIA A100, Infiniband HDR",Atos,Slovenia,2021,"33,600","3,096.00","4,680.00",,,,,,,,,,,,,,,,,,,,,,,
-173,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"76,000","3,088.64","6,080.00",,,,,,,,,,,,,,,,,,,,,,,
-174,Alps,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,Switzerland,2020,"128,000","3,088.60","4,608.00",,,,,,,,,,,,,,,,,,,,,,,
-175,Numerical Materials Simulator,"HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Dual-rail Intel Omni-Path",HPE,Japan,2020,"53,568","3,082.12","4,971.11",,,,,,,,,,,,,,,,,,,,,,,
-176,Hera,"Cray CS500, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR",HPE,United States,2019,"63,840","3,080.85","4,884.48",,,,,,,,,,,,,,,,,,,,,,,
-177,Camphor 2,"Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ",HPE,Japan,2016,"122,400","3,057.35","5,483.52",,,,,,,,,,,,,,,,,,,,,,,
-178,Jean Zay,"HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path",HPE,France,2019,"61,120","3,054.35","4,867.20",,,,,,,,,,,,,,,,,,,,,,,
-179,Mistral,"bullx DLC 720, Xeon E5-2680v3 12C 2.5GHz/E5-2695V4 18C  2.1Ghz, Infiniband FDR",Atos,Germany,2015,"99,072","3,010.68","3,962.88",,,,,,,,,,,,,,,,,,,,,,,
-180,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"73,600","2,994.04","5,888.00",,,,,,,,,,,,,,,,,,,,,,,
-181,HHH1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"80,640","2,975.29","6,451.20",,,,,,,,,,,,,,,,,,,,,,,
-182,III1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"79,680","2,975.08","6,374.40",,,,,,,,,,,,,,,,,,,,,,,
-183,Tetralith,"Intel H2204XXLRE, Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path",ClusterVision / Hammer,Sweden,2018,"64,512","2,969.19","4,335.21",,,,,,,,,,,,,,,,,,,,,,,
-184,Alex,"MEGWARE NF5488A5, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 80 GB, Infiniband HDR",MEGWARE,Germany,2021,"31,744","2,938.00","4,992.00",,,,,,,,,,,,,,,,,,,,,,,
-185,JJJ1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"78,720","2,933.42","6,297.60",,,,,,,,,,,,,,,,,,,,,,,
-186,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"72,000","2,931.84","5,760.00",,,,,,,,,,,,,,,,,,,,,,,
-187,A9A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"86,016","2,922.50","5,780.28",,,,,,,,,,,,,,,,,,,,,,,
-188,A6A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"86,016","2,922.50","5,780.28",,,,,,,,,,,,,,,,,,,,,,,
-189,Jean,"Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR",Liqid,United States,2020,"55,296","2,917.56","4,069.79",,,,,,,,,,,,,,,,,,,,,,,
-190,KKK1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"77,760","2,910.09","6,220.80",,,,,,,,,,,,,,,,,,,,,,,
-191,,"Inspur TS10000 HPC Server, Xeon Gold 6248R 24C 3GHz, InfiniBand HDR 100",Inspur,China,2020,"49,056","2,889.41","4,709.38",,,,,,,,,,,,,,,,,,,,,,,
-192,LLL1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"76,800","2,882.76","6,144.00",,,,,,,,,,,,,,,,,,,,,,,
-193,,"ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet",Lenovo,China,2021,"93,600","2,873.41","6,289.92",,,,,,,,,,,,,,,,,,,,,,,
-194,A8A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06",,,,,,,,,,,,,,,,,,,,,,,
-195,A8A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06",,,,,,,,,,,,,,,,,,,,,,,
-196,A3A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06",,,,,,,,,,,,,,,,,,,,,,,
-197,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2022,"84,480","2,870.31","5,677.06",,,,,,,,,,,,,,,,,,,,,,,
-198,,"ThinkSystem SR650, Xeon Gold 6238 22C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"94,160","2,867.64","6,327.55",,,,,,,,,,,,,,,,,,,,,,,
-199,ASPIRE 2A (GPU Partition),"HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,Singapore,2022,"31,744","2,861.00","5,123.07",,,,,,,,,,,,,,,,,,,,,,,
-200,Tenaya,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"22,656","2,861.00","4,374.53",,,,,,,,,,,,,,,,,,,,,,,
-201,MMM1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"75,840","2,857.04","6,067.20",,,,,,,,,,,,,,,,,,,,,,,
-202,"Karolina, CPU partition","Apollo 2000, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR 100",HPE,Czechia,2021,"92,160","2,837.40","3,833.86",,,,,,,,,,,,,,,,,,,,,,,
-203,NNN1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"74,880","2,834.05","5,990.40",,,,,,,,,,,,,,,,,,,,,,,
-204,Freeman,"Cray CS500, AMD EPYC 7542 32C 2.9GHz, Mellanox InfiniBand HDR100",HPE,United States,2020,"79,104","2,829.00","3,670.43",,,,,,,,,,,,,,,,,,,,,,,
-205,SuperMUC Phase 2,"NeXtScale nx360M5, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR14",Lenovo/IBM,Germany,2015,"86,016","2,813.62","3,578.27",,,,,,,,,,,,,,,,,,,,,,,
-206,OOO1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"73,920","2,804.41","5,913.60",,,,,,,,,,,,,,,,,,,,,,,
-207,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"89,856","2,801.78","3,019.16",,,,,,,,,,,,,,,,,,,,,,,
-208,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"89,856","2,801.78","3,019.16",,,,,,,,,,,,,,,,,,,,,,,
-209,JFRS-1,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Japan,2018,"54,560","2,787.14","4,190.21",,,,,,,,,,,,,,,,,,,,,,,
-210,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"68,000","2,779.84","5,440.00",,,,,,,,,,,,,,,,,,,,,,,
-211,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"72,960","2,774.23","5,836.80",,,,,,,,,,,,,,,,,,,,,,,
-212,Spartan3,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Mellanox InfiniBand HDR100",Atos,France,2021,"92,160","2,751.00","3,612.67",,,,,,,,,,,,,,,,,,,,,,,
-213,ZZ2,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"67,200","2,749.28","5,376.00",,,,,,,,,,,,,,,,,,,,,,,
-214,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"66,400","2,746.30","5,312.00",,,,,,,,,,,,,,,,,,,,,,,
-215,,"ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Lenovo,China,2019,"59,976","2,744.84","5,354.88",,,,,,,,,,,,,,,,,,,,,,,
-216,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"72,000","2,742.91","5,760.00",,,,,,,,,,,,,,,,,,,,,,,
-217,Topaze-gpu,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,France,2021,"26,880","2,741.00","3,744.00",,,,,,,,,,,,,,,,,,,,,,,
-218,VSC-4,"ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path",Lenovo,Austria,2019,"37,920","2,726.08","3,761.66",,,,,,,,,,,,,,,,,,,,,,,
-219,SNL/NNSA CTS-1 Attaway,"Tundra Extreme Scale, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path",Penguin Computing,United States,2019,"52,920","2,724.52","3,894.91",,,,,,,,,,,,,,,,,,,,,,,
-220,ZZ3,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"66,400","2,721.33","5,312.00",,,,,,,,,,,,,,,,,,,,,,,
-221,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"71,040","2,710.88","5,683.20",,,,,,,,,,,,,,,,,,,,,,,
-222,ZZ4,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"65,600","2,691.69","5,248.00",,,,,,,,,,,,,,,,,,,,,,,
-223,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"70,080","2,677.05","5,606.40",,,,,,,,,,,,,,,,,,,,,,,
-224,Banting,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Canada,2019,"53,200","2,676.74","4,085.76",,,,,,,,,,,,,,,,,,,,,,,
-225,Hypercluster,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR",Nvidia,United States,2019,"47,808","2,666.00","4,219.09",,,,,,,,,,,,,,,,,,,,,,,
-226,Komondor,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-11",HPE,Hungary,2022,"24,800","2,662.50","3,152.84",,,,,,,,,,,,,,,,,,,,,,,
-227,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Canada,2022,"78,336","2,661.56","5,264.18",,,,,,,,,,,,,,,,,,,,,,,
-228,ZZ5,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"64,800","2,661.46","5,184.00",,,,,,,,,,,,,,,,,,,,,,,
-229,ZZ6,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"69,120","2,654.04","5,529.60",,,,,,,,,,,,,,,,,,,,,,,
-230,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"128,000","2,651.95","4,710.40",,,,,,,,,,,,,,,,,,,,,,,
-231,Grace,"PowerEdge R640/R740/R840, Xeon Gold 6248R/6248R/6248, 24C 3.0GHz, InfiniBand HDR100",DELL EMC,United States,2020,"43,200","2,638.53","4,829.34",,,,,,,,,,,,,,,,,,,,,,,
-232,LLNL/NNSA CTS-1 Jade,"Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path",Penguin Computing,United States,2016,"95,472","2,632.51","3,207.86",,,,,,,,,,,,,,,,,,,,,,,
-233,LLNL CTS-1 Quartz,"Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path",Penguin Computing,United States,2016,"95,472","2,632.51","3,207.86",,,,,,,,,,,,,,,,,,,,,,,
-234,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"64,000","2,621.44","5,120.00",,,,,,,,,,,,,,,,,,,,,,,
-235,,"Inspur TS10000, Xeon Gold 6258R 28C 2.7GHz, InfiniBand HDR100",Inspur,China,2020,"50,400","2,610.00","4,354.56",,,,,,,,,,,,,,,,,,,,,,,
-236,A7A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96",,,,,,,,,,,,,,,,,,,,,,,
-237,A7A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96",,,,,,,,,,,,,,,,,,,,,,,
-238,A1B,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96",,,,,,,,,,,,,,,,,,,,,,,
-239,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"68,160","2,609.16","5,452.80",,,,,,,,,,,,,,,,,,,,,,,
-240,Cedar (CPU),"PowerEdge C6420, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path",ACTION,Canada,2020,"67,584","2,607.98","4,895.54",,,,,,,,,,,,,,,,,,,,,,,
-241,Daley,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Canada,2019,"53,200","2,598.28","4,085.76",,,,,,,,,,,,,,,,,,,,,,,
-242,AlphaCentauri,"NEC HPC 22S8Ri-4, EPYC 7352 24C 2.3GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200",NEC,Germany,2021,"31,008","2,592.00","5,364.06",,,,,,,,,,,,,,,,,,,,,,,
-243,HPC3,"Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR, NVIDIA Tesla K80",Lenovo,Italy,2017,"66,000","2,592.00","3,798.60",,,,,,,,,,,,,,,,,,,,,,,
-244,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"62,400","2,590.84","4,992.00",,,,,,,,,,,,,,,,,,,,,,,
-245,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"64,320","2,583.09","5,145.60",,,,,,,,,,,,,,,,,,,,,,,
-246,,"ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet",Lenovo,China,2021,"83,200","2,581.02","5,591.04",,,,,,,,,,,,,,,,,,,,,,,
-247,ASPIRE 2A (CPU Partition),"HPE Cray EX425, AMD EPYC 7713 64C 2GHz, Slingshot-10",HPE,Singapore,2022,"98,304","2,578.58","3,108.86",,,,,,,,,,,,,,,,,,,,,,,
-248,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"67,200","2,574.02","5,376.00",,,,,,,,,,,,,,,,,,,,,,,
-249,Mihir,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,India,2018,"83,592","2,570.40","2,808.69",,,,,,,,,,,,,,,,,,,,,,,
-250,Tianhe-1A,"NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050",NUDT,China,2010,"186,368","2,566.00","4,701.00",,,,,,,,,,,,,,,,,,,,,,,
-251,Spartan2,"Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,France,2020,"23,040","2,566.00","3,847.22",,,,,,,,,,,,,,,,,,,,,,,
-252,PAI-BSystem,"Sugon TC4600LP/W740I, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR, NVIDIA Tesla P100",Sugon,China,2018,"50,816","2,547.00","4,229.85",,,,,,,,,,,,,,,,,,,,,,,
-253,cascade,"Atipa Visione IF442 Blade Server, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi 5110P",Atipa,United States,2013,"194,616","2,539.13","3,388.03",,,,,,,,,,,,,,,,,,,,,,,
-254,Rattler,"PowerEdge XE8545, AMD EPYC 7713 64C 2GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail",DELL EMC,United States,2021,"26,880","2,531.00","3,940.61",,,,,,,,,,,,,,,,,,,,,,,
-255,occigen2,"bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR",Atos,France,2016,"85,824","2,494.65","3,570.28",,,,,,,,,,,,,,,,,,,,,,,
-256,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"61,440","2,487.09","4,915.20",,,,,,,,,,,,,,,,,,,,,,,
-257,Excalibur,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,United States,2014,"100,064","2,485.00","3,682.36",,,,,,,,,,,,,,,,,,,,,,,
-258,CLAIX (2018),"INTEL-HNS2600BPB, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path",NEC,Germany,2018,"61,200","2,483.58","4,112.64",,,,,,,,,,,,,,,,,,,,,,,
-259,Expanse,"PowerEdge R6525/C6525, AMD EPYC 7742, AMD EPYC 7742 64C, Mellanox HDR Infiniband",DELL EMC,United States,2020,"91,648","2,480.60","3,299.33",,,,,,,,,,,,,,,,,,,,,,,
-260,,"Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"50,400","2,480.00","4,680.00",,,,,,,,,,,,,,,,,,,,,,,
-261,,"Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"50,400","2,480.00","4,680.00",,,,,,,,,,,,,,,,,,,,,,,
-262,Lomonosov 2,"T-Platform A-Class Cluster, Xeon E5-2697v3 14C 2.6GHz,Intel Xeon Gold 6126, Infiniband FDR, Nvidia K40m/P-100",T-Platforms,Russia,2014,"64,384","2,478.00","4,946.79",,,,,,,,,,,,,,,,,,,,,,,
-263,Kay,"Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR",Liqid,United States,2020,"46,848","2,475.67","3,448.01",,,,,,,,,,,,,,,,,,,,,,,
-264,B1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"60,000","2,462.40","4,800.00",,,,,,,,,,,,,,,,,,,,,,,
-265,Centennial,"SGI ICE XA, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR",HPE,United States,2017,"73,920","2,443.70","2,601.98",,,,,,,,,,,,,,,,,,,,,,,
-266,PAI-ASystem,"Sugon TC4600, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR",Sugon,China,2017,"48,128","2,435.00","4,004.25",,,,,,,,,,,,,,,,,,,,,,,
-267,C1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"59,200","2,433.83","4,736.00",,,,,,,,,,,,,,,,,,,,,,,
-268,Big Red 200,"HPE Cray EX425, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2020,"84,480","2,431.20","3,041.28",,,,,,,,,,,,,,,,,,,,,,,
-269,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"115,200","2,429.15","4,239.36",,,,,,,,,,,,,,,,,,,,,,,
-270,D1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"58,800","2,421.62","4,704.00",,,,,,,,,,,,,,,,,,,,,,,
-271,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"113,600","2,399.59","4,180.48",,,,,,,,,,,,,,,,,,,,,,,
-272,E1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"58,000","2,392.38","4,640.00",,,,,,,,,,,,,,,,,,,,,,,
-273,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"58,560","2,379.87","4,684.80",,,,,,,,,,,,,,,,,,,,,,,
-274,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"112,000","2,374.04","4,121.60",,,,,,,,,,,,,,,,,,,,,,,
-275,B2F,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-276,B2E,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-277,B2B,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-278,B2D,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-279,B2C,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-280,B2A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-281,NVIDIA DGX SuperPOD,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2020,"19,840","2,356.00","2,812.80",,,,,,,,,,,,,,,,,,,,,,,
-282,ZZ1,"ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"153,600","2,354.91","10,321.92",,,,,,,,,,,,,,,,,,,,,,,
-283,A12A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Ireland,2022,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-284,A11A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Ireland,2022,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-285,A17A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Norway,2022,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-286,A17A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Switzerland,2022,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-287,B1B,"ThinkSystem C2397, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-288,A10A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-289,A4A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86",,,,,,,,,,,,,,,,,,,,,,,
-290,Ares,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2021,"37,824","2,338.79","3,510.07",,,,,,,,,,,,,,,,,,,,,,,
-291,,"Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"48,160","2,336.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-292,,"Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"48,160","2,336.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-293,HoreKa-Blue,"ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, Mellanox HDR Infiniband",Lenovo,Germany,2021,"45,752","2,333.51","3,513.75",,,,,,,,,,,,,,,,,,,,,,,
-294,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00",,,,,,,,,,,,,,,,,,,,,,,
-295,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00",,,,,,,,,,,,,,,,,,,,,,,
-296,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00",,,,,,,,,,,,,,,,,,,,,,,
-297,Makman-3,"PowerEdge R440/C6320p, Intel Xeon Phi 7250/Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path",DELL EMC,Saudi Arabia,2018,"53,300","2,322.46","3,581.76",,,,,,,,,,,,,,,,,,,,,,,
-298,F1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"56,000","2,317.95","4,480.00",,,,,,,,,,,,,,,,,,,,,,,
-299,,"Inspur TS10000 HPC Server, Xeon Gold 6226R 16C 2.9GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"49,920","2,316.00","4,412.10",,,,,,,,,,,,,,,,,,,,,,,
-300,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"108,800","2,314.21","4,003.84",,,,,,,,,,,,,,,,,,,,,,,
-301,VSC-5,"MEGWARE SLIDESX, AMD EPYC 7713 64C 2GHz, Infiniband HDR",MEGWARE,Austria,2022,"95,232","2,312.30","3,047.42",,,,,,,,,,,,,,,,,,,,,,,
-302,Taiwania 3,"QCT QuantaPlex T42D-2U/4N, Xeon Platinum 8280 28C 2.7GHz, InfiniBand HDR 100",Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2020,"50,400","2,297.56","4,354.56",,,,,,,,,,,,,,,,,,,,,,,
-303,Longhorn,"IBM Power System AC922, IBM POWER9 20C 3.6GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",IBM,United States,2019,"37,440","2,288.00","2,867.41",,,,,,,,,,,,,,,,,,,,,,,
-304,Wilkes-3,"PowerEdge XE8545, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail",DELL EMC,United Kingdom,2021,"26,880","2,287.00","6,641.41",,,,,,,,,,,,,,,,,,,,,,,
-305,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2017,"55,104","2,287.00","4,890.00",,,,,,,,,,,,,,,,,,,,,,,
-306,MeluXina - Cluster Module,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox HDR200 InfiniBand/ParTec ParaStation ClusterSuite",Atos,Luxembourg,2021,"73,344","2,286.56","3,003.18",,,,,,,,,,,,,,,,,,,,,,,
-307,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-308,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-309,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-310,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00",,,,,,,,,,,,,,,,,,,,,,,
-311,Dardel,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,Sweden,2021,"69,632","2,279.40","2,506.75",,,,,,,,,,,,,,,,,,,,,,,
-312,Béluga,"Dell EMC PowerEdge R640, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, Infiniband EDR",DELL EMC,Canada,2019,"72,480","2,278.00","7,494.78",,,,,,,,,,,,,,,,,,,,,,,
-313,,"Inspur TS10000 HPC Server, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, InfiniBand HDR 100",Inspur,China,2020,"40,560","2,276.00","3,923.71",,,,,,,,,,,,,,,,,,,,,,,
-314,,"Inspur TS10000 HPC Server, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, Infiniband HDR",Inspur,China,2020,"40,800","2,275.00","3,905.28",,,,,,,,,,,,,,,,,,,,,,,
-315,SSC-21 Scalable Module,"Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200",HPE,South Korea,2021,"16,704","2,274.10","2,597.82",,,,,,,,,,,,,,,,,,,,,,,
-316,Cumulus,"PowerEdge C6420/C6320, Intel Xeon Phi 7210/Xeon Gold 6142F 16C 2.6GHz, Intel Omni-Path",DELL EMC,United Kingdom,2018,"50,176","2,271.38","2,688.00",,,,,,,,,,,,,,,,,,,,,,,
-317,CEA-HFi,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2",Atos,France,2021,"73,728","2,262.00","2,890.14",,,,,,,,,,,,,,,,,,,,,,,
-318,MTS GROM,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Infiniband",Nvidia,Russia,2021,"19,840","2,258.00","3,011.84",,,,,,,,,,,,,,,,,,,,,,,
-319,Tethys,"NVIDIA DGX A100 Liquid Cooled Prototype, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR",Nvidia,United States,2021,"19,840","2,255.00","2,680.00",,,,,,,,,,,,,,,,,,,,,,,
-320,Makman-2,"Dell PowerEdge R630, Xeon E5-2680v3 12C 2.5GHz, Infiniband QDR",DELL EMC,Saudi Arabia,2015,"76,032","2,249.68","3,041.28",,,,,,,,,,,,,,,,,,,,,,,
-321,G1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"54,000","2,242.94","4,320.00",,,,,,,,,,,,,,,,,,,,,,,
-322,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"57,600","2,241.88","4,608.00",,,,,,,,,,,,,,,,,,,,,,,
-323,Fritz,"Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100",MEGWARE,Germany,2021,"67,968","2,233.04","3,384.12",,,,,,,,,,,,,,,,,,,,,,,
-324,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"67,200","2,192.00","4,515.84",,,,,,,,,,,,,,,,,,,,,,,
-325,,"Inspur NF5468M5, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"50,400","2,189.00","4,816.00",,,,,,,,,,,,,,,,,,,,,,,
-326,MN-3,"MN-Core Server, Xeon Platinum 8260M 24C 2.4GHz, Preferred Networks MN-Core, MN-Core DirectConnect",Preferred Networks,Japan,2020,"1,664","2,179.60","3,347.58",,,,,,,,,,,,,,,,,,,,,,,
-327,B4A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Germany,2021,"49,280","2,166.79","4,257.79",,,,,,,,,,,,,,,,,,,,,,,
-328,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"49,280","2,166.79","4,257.79",,,,,,,,,,,,,,,,,,,,,,,
-329,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"49,280","2,166.79","4,257.79",,,,,,,,,,,,,,,,,,,,,,,
-330,H1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"52,000","2,166.52","4,160.00",,,,,,,,,,,,,,,,,,,,,,,
-331,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68",,,,,,,,,,,,,,,,,,,,,,,
-332,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68",,,,,,,,,,,,,,,,,,,,,,,
-333,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68",,,,,,,,,,,,,,,,,,,,,,,
-334,,"ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"128,000","2,155.99","4,300.80",,,,,,,,,,,,,,,,,,,,,,,
-335,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"121,920","2,152.00","8,973.31",,,,,,,,,,,,,,,,,,,,,,,
-336,Betty,"Cray CS500, AMD EPYC 7542 32C 2.9GHz, InfiniBand HDR100",HPE,United States,2020,"94,976","2,133.00","4,406.89",,,,,,,,,,,,,,,,,,,,,,,
-337,,"ThinkSystem SR650, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"96,640","2,129.54","7,112.70",,,,,,,,,,,,,,,,,,,,,,,
-338,Snellius Phase 1 CPU,"ThinkSystem SR645, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR100",Lenovo,Netherlands,2021,"73,728","2,127.80","3,067.08",,,,,,,,,,,,,,,,,,,,,,,
-339,HSUper,"Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100",MEGWARE,Germany,2022,"41,832","2,125.83","3,212.70",,,,,,,,,,,,,,,,,,,,,,,
-340,Setonix,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10",HPE,Australia,2021,"65,536","2,122.03","2,569.01",,,,,,,,,,,,,,,,,,,,,,,
-341,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,200","2,121.00","4,056.00",,,,,,,,,,,,,,,,,,,,,,,
-342,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00",,,,,,,,,,,,,,,,,,,,,,,
-343,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00",,,,,,,,,,,,,,,,,,,,,,,
-344,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00",,,,,,,,,,,,,,,,,,,,,,,
-345,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR",Sugon,China,2019,"44,720","2,115.00","3,903.43",,,,,,,,,,,,,,,,,,,,,,,
-346,,"INSPUR NF5288M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2018,"53,760","2,109.00","4,652.03",,,,,,,,,,,,,,,,,,,,,,,
-347,MagicCube3,"Sugon TC6000, Xeon Gold 6142 16C 2.6GHz, Intel Omni-Path, NVIDIA Tesla V100",Sugon,China,2019,"40,960","2,109.00","3,434.09",,,,,,,,,,,,,,,,,,,,,,,
-348,I1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"50,000","2,094.00","4,000.00",,,,,,,,,,,,,,,,,,,,,,,
-349,ATERUI II ,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Japan,2018,"40,000","2,089.98","3,072.00",,,,,,,,,,,,,,,,,,,,,,,
-350,Greene,"ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, Infiniband HDR",Lenovo,United States,2020,"32,796","2,088.83","3,042.43",,,,,,,,,,,,,,,,,,,,,,,
-351,A15A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Australia,2022,"61,440","2,087.50","4,128.77",,,,,,,,,,,,,,,,,,,,,,,
-352,A16A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Brazil,2021,"61,440","2,087.50","4,128.77",,,,,,,,,,,,,,,,,,,,,,,
-353,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Japan,2021,"61,440","2,087.50","4,128.77",,,,,,,,,,,,,,,,,,,,,,,
-354,A13A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United Kingdom,2022,"61,440","2,087.50","4,128.77",,,,,,,,,,,,,,,,,,,,,,,
-355,A13A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2022,"61,440","2,087.50","4,128.77",,,,,,,,,,,,,,,,,,,,,,,
-356,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Sugon,China,2019,"44,032","2,087.00","3,843.38",,,,,,,,,,,,,,,,,,,,,,,
-357,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20",,,,,,,,,,,,,,,,,,,,,,,
-358,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20",,,,,,,,,,,,,,,,,,,,,,,
-359,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20",,,,,,,,,,,,,,,,,,,,,,,
-360,Cannon,"ThinkSystem SD650, Xeon Platinum 8268 24C 2.9GHz, InfiniBand HDR100",Lenovo,United States,2019,"32,160","2,076.89","2,984.45",,,,,,,,,,,,,,,,,,,,,,,
-361,,"Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"59,760","2,075.00","5,245.78",,,,,,,,,,,,,,,,,,,,,,,
-362,JD I1,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"52,320","2,074.04","4,018.18",,,,,,,,,,,,,,,,,,,,,,,
-363,Phoenix - 2022,"ThinkSystem SR670 V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Infiniband HDR",Lenovo,Australia,2022,"20,160","2,074.00","3,341.18",,,,,,,,,,,,,,,,,,,,,,,
-364,Tianhe-2 LvLiang Solution,"Tianhe-2 LvLiang, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Intel Xeon Phi 31S1P",NUDT,China,2014,"174,720","2,071.39","3,074.53",,,,,,,,,,,,,,,,,,,,,,,
-365,Grace-GPU,"PowerEdge R740, Xeon Gold 6248R 24C 3GHz, NVIDIA A100 40GB, InfiniBand HDR 100",DELL EMC,United States,2020,"26,400","2,063.00","3,900.00",,,,,,,,,,,,,,,,,,,,,,,
-366,,"ThinkSystem SR650, Xeon Gold 6142 16C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Lenovo,China,2019,"44,160","2,059.88","3,862.25",,,,,,,,,,,,,,,,,,,,,,,
-367,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",Lenovo,China,2019,"49,200","2,045.93","3,936.00",,,,,,,,,,,,,,,,,,,,,,,
-368,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"53,040","2,028.00","4,648.18",,,,,,,,,,,,,,,,,,,,,,,
-369,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"53,040","2,028.00","4,648.18",,,,,,,,,,,,,,,,,,,,,,,
-370,,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"48,000","2,027.52","3,840.00",,,,,,,,,,,,,,,,,,,,,,,
-371,,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2019,"55,440","2,026.00","4,080.38",,,,,,,,,,,,,,,,,,,,,,,
-372,Champollion,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,France,2022,"19,840","2,022.00","2,522.27",,,,,,,,,,,,,,,,,,,,,,,
-373,,"Inspur NF5468M5, Xeon Gold 5120 14C 2.2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2020,"48,880","2,016.00","44,982.27",,,,,,,,,,,,,,,,,,,,,,,
-374,TX-Green2,"PowerEdge C6420, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet",ACTION,United States,2021,"43,200","2,015.00","53,084.16",,,,,,,,,,,,,,,,,,,,,,,
-375,J1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"48,000","2,014.46","3,840.00",,,,,,,,,,,,,,,,,,,,,,,
-376,,"Inspur NF5468M5, Xeon Platinum 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"41,280","2,011.00","3,744.00",,,,,,,,,,,,,,,,,,,,,,,
-377,,"Inspur NF5468M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"40,800","2,011.00","3,744.00",,,,,,,,,,,,,,,,,,,,,,,
-378,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"110,880","2,007.00","8,160.77",,,,,,,,,,,,,,,,,,,,,,,
-379,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Sugon,China,2019,"42,312","2,003.00","3,693.54",,,,,,,,,,,,,,,,,,,,,,,
-380,Koehr,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"34,560","2,001.99","2,985.98",,,,,,,,,,,,,,,,,,,,,,,
-381,Gaffney,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"34,560","2,001.99","2,985.98",,,,,,,,,,,,,,,,,,,,,,,
-382,Grand Chariot,"PRIMERGY CX2550 M4 M4, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Fujitsu,Japan,2018,"39,760","2,000.00","3,053.57",,,,,,,,,,,,,,,,,,,,,,,
-383,A64FX prototype,"Fujitsu A64FX, Fujitsu A64FX 48C 2GHz, Tofu interconnect D",Fujitsu,Japan,2019,"36,864","1,999.50","2,359.30",,,,,,,,,,,,,,,,,,,,,,,
-384,TTSystem,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet",Sugon,China,2018,"116,600","1,997.00","4,104.32",,,,,,,,,,,,,,,,,,,,,,,
-385,,"Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Sugon,China,2019,"520,000","1,985.00","39,936.00",,,,,,,,,,,,,,,,,,,,,,,
-386,K1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"47,200","1,983.15","3,776.00",,,,,,,,,,,,,,,,,,,,,,,
-387,Gaïa,"Bull intel Cluster, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path",Atos,France,2018,"41,472","1,980.53","3,052.34",,,,,,,,,,,,,,,,,,,,,,,
-388,HKVDPSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"121,920","1,979.00","4,096.51",,,,,,,,,,,,,,,,,,,,,,,
-389,HKVDPSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"121,920","1,979.00","4,096.51",,,,,,,,,,,,,,,,,,,,,,,
-390,bsystem,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"60,800","1,976.00","4,085.76",,,,,,,,,,,,,,,,,,,,,,,
-391,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"89,600","1,975.07","6,594.56",,,,,,,,,,,,,,,,,,,,,,,
-392,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"45,152","1,975.00","4,010.48",,,,,,,,,,,,,,,,,,,,,,,
-393,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"45,152","1,975.00","4,010.48",,,,,,,,,,,,,,,,,,,,,,,
-394,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"45,152","1,975.00","4,010.48",,,,,,,,,,,,,,,,,,,,,,,
-395,B3A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Ireland,2021,"44,800","1,969.81","3,870.72",,,,,,,,,,,,,,,,,,,,,,,
-396,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"44,800","1,969.81","3,870.72",,,,,,,,,,,,,,,,,,,,,,,
-397,Mogon II,"NEC Cluster, Xeon Gold 6130 16C 2.1GHz, MEGWARE MiriQuid Xeon E5-2630v4, Intel Omni-Path",NEC/MEGWARE,Germany,2017,"49,432","1,967.81","2,800.87",,,,,,,,,,,,,,,,,,,,,,,
-398,Biowulf,"Apollo 2000 Gen 8/9, Xeon E5-2680v4/E5-2695v3 14C 2.4GHz, Infiniband FDR",HPE,United States,2016,"66,304","1,966.08","2,491.37",,,,,,,,,,,,,,,,,,,,,,,
-399,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 25G Ethernet, NVIDIA Tesla V100",Sugon,China,2019,"41,280","1,963.00","3,603.46",,,,,,,,,,,,,,,,,,,,,,,
-400,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet",Sugon,China,2019,"47,600","1,955.00","3,960.32",,,,,,,,,,,,,,,,,,,,,,,
-401,NA-J2,"ZettaScaler3.0, AMD  EPYC 7702P 64C 1.5GHz, PEZY-SC3, Infiniband EDR",PEZY Computing / Exascaler Inc.,Japan,2022,"1,151,360","1,952.46","2,931.81",,,,,,,,,,,,,,,,,,,,,,,
-402,,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2019,"53,280","1,952.00","3,921.41",,,,,,,,,,,,,,,,,,,,,,,
-403,Alvis,"ThinkSystem SD650-N V2, Xeon 6338 32C 2GHz, NVIDIA A100, Infiniband HDR",Lenovo,Sweden,2022,"41,664","1,937.40","3,603.26",,,,,,,,,,,,,,,,,,,,,,,
-404,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"58,112","1,934.00","3,905.13",,,,,,,,,,,,,,,,,,,,,,,
-405,,"Inspur NF5468M5, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"51,504","1,928.00","4,618.00",,,,,,,,,,,,,,,,,,,,,,,
-406,CTcluster,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2018,"54,000","1,928.00","3,974.40",,,,,,,,,,,,,,,,,,,,,,,
-407,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2017,"40,320","1,921.00","3,520.51",,,,,,,,,,,,,,,,,,,,,,,
-408,,"ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet",Lenovo,China,2019,"57,200","1,914.59","3,660.80",,,,,,,,,,,,,,,,,,,,,,,
-409,,"Huawei 2288H V5, Xeon Gold 6150 18C 2.7GHz, 10G Ethernet",Huawei,China,2018,"49,680","1,914.38","4,292.35",,,,,,,,,,,,,,,,,,,,,,,
-410,,"ThinkSystem SR650, Xeon E5-2698v3 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"86,400","1,905.48","3,179.52",,,,,,,,,,,,,,,,,,,,,,,
-411,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet",Sugon,China,2019,"46,200","1,901.00","3,843.84",,,,,,,,,,,,,,,,,,,,,,,
-412,Piz Daint Multicore,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,Switzerland,2016,"65,268","1,896.75","2,193.01",,,,,,,,,,,,,,,,,,,,,,,
-413,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"56,800","1,896.00","3,816.96",,,,,,,,,,,,,,,,,,,,,,,
-414,Rockfish,"ThinkSystem SD530/SR670, Xeon Gold 6248R 24C 3GHz, Infiniband HDR",Lenovo,United States,2020,"32,352","1,886.65","3,105.79",,,,,,,,,,,,,,,,,,,,,,,
-415,Agate,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, InfiniBand HDR 100",HPE,United States,2021,"31,744","1,884.00","3,551.31",,,,,,,,,,,,,,,,,,,,,,,
-416,A1,"Lenovo HR650x, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet",Lenovo,China,2019,"47,040","1,882.56","3,612.67",,,,,,,,,,,,,,,,,,,,,,,
-417,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"173,680","1,872.00","15,162.37",,,,,,,,,,,,,,,,,,,,,,,
-418,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2018,"40,320","1,872.00","3,520.51",,,,,,,,,,,,,,,,,,,,,,,
-419,Tera-1000-1,"bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR",Atos,France,2016,"70,272","1,871.00","2,586.01",,,,,,,,,,,,,,,,,,,,,,,
-420,,"HPE SGI 8600, Xeon Gold 6242R 20C 3.1GHz, Infiniband EDR",HPE,Japan,2020,"28,240","1,870.73","2,801.41",,,,,,,,,,,,,,,,,,,,,,,
-421,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",Lenovo,China,2019,"44,000","1,861.37","3,520.00",,,,,,,,,,,,,,,,,,,,,,,
-422,,"Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"46,480","1,854.00","4,080.05",,,,,,,,,,,,,,,,,,,,,,,
-423,,"Inspur TS10000, Xeon Gold 6248 20C 2.5GHz/Platinum 8268 24C 2.9GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"37,440","1,853.00","3,432.00",,,,,,,,,,,,,,,,,,,,,,,
-424,Santos Dumont (SDumont),"Bull Sequana X1000, Xeon Gold 6252 24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",Atos,Brazil,2019,"33,856","1,849.00","2,727.03",,,,,,,,,,,,,,,,,,,,,,,
-425,Phoenix,"Relion XE2142/XE1114GT, Intel Xeon Gold 6226 12C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand HDR100",Penguin Computing,United States,2020,"31,104","1,840.89","2,687.39",,,,,,,,,,,,,,,,,,,,,,,
-426,bsystem,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"55,040","1,838.00","3,698.69",,,,,,,,,,,,,,,,,,,,,,,
-427,,"ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"83,200","1,835.52","6,123.52",,,,,,,,,,,,,,,,,,,,,,,
-428,,"Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet",Sugon,China,2019,"48,000","1,833.00","3,686.40",,,,,,,,,,,,,,,,,,,,,,,
-429,Astra,"Apollo 70, Marvell ThunderX2 ARM CN9975-2000  28C 2GHz, 4xEDR Infiniband",HPE,United States,2018,"143,640","1,833.00","2,298.24",,,,,,,,,,,,,,,,,,,,,,,
-430,,"Sugon TC6000, Xeon Gold 5117 14C 2GHz, 25G Ethernet",Sugon,China,2019,"116,200","1,832.00","7,436.80",,,,,,,,,,,,,,,,,,,,,,,
-431,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2018,"43,200","1,831.49","3,456.00",,,,,,,,,,,,,,,,,,,,,,,
-432,scafellpike,"Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR",Atos,United Kingdom,2017,"80,640","1,829.86","4,329.73",,,,,,,,,,,,,,,,,,,,,,,
-433,,"ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet, NVIDIA Tesla P100",Lenovo,China,2019,"66,080","1,828.02","4,981.76",,,,,,,,,,,,,,,,,,,,,,,
-434,A2A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","1,826.56","3,612.67",,,,,,,,,,,,,,,,,,,,,,,
-435,JGV100System,"Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Sugon,China,2018,"41,760","1,825.00","3,353.18",,,,,,,,,,,,,,,,,,,,,,,
-436,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 10G Ethernet",Sugon,China,2019,"44,100","1,824.00","3,669.12",,,,,,,,,,,,,,,,,,,,,,,
-437,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"48,880","1,820.00","4,140.03",,,,,,,,,,,,,,,,,,,,,,,
-438,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"48,880","1,820.00","4,140.03",,,,,,,,,,,,,,,,,,,,,,,
-439,Snellius Phase 1 GPU,"ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Lenovo,Netherlands,2021,"6,480","1,818.00","3,007.07",,,,,,,,,,,,,,,,,,,,,,,
-440,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"54,240","1,815.00","3,644.93",,,,,,,,,,,,,,,,,,,,,,,
-441,szaisystem,"Sugon TC6000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Infiniband EDR",Sugon,China,2019,"30,600","1,814.00","2,674.10",,,,,,,,,,,,,,,,,,,,,,,
-442,Bank P A2,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Lenovo,China,2019,"36,000","1,809.34","3,021.60",,,,,,,,,,,,,,,,,,,,,,,
-443,Bank P A2,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Lenovo,China,2019,"36,000","1,809.34","3,021.60",,,,,,,,,,,,,,,,,,,,,,,
-444,JCSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"110,080","1,807.00","3,698.69",,,,,,,,,,,,,,,,,,,,,,,
-445,S1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"33,840","1,804.00","2,923.78",,,,,,,,,,,,,,,,,,,,,,,
-446,Beskow,"Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,Sweden,2017,"67,456","1,802.51","2,438.14",,,,,,,,,,,,,,,,,,,,,,,
-447,ESSystem,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet",Sugon,China,2018,"105,000","1,790.00","3,696.00",,,,,,,,,,,,,,,,,,,,,,,
-448,Molecular Simulator,"NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path",NEC,Japan,2017,"38,552","1,785.62","3,072.77",,,,,,,,,,,,,,,,,,,,,,,
-449,R1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"33,120","1,768.59","2,861.57",,,,,,,,,,,,,,,,,,,,,,,
-450,,"ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"80,000","1,765.81","5,888.00",,,,,,,,,,,,,,,,,,,,,,,
-451,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"99,360","1,765.00","7,312.90",,,,,,,,,,,,,,,,,,,,,,,
-452,POD3,"Huawei Cluster, Xeon Gold 6148 20C 2.4GHz, Infiniband",Huawei,United Arab Emirates,2019,"34,800","1,756.75","2,672.64",,,,,,,,,,,,,,,,,,,,,,,
-453,QURIOSITY,"Apollo XL230k, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",HPE,Germany,2017,"35,280","1,750.18","2,709.50",,,,,,,,,,,,,,,,,,,,,,,
-454,CARA,"NEC LX Cluster, AMD Epyc 7601 32C 2.2GHz, Infiniband HDR",NEC,Germany,2019,"145,920","1,746.00","2,568.19",,,,,,,,,,,,,,,,,,,,,,,
-455,,"ThinkSystem SR590, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet",Lenovo,China,2019,"2,312,800","1,741.02","81,410.56",,,,,,,,,,,,,,,,,,,,,,,
-456,CSystem,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2018,"97,920","1,736.00","7,206.91",,,,,,,,,,,,,,,,,,,,,,,
-457,Q1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"32,400","1,735.66","2,799.36",,,,,,,,,,,,,,,,,,,,,,,
-458,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00",,,,,,,,,,,,,,,,,,,,,,,
-459,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00",,,,,,,,,,,,,,,,,,,,,,,
-460,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00",,,,,,,,,,,,,,,,,,,,,,,
-461,Internet Company T DD1,"Lenovo RD350, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Lenovo,China,2018,"118,400","1,728.88","3,978.24",,,,,,,,,,,,,,,,,,,,,,,
-462,Tryton Plus,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2021,"30,432","1,728.34","2,824.09",,,,,,,,,,,,,,,,,,,,,,,
-463,,"Huawei X6000, Xeon Gold 6242 16C 2.8GHz, Infiniband EDR",Huawei,Germany,2019,"38,400","1,724.45","3,440.64",,,,,,,,,,,,,,,,,,,,,,,
-464,,"PRIMERGY CX2550 M4, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path",Fujitsu,Japan,2020,"35,200","1,715.81","2,816.00",,,,,,,,,,,,,,,,,,,,,,,
-465,,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100",Inspur,China,2017,"39,680","1,714.00","3,149.60",,,,,,,,,,,,,,,,,,,,,,,
-466,Puhti,"Bull Sequana X1000, Xeon Gold 6230 20C 2.1GHz, Mellanox HDR100",Atos,Finland,2019,"40,000","1,706.73","2,688.00",,,,,,,,,,,,,,,,,,,,,,,
-467,P1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"31,680","1,703.51","2,737.15",,,,,,,,,,,,,,,,,,,,,,,
-468,SwiftLucy,"Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR",HPE,United States,2015,"57,600","1,703.28","2,304.00",,,,,,,,,,,,,,,,,,,,,,,
-469,AFI-NITY,"PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Fujitsu,Japan,2018,"35,200","1,691.00","2,703.36",,,,,,,,,,,,,,,,,,,,,,,
-470,TaiYi,"ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Lenovo,China,2018,"32,400","1,686.54","2,488.32",,,,,,,,,,,,,,,,,,,,,,,
-471,,"ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Lenovo,China,2018,"35,200","1,684.19","2,703.36",,,,,,,,,,,,,,,,,,,,,,,
-472,,"ThinkSystem SD650, Xeon Gold 6240 18C 2.6GHz, Infiniband EDR",Lenovo,China,2019,"28,800","1,683.37","2,695.68",,,,,,,,,,,,,,,,,,,,,,,
-473,ISystem,"Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet",Sugon,China,2018,"97,920","1,683.00","3,446.78",,,,,,,,,,,,,,,,,,,,,,,
-474,Internet Service D,"Huawei 1288H V5, Xeon Platinum 8160  24C 2.1GHz, Infiniband EDR",Huawei,China,2019,"48,960","1,671.37","3,290.11",,,,,,,,,,,,,,,,,,,,,,,
-475,Prometheus,"HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40",HPE,Poland,2015,"55,728","1,670.09","2,348.64",,,,,,,,,,,,,,,,,,,,,,,
-476,O1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"30,960","1,668.16","2,674.94",,,,,,,,,,,,,,,,,,,,,,,
-477,,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"41,760","1,667.72","3,207.17",,,,,,,,,,,,,,,,,,,,,,,
-478,,"Sugon TC6000, AMD Epyc 7501 32C 2GHz, AMD Vega 20, Infiniband HDR",Sugon,China,2019,"100,800","1,661.00","2,472.96",,,,,,,,,,,,,,,,,,,,,,,
-479,Endeavor,"Intel Cluster, Intel Xeon 6245/8280/6230/8268/8260L/8276/9242, Intel Omni-Path",Intel,United States,2011,"31,524","1,653.92","2,467.70",,,,,,,,,,,,,,,,,,,,,,,
-480,Internet Company T Y1,"Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"89,600","1,653.22","3,440.64",,,,,,,,,,,,,,,,,,,,,,,
-481,,"ThinkSystem SR570, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet",Lenovo,China,2019,"78,400","1,652.49","2,759.68",,,,,,,,,,,,,,,,,,,,,,,
-482,Software Company (M) AA1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Australia,2017,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-483,Software Company (M) CA3,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-484,Software Company (M) CA2,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-485,Software Company (M) CA1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-486,,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2019,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-487,Software Company (M) A16,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-488,Software Company (M) A15,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-489,Software Company (M) A14,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-490,Software Company (M) A13,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-491,Software Company (M) A11,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-492,Software Company (M) A10,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-493,Software Company (M) A9,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-494,Software Company (M) A8,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-495,Software Company (M) A7,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-496,Software Company (M) A6,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-497,Software Company (M) A4,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-498,Software Company (M) A3,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-499,Software Company (M) A2,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2017,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
-500,Software Company (M) A1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2017,"57,600","1,649.11","2,119.68",,,,,,,,,,,,,,,,,,,,,,,
+﻿Rank,Name,Computer,Manufacturer,Country,Year,TotalCores,Rmax,Rpeak
+1,Frontier,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2021,"8,730,112","1,102,000.00","1,685,651.46"
+2,Supercomputer Fugaku,"Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"7,630,848","442,010.00","537,212.00"
+3,LUMI,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,Finland,2022,"1,110,144","151,900.00","214,351.87"
+4,Summit,"IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM,United States,2018,"2,414,592","148,600.00","200,794.88"
+5,Sierra,"IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM / NVIDIA / Mellanox,United States,2018,"1,572,480","94,640.00","125,712.00"
+6,Sunway TaihuLight,"Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway",NRCPC,China,2016,"10,649,600","93,014.59","125,435.90"
+7,Perlmutter,"HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,United States,2021,"761,856","70,870.00","93,750.00"
+8,Selene,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2020,"555,520","63,460.00","79,215.00"
+9,Tianhe-2A,"TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000",NUDT,China,2018,"4,981,760","61,444.50","100,678.66"
+10,Adastra,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,France,2022,"319,072","46,100.00","61,607.94"
+11,JUWELS Booster Module,"Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2020,"449,280","44,120.00","70,980.00"
+12,HPC5,"PowerEdge C4140, Xeon Gold 6252 24C 2.1GHz, NVIDIA Tesla V100, Mellanox HDR Infiniband",DELL EMC,Italy,2020,"669,760","35,450.00","51,720.76"
+13,Voyager-EUS2,"ND96amsr_A100_v4, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100 80GB​, Mellanox HDR Infiniband",Microsoft Azure,United States,2021,"253,440","30,050.00","39,531.15"
+14,Polaris,"Apollo 6500, AMD EPYC 7532 32C 2.4GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,United States,2021,"256,592","25,810.00","34,163.19"
+15,SSC-21,"Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200",HPE,South Korea,2021,"204,160","25,177.00","31,751.10"
+16,Frontera,"Dell C6420, Xeon Platinum 8280 28C 2.7GHz, Mellanox InfiniBand HDR",DELL EMC,United States,2019,"448,448","23,516.40","38,745.91"
+17,CEA-HF,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2",Atos,France,2021,"810,240","23,237.60","31,761.40"
+18,Dammam-7,"Cray CS-Storm, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, InfiniBand HDR 100",HPE,Saudi Arabia,2020,"672,520","22,400.00","55,423.56"
+19,ABCI 2.0,"PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Fujitsu,Japan,2021,"504,000","22,208.72","54,340.99"
+20,Wisteria/BDEC-01 (Odyssey),"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2021,"368,640","22,121.00","25,952.26"
+21,Marconi-100,"IBM Power System AC922, IBM POWER9 16C 3GHz, Nvidia Volta V100, Dual-rail Mellanox EDR Infiniband",IBM,Italy,2019,"347,776","21,640.00","29,354.00"
+22,Chervonenkis,"YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband","YANDEX, NVIDIA",Russia,2021,"193,440","21,530.00","29,415.17"
+23,Piz Daint,"Cray XC50, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect , NVIDIA Tesla P100",HPE,Switzerland,2017,"387,872","21,230.00","27,154.30"
+24,Trinity,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect",HPE,United States,2017,"979,072","20,158.70","41,461.15"
+25,ARCHER2,"Cray XE, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United Kingdom,2021,"716,800","19,539.00","25,804.00"
+26,SuperMUC-NG,"ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path",Lenovo,Germany,2018,"305,856","19,476.60","26,873.86"
+27,Hawk,"Apollo 9000, AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband",HPE,Germany,2020,"698,880","19,334.00","25,159.68"
+28,Ghawar-1,"HPE Cray EX, AMD EPYC 7702 64C 2GHz, Slingshot-10",HPE,Saudi Arabia,2021,"714,240","19,256.00","22,855.68"
+29,Frontier TDS,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2021,"120,832","19,200.00","23,105.54"
+30,Lassen,"IBM Power System AC922, IBM POWER9 22C 3.1GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Tesla V100",IBM / NVIDIA / Mellanox,United States,2018,"288,288","18,200.00","23,047.20"
+31,Guru,"ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR",Lenovo,South Korea,2021,"306,432","18,002.80","25,495.14"
+32,Maru,"ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR",Lenovo,South Korea,2021,"306,432","18,002.80","25,495.14"
+33,PANGEA III,"IBM Power System AC922, IBM POWER9 18C 3.45GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Volta GV100",IBM,France,2019,"291,024","17,860.00","25,025.81"
+34,HiPerGator AI,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR",Nvidia,United States,2021,"138,880","17,200.00","21,314.72"
+35,TOKI-SORA,"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"276,480","16,592.00","19,464.20"
+36,Pioneer-EUS,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2020,"157,440","16,590.00","24,557.23"
+37,Pioneer-SCUS,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2021,"157,440","16,590.00","24,557.23"
+38,Pioneer-WEU,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,Netherlands,2021,"157,440","16,590.00","24,557.23"
+39,Pioneer-WUS2,"NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR",Microsoft Azure,United States,2021,"157,440","16,590.00","24,557.23"
+40,Galushkin,"YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband","YANDEX, NVIDIA",Russia,2021,"134,912","16,020.00","20,636.10"
+41,Cori,"Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ",HPE,United States,2016,"622,336","14,014.70","27,880.65"
+42,Nurion,"Cray CS500, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path",HPE,South Korea,2018,"570,020","13,929.30","25,705.90"
+43,Lyapunov,"Inspur NF5488A5, AMD EPYC 7662 64C 2GHz, NVIDIA A100 40GB, Infiniband","NVIDIA, Inspur",Russia,2020,"130,944","12,810.00","20,029.19"
+44,HPC4,"Proliant DL380 Gen10, Xeon Platinum 8160  24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla P100",HPE,Italy,2018,"253,600","12,210.00","18,621.14"
+45,Tera-1000-2,"Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2",Atos,France,2017,"561,408","11,965.50","23,396.35"
+46,Christofari Neo,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband",Nvidia,Russia,2021,"98,208","11,950.00","14,908.61"
+47,Stampede2,"PowerEdge C6320P/C6420, Intel Xeon Phi 7250 68C 1.4GHz/Platinum 8160, Intel Omni-Path",DELL EMC,United States,2017,"367,024","10,680.70","18,309.22"
+48,MeluXina - Accelerator Module,"BullSequana XH2000, AMD EPYC 7452 32C 2.35GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Luxembourg,2021,"99,200","10,520.00","15,288.00"
+49,Cactus,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2021,"327,680","10,013.00","11,796.48"
+50,Dogwood,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2020,"327,680","10,013.00","11,796.48"
+51,Earth Simulator -SX-Aurora TSUBASA,"SX-Aurora TSUBASA B401-8, Vector Engine Type20B 8C 1.6GHz, Infiniband HDR200",NEC,Japan,2021,"43,776","9,990.70","13,447.99"
+52,Amazon EC2 Instance Cluster us-east-1a,"Amazon EC2 r5.24xlarge, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet",Amazon Web Services,United States,2019,"172,692","9,950.26","15,106.52"
+53,NVIDIA Cambridge-1 DGX SuperPOD,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR",Nvidia,United States,2021,"79,360","9,682.00","12,047.00"
+54,,"Apollo 6500, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,Japan,2022,"72,384","9,459.00","9,669.30"
+55,DGX SuperPOD,"NVIDIA DGX-2H, Xeon Platinum 8174 24C 3.1GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR",Nvidia,United States,2020,"127,488","9,444.00","11,209.11"
+56,JURECA Data Centric Module,"BullSequana XH2000, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2021,"105,840","9,330.00","14,508.00"
+57,Gadi,"PRIMERGY CX2570 M5, ThinkSystem SD650, Xeon Platinum 8274/8268, NVIDIA Tesla V100 SXM2, Mellanox HDR Infiniband",Fujitsu / Lenovo,Australia,2020,"204,032","9,264.31","15,142.20"
+58,Aitken,"HPE Apollo 9000/HPE SGI 8600, AMD EPYC 7742 64C 2.25GHz/Intel Xeon Gold 6248 20C 2.5GHz, Mellanox EDR/HDR Infiniband",HPE,United States,2022,"293,936","9,070.00","12,493.06"
+59,Taiwania 2,"QCT QuantaGrid D52G-4U/LC, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2018,"170,352","9,000.00","15,208.23"
+60,Dragão,"Supermicro SYS-4029GP-TVRT, Xeon Gold 6230R 26C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2021,"188,224","8,983.00","14,006.48"
+61,Raven-GPU,"ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Mellanox HDR Infiniband",Lenovo,Germany,2021,"96,768","8,620.00","16,031.54"
+62,AiMOS,"IBM Power System AC922, IBM POWER9 20C 3.45GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband",IBM,United States,2019,"130,000","8,339.00","11,032.03"
+63,Taranis,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox InfiniBand HDR100",Atos,France,2020,"294,912","8,191.03","10,321.92"
+64,TSUBAME3.0,"SGI ICE XA, IP139-SXM2, Xeon E5-2680v4 14C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100 SXM2",HPE,Japan,2017,"135,828","8,125.00","12,127.07"
+65,Roxy,"Apollo 2000, Xeon Gold 6248 20C 2.5GHz, Infiniband EDR",HPE,United States,2020,"174,720","8,124.48","13,977.60"
+66,HoreKa-Green,"ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband",Lenovo,Germany,2021,"90,932","8,025.60","15,006.79"
+67,Narwhal,"HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10",HPE,United States,2020,"276,480","8,023.60","11,501.57"
+68,Plasma Simulator,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Infiniband HDR 200",NEC,Japan,2020,"34,560","7,892.70","10,510.66"
+69,Underhill,"ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR",Lenovo,Canada,2022,"148,320","7,764.57","10,916.35"
+70,Robert,"ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR",Lenovo,Canada,2022,"148,320","7,764.57","10,916.35"
+71,Belenos,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR100",Atos,France,2020,"294,912","7,683.36","10,469.38"
+72,alpha ONE,"Apollo 6500, AMD EPYC 7F52 16C 3.5GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,Germany,2022,"57,344","7,625.00","7,864.83"
+73,PupMaya,"Apollo 2000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",HPE,United States,2019,"169,920","7,483.73","12,902.40"
+74,Artemis,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Infiniband EDR, NVIDIA Tesla V100",Nvidia,United Arab Emirates,2019,"107,568","7,257.00","9,492.16"
+75,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"241,920","7,038.93","8,128.51"
+76,Levante,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,Germany,2021,"308,096","6,998.79","10,276.00"
+77,JOLIOT-CURIE ROME,"Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100",Atos,France,2019,"197,120","6,988.04","12,039.37"
+78,Theta,"Cray XC40, Intel Xeon Phi 7230 64C 1.3GHz, Aries interconnect ",HPE,United States,2017,"280,320","6,920.90","11,661.31"
+79,"Karolina, GPU partition","Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200",HPE,Czechia,2021,"71,424","6,752.00","9,080.18"
+80,Christofari,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100",Nvidia,Russia,2019,"99,600","6,669.00","8,789.76"
+81,Flow,"PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D",Fujitsu,Japan,2020,"110,592","6,617.80","7,785.68"
+82,MareNostrum,"Lenovo SD530, Xeon Platinum 8160 24C 2.1GHz, Intel Omni-Path",Lenovo,Spain,2017,"153,216","6,470.80","10,296.12"
+83,ONYX,"Cray XC40, Xeon E5-2699v4  22C 2.2GHz, Aries interconnect ",HPE,United States,2017,"211,816","6,316.03","7,455.92"
+84,LUMI-C,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10",HPE,Finland,2021,"194,560","6,299.79","7,626.75"
+85,Titan,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,South Korea,2022,"56,544","6,291.00","7,188.48"
+86,JUWELS Module 1,"Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR InfiniBand/ParTec ParaStation ClusterSuite",Atos,Germany,2018,"114,480","6,177.73","9,891.07"
+87,,"HPE SGI 8600, Xeon Gold 6248R 24C 3GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",HPE,Japan,2020,"100,096","6,162.00","8,439.62"
+88,SQUID - CPU Nodes,"NEC LX 103Bj-8, Xeon Platinum 8368 38C 2.4GHz, Infiniband HDR200",NEC,Japan,2021,"115,520","6,105.10","8,871.94"
+89,Lise,"Bull intel Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path",Atos,Germany,2019,"121,920","6,048.26","8,930.92"
+90,Pleiades,"SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4  2.6/2.8/2.5/2.4 GHz, Infiniband FDR",HPE,United States,2016,"241,108","5,951.55","7,107.15"
+91,Emmy+,"BullSequana X, Intel Xeon Platinum 9242/Gold 6148, Intel Omni-Path",Atos,Germany,2020,"120,296","5,948.80","8,911.26"
+92,Narval (GPU),"PowerEdge XE8545, AMD EPYC 7413 24C 2.65GHz, NVIDIA A100, InfiniBand HDR100",DELL EMC,Canada,2021,"76,320","5,886.00","12,165.35"
+93,Sawtooth,"HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR/HDR ",HPE,United States,2019,"99,792","5,780.62","9,220.61"
+94,,"Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ",Cray Inc./Hitachi,Japan,2018,"135,792","5,730.50","9,125.22"
+95,,"Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ",Cray Inc./Hitachi,Japan,2018,"135,792","5,730.50","9,125.22"
+96,COBRA,"Intel Compute Module HNS2600BP, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Intel,Germany,2018,"127,520","5,612.83","9,793.54"
+97,Shaheen II,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,Saudi Arabia,2015,"196,608","5,536.99","7,235.17"
+98,Electra,"HPE SGI 8600/SGI ICE-X, E5-2680V4/ Xeon Gold 6148 20C 2.4GHz, Infiniband EDR/FDR-56 IB",HPE,United States,2018,"124,416","5,444.64","8,316.52"
+99,Raven,"ThinkSystem SD650 V2, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR 100",Lenovo,Germany,2021,"114,624","5,415.98","8,803.12"
+100,MAHTI,"Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100",Atos,Finland,2020,"169,728","5,388.52","7,060.68"
+101,Pangea,"SGI ICE X, Xeon Xeon E5-2670/ E5-2680v3 12C 2.5GHz, Infiniband FDR",HPE,France,2013,"220,800","5,283.11","6,712.32"
+102,Berzelius,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR",Atos,Sweden,2021,"59,520","5,253.00","9,636.48"
+103,"DiRAC, Tursa","BullSequana XH2000, AMD EPYC 7302 32C 3GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband",Atos,United Kingdom,2021,"55,552","5,228.00","8,580.00"
+104,TX-GAIA (Green AI Accelerator),"Apollo 2000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Intel Omni-Path",HPE,United States,2019,"88,400","5,161.00","6,981.48"
+105,Athena,"FormatServer THOR ERG21, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Format,Poland,2021,"47,616","5,051.00","7,709.18"
+106,BioHive-1,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2021,"39,680","4,902.00","5,709.44"
+107,Flow Type II subsystem,"PRIMERGY CX2570 M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",Fujitsu,Japan,2020,"79,560","4,880.46","7,519.30"
+108,Eagle,"HPE SGI 8600, Xeon Gold 6154 18C 3GHz, EDR Infiniband/ 8D Hypercube",HPE,United States,2018,"75,600","4,850.66","7,257.60"
+109,Cheyenne,"SGI ICE XA, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR",HPE,United States,2016,"144,900","4,788.19","5,332.32"
+110,Betzy,"Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband",Atos,Norway,2020,"172,032","4,724.79","6,193.15"
+111,PARAM Siddhi-AI,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,India,2020,"41,664","4,619.00","5,267.14"
+112,ITO - Subsystem A,"Fujitsu PRIMERGY CX2550/CX2560 M4, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR",Fujitsu,Japan,2018,"72,000","4,540.69","6,912.00"
+113,Discoverer,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Infiniband HDR",Atos,Bulgaria,2021,"144,384","4,518.87","5,942.00"
+114,Jean Zay,"HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, Intel Omni-Path",HPE,France,2019,"93,960","4,478.00","7,345.56"
+115,Wisteria/BDEC-01 (Aquarius),"PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Fujitsu,Japan,2021,"42,120","4,425.00","7,268.83"
+116,Atlas,"Bull 4029GP-TVRT, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2020,"91,936","4,376.00","8,848.49"
+117,Advanced Computing System(PreE),"Sugon TC8600, Hygon Dhyana  32C 2GHz, Deep Computing Processor, 200Gb 6D-Torus",Sugon,China,2018,"163,840","4,325.00","6,134.17"
+118,CRONOS,"BullSequana X, Xeon Platinum 8260 24C 2.4GHz, Infiniband HDR",Atos,France,2020,"81,600","4,299.33","7,136.87"
+119,Oakbridge-CX,"Fujitsu PRIMERGY CX2550/CX2560 M5, Xeon Platinum 8280 28C 2.7GHz, Intel Omni-Path",Fujitsu,Japan,2019,"76,608","4,289.85","6,618.93"
+120,SNL/NNSA CTS-1 Manzano,"Tundra Extreme Scale, Xeon Platinum 8268 24C 2.9GHz, Intel Omni-Path",Penguin Computing,United States,2020,"71,424","4,281.00","6,628.15"
+121,Noctua 2,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,Germany,2022,"135,168","4,190.90","5,298.59"
+122,,"Apollo 6500 XL270d Gen10, Xeon Gold 6140 18C 2.3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",HPE,Japan,2019,"70,416","4,128.00","5,783.81"
+123,rzVernal,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"35,872","4,096.00","6,926.34"
+124,JOLIOT-CURIE SKL,"Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR",Atos,France,2017,"79,488","4,065.55","6,635.52"
+125,Abel,"Cray XC30, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,United States,2015,"145,920","4,042.46","5,369.86"
+126,Warhawk,"HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10",HPE,United States,2021,"129,920","4,033.50","5,404.67"
+127,DGX Saturn V,"NVIDIA DGX-1 Volta36, Xeon E5-2698v4 20C 2.2GHz, NVIDIA Tesla V100, Infiniband EDR",Nvidia,United States,2018,"87,040","3,998.00","7,414.78"
+128,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"126,468","3,944.68","4,249.33"
+129,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"126,468","3,944.68","4,249.33"
+130,,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, InfiniBand HDR 100",NEC,Germany,2020,"18,688","3,870.10","5,605.63"
+131,VEGA HPC CPU,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox InfiniBand HDR100",Atos,Slovenia,2021,"122,880","3,822.00","5,367.00"
+132,Pratyush,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,India,2018,"119,232","3,763.94","4,006.20"
+133,,"Apollo 6500 XL270d Gen10, Xeon Gold 6150/6152 18C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",HPE,Japan,2019,"65,208","3,712.00","5,365.09"
+134,LLNL Ruby,"Supermicro SYS-2029TP-HTR, Xeon Platnium 8276L 28C 2.2GHz, Cornelis Networks Omni-Path",Supermicro,United States,2020,"85,568","3,700.15","6,023.99"
+135,Tioga,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"30,208","3,666.00","5,832.70"
+136,Orion,"PowerEdge C6420, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR",DELL EMC,United States,2019,"70,560","3,665.72","5,419.01"
+137,IARA,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband",Nvidia,Brazil,2021,"24,800","3,657.00","4,130.40"
+138,,"ThinkSystem SD650 V2, Xeon Platinum 8358 32C 2.6GHz, Mellanox HDR Infiniband",Lenovo,China,2021,"59,392","3,656.78","4,941.41"
+139,Joule 2.0,"HP ProLiant XL170r/XL190r/DL360 Gen10, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100",HPE,United States,2018,"86,400","3,608.62","5,750.78"
+140,Niagara,"ThinkSystem SD530, Xeon Gold 6248 20C 2.5GHz, InfiniBand HDR100",Lenovo,Canada,2017,"80,640","3,599.66","6,253.06"
+141,,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40",HPE,United States,2014,"72,800","3,577.00","6,131.84"
+142,,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40",HPE,United States,2015,"72,800","3,577.00","6,131.84"
+143,Anvil,"PowerEdge 6525, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR 100",DELL EMC,United States,2022,"127,488","3,563.10","4,997.53"
+144,B1A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"80,640","3,545.65","6,967.30"
+145,Altair,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2020,"63,360","3,533.61","5,879.81"
+146,ATOS THX.A.B,"BullSequana XH2000, Xeon Platinum 8358 32C 2.6GHz, NVIDIA A100, Infiniband HDR",Atos,France,2022,"25,056","3,505.00","5,003.77"
+147,Unizah-II,"Cray CS500, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",HPE,Saudi Arabia,2020,"85,560","3,487.91","6,844.80"
+148,Ohtaka,"PowerEdge C6525, AMD EPYC 7702 64C 2GHz, Mellanox HDR Infiniband",DELL EMC,Japan,2020,"215,040","3,486.10","6,881.28"
+149,CARO,"NEC HPC2808Ri-2, AMD EPYC 7702 64C 2GHz, InfiniBand HDR100",NEC,Germany,2021,"174,592","3,458.30","5,586.94"
+150,davinci-1,"BullSequana X, AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,Italy,2020,"38,400","3,449.00","6,412.03"
+151,Cedar (GPU),"PowerEdge C6420, Xeon Silver 4216 16C 2.1GHz, NVIDIA Tesla V100, Intel Omni-Path",ACTION,Canada,2020,"67,584","3,371.00","5,834.40"
+152,Topaz,"SGI ICE X, Xeon E5-2699v3 18C 2.3GHz, Infiniband FDR",HPE,United States,2015,"124,200","3,318.95","4,570.56"
+153,,"NVIDIA DGX-1/Relion 2904GT, Xeon E5-2698v4 20C 2.2GHz/ E5-2650v4, Infiniband EDR, NVIDIA Tesla P100/Quadro GP100",Self-made,United States,2017,"60,512","3,307.00","4,896.51"
+154,Topaze-cpu,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100",Atos,France,2021,"110,592","3,261.02","4,335.21"
+155,,"SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Mellanox InfiniBand HDR100",NEC,Germany,2020,"14,336","3,250.40","4,282.08"
+156,Damson,"Bull Sequana X1000, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR",Atos,United Kingdom,2017,"113,832","3,243.41","3,791.58"
+157,LLNL/NNSA CTS-1 MAGMA,"Relion Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path",Penguin Computing,United States,2019,"62,400","3,241.24","4,592.64"
+158,Mustang,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"55,296","3,221.40","4,777.57"
+159,"Big Red 200, GPU Partition","HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100, Slingshot-10",HPE,United States,2021,"31,744","3,194.00","4,006.14"
+160,HPC2,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, NVIDIA K20x",IBM,Italy,2014,"72,000","3,188.00","4,605.00"
+161,Fênix,"Bull 4029GP-TVRT, Xeon Gold 5122 4C 3.6GHz, NVIDIA Tesla V100, Infiniband EDR",Atos,Brazil,2019,"60,480","3,161.00","5,371.78"
+162,Toubkal,"PowerEdge C6420, CRC-StackHPC, Xeon Platnium 8276L 28C 2.2GHz, Mellanox InfiniBand HDR100",DELL EMC,Morocco,2020,"71,232","3,158.11","5,014.73"
+163,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"71,680","3,151.69","6,193.15"
+164,B5A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"71,680","3,151.69","6,193.15"
+165,Lichtenberg II (Phase 1),"MEGWARE MiriQuid, Intel Xeon Platinum 9242 48C 2.3GHz, Mellanox InfiniBand HDR100",MEGWARE,Germany,2020,"59,136","3,148.38","4,352.41"
+166,,"Cray XC30, Intel Xeon E5-2697v2 12C 2.7GHz, Aries interconnect ",HPE,United States,2014,"225,984","3,143.52","4,881.25"
+167,A1C,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Singapore,2021,"92,160","3,131.25","6,193.15"
+168,A5A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15"
+169,A1A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15"
+170,A1A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"92,160","3,131.25","6,193.15"
+171,Thunder,"SGI ICE X, Xeon E5-2699v3/E5-2697 v3, Infiniband FDR, NVIDIA Tesla K40, Intel Xeon Phi 7120P",HPE,United States,2015,"152,692","3,126.24","5,610.48"
+172,VEGA HPC GPU,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, NVIDIA A100, Infiniband HDR",Atos,Slovenia,2021,"33,600","3,096.00","4,680.00"
+173,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"76,000","3,088.64","6,080.00"
+174,Alps,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,Switzerland,2020,"128,000","3,088.60","4,608.00"
+175,Numerical Materials Simulator,"HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Dual-rail Intel Omni-Path",HPE,Japan,2020,"53,568","3,082.12","4,971.11"
+176,Hera,"Cray CS500, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR",HPE,United States,2019,"63,840","3,080.85","4,884.48"
+177,Camphor 2,"Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ",HPE,Japan,2016,"122,400","3,057.35","5,483.52"
+178,Jean Zay,"HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path",HPE,France,2019,"61,120","3,054.35","4,867.20"
+179,Mistral,"bullx DLC 720, Xeon E5-2680v3 12C 2.5GHz/E5-2695V4 18C  2.1Ghz, Infiniband FDR",Atos,Germany,2015,"99,072","3,010.68","3,962.88"
+180,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"73,600","2,994.04","5,888.00"
+181,HHH1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"80,640","2,975.29","6,451.20"
+182,III1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"79,680","2,975.08","6,374.40"
+183,Tetralith,"Intel H2204XXLRE, Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path",ClusterVision / Hammer,Sweden,2018,"64,512","2,969.19","4,335.21"
+184,Alex,"MEGWARE NF5488A5, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 80 GB, Infiniband HDR",MEGWARE,Germany,2021,"31,744","2,938.00","4,992.00"
+185,JJJ1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"78,720","2,933.42","6,297.60"
+186,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"72,000","2,931.84","5,760.00"
+187,A9A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"86,016","2,922.50","5,780.28"
+188,A6A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"86,016","2,922.50","5,780.28"
+189,Jean,"Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR",Liqid,United States,2020,"55,296","2,917.56","4,069.79"
+190,KKK1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"77,760","2,910.09","6,220.80"
+191,,"Inspur TS10000 HPC Server, Xeon Gold 6248R 24C 3GHz, InfiniBand HDR 100",Inspur,China,2020,"49,056","2,889.41","4,709.38"
+192,LLL1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"76,800","2,882.76","6,144.00"
+193,,"ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet",Lenovo,China,2021,"93,600","2,873.41","6,289.92"
+194,A8A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06"
+195,A8A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06"
+196,A3A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"84,480","2,870.31","5,677.06"
+197,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2022,"84,480","2,870.31","5,677.06"
+198,,"ThinkSystem SR650, Xeon Gold 6238 22C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"94,160","2,867.64","6,327.55"
+199,ASPIRE 2A (GPU Partition),"HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10",HPE,Singapore,2022,"31,744","2,861.00","5,123.07"
+200,Tenaya,"HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11",HPE,United States,2022,"22,656","2,861.00","4,374.53"
+201,MMM1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"75,840","2,857.04","6,067.20"
+202,"Karolina, CPU partition","Apollo 2000, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR 100",HPE,Czechia,2021,"92,160","2,837.40","3,833.86"
+203,NNN1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"74,880","2,834.05","5,990.40"
+204,Freeman,"Cray CS500, AMD EPYC 7542 32C 2.9GHz, Mellanox InfiniBand HDR100",HPE,United States,2020,"79,104","2,829.00","3,670.43"
+205,SuperMUC Phase 2,"NeXtScale nx360M5, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR14",Lenovo/IBM,Germany,2015,"86,016","2,813.62","3,578.27"
+206,OOO1,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2021,"73,920","2,804.41","5,913.60"
+207,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"89,856","2,801.78","3,019.16"
+208,,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,United Kingdom,2016,"89,856","2,801.78","3,019.16"
+209,JFRS-1,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Japan,2018,"54,560","2,787.14","4,190.21"
+210,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"68,000","2,779.84","5,440.00"
+211,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"72,960","2,774.23","5,836.80"
+212,Spartan3,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Mellanox InfiniBand HDR100",Atos,France,2021,"92,160","2,751.00","3,612.67"
+213,ZZ2,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"67,200","2,749.28","5,376.00"
+214,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"66,400","2,746.30","5,312.00"
+215,,"ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Lenovo,China,2019,"59,976","2,744.84","5,354.88"
+216,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"72,000","2,742.91","5,760.00"
+217,Topaze-gpu,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,France,2021,"26,880","2,741.00","3,744.00"
+218,VSC-4,"ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path",Lenovo,Austria,2019,"37,920","2,726.08","3,761.66"
+219,SNL/NNSA CTS-1 Attaway,"Tundra Extreme Scale, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path",Penguin Computing,United States,2019,"52,920","2,724.52","3,894.91"
+220,ZZ3,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"66,400","2,721.33","5,312.00"
+221,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"71,040","2,710.88","5,683.20"
+222,ZZ4,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"65,600","2,691.69","5,248.00"
+223,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"70,080","2,677.05","5,606.40"
+224,Banting,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Canada,2019,"53,200","2,676.74","4,085.76"
+225,Hypercluster,"NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR",Nvidia,United States,2019,"47,808","2,666.00","4,219.09"
+226,Komondor,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-11",HPE,Hungary,2022,"24,800","2,662.50","3,152.84"
+227,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Canada,2022,"78,336","2,661.56","5,264.18"
+228,ZZ5,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"64,800","2,661.46","5,184.00"
+229,ZZ6,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2020,"69,120","2,654.04","5,529.60"
+230,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"128,000","2,651.95","4,710.40"
+231,Grace,"PowerEdge R640/R740/R840, Xeon Gold 6248R/6248R/6248, 24C 3.0GHz, InfiniBand HDR100",DELL EMC,United States,2020,"43,200","2,638.53","4,829.34"
+232,LLNL/NNSA CTS-1 Jade,"Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path",Penguin Computing,United States,2016,"95,472","2,632.51","3,207.86"
+233,LLNL CTS-1 Quartz,"Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path",Penguin Computing,United States,2016,"95,472","2,632.51","3,207.86"
+234,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"64,000","2,621.44","5,120.00"
+235,,"Inspur TS10000, Xeon Gold 6258R 28C 2.7GHz, InfiniBand HDR100",Inspur,China,2020,"50,400","2,610.00","4,354.56"
+236,A7A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96"
+237,A7A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96"
+238,A1B,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"76,800","2,609.38","5,160.96"
+239,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"68,160","2,609.16","5,452.80"
+240,Cedar (CPU),"PowerEdge C6420, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path",ACTION,Canada,2020,"67,584","2,607.98","4,895.54"
+241,Daley,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Canada,2019,"53,200","2,598.28","4,085.76"
+242,AlphaCentauri,"NEC HPC 22S8Ri-4, EPYC 7352 24C 2.3GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200",NEC,Germany,2021,"31,008","2,592.00","5,364.06"
+243,HPC3,"Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR, NVIDIA Tesla K80",Lenovo,Italy,2017,"66,000","2,592.00","3,798.60"
+244,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"62,400","2,590.84","4,992.00"
+245,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"64,320","2,583.09","5,145.60"
+246,,"ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet",Lenovo,China,2021,"83,200","2,581.02","5,591.04"
+247,ASPIRE 2A (CPU Partition),"HPE Cray EX425, AMD EPYC 7713 64C 2GHz, Slingshot-10",HPE,Singapore,2022,"98,304","2,578.58","3,108.86"
+248,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"67,200","2,574.02","5,376.00"
+249,Mihir,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,India,2018,"83,592","2,570.40","2,808.69"
+250,Tianhe-1A,"NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050",NUDT,China,2010,"186,368","2,566.00","4,701.00"
+251,Spartan2,"Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband",Atos,France,2020,"23,040","2,566.00","3,847.22"
+252,PAI-BSystem,"Sugon TC4600LP/W740I, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR, NVIDIA Tesla P100",Sugon,China,2018,"50,816","2,547.00","4,229.85"
+253,cascade,"Atipa Visione IF442 Blade Server, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi 5110P",Atipa,United States,2013,"194,616","2,539.13","3,388.03"
+254,Rattler,"PowerEdge XE8545, AMD EPYC 7713 64C 2GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail",DELL EMC,United States,2021,"26,880","2,531.00","3,940.61"
+255,occigen2,"bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR",Atos,France,2016,"85,824","2,494.65","3,570.28"
+256,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"61,440","2,487.09","4,915.20"
+257,Excalibur,"Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,United States,2014,"100,064","2,485.00","3,682.36"
+258,CLAIX (2018),"INTEL-HNS2600BPB, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path",NEC,Germany,2018,"61,200","2,483.58","4,112.64"
+259,Expanse,"PowerEdge R6525/C6525, AMD EPYC 7742, AMD EPYC 7742 64C, Mellanox HDR Infiniband",DELL EMC,United States,2020,"91,648","2,480.60","3,299.33"
+260,,"Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"50,400","2,480.00","4,680.00"
+261,,"Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"50,400","2,480.00","4,680.00"
+262,Lomonosov 2,"T-Platform A-Class Cluster, Xeon E5-2697v3 14C 2.6GHz,Intel Xeon Gold 6126, Infiniband FDR, Nvidia K40m/P-100",T-Platforms,Russia,2014,"64,384","2,478.00","4,946.79"
+263,Kay,"Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR",Liqid,United States,2020,"46,848","2,475.67","3,448.01"
+264,B1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"60,000","2,462.40","4,800.00"
+265,Centennial,"SGI ICE XA, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR",HPE,United States,2017,"73,920","2,443.70","2,601.98"
+266,PAI-ASystem,"Sugon TC4600, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR",Sugon,China,2017,"48,128","2,435.00","4,004.25"
+267,C1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"59,200","2,433.83","4,736.00"
+268,Big Red 200,"HPE Cray EX425, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,United States,2020,"84,480","2,431.20","3,041.28"
+269,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"115,200","2,429.15","4,239.36"
+270,D1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"58,800","2,421.62","4,704.00"
+271,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"113,600","2,399.59","4,180.48"
+272,E1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"58,000","2,392.38","4,640.00"
+273,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"58,560","2,379.87","4,684.80"
+274,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"112,000","2,374.04","4,121.60"
+275,B2F,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86"
+276,B2E,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86"
+277,B2B,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Netherlands,2021,"53,760","2,363.77","4,644.86"
+278,B2D,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86"
+279,B2C,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86"
+280,B2A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","2,363.77","4,644.86"
+281,NVIDIA DGX SuperPOD,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband",Nvidia,United States,2020,"19,840","2,356.00","2,812.80"
+282,ZZ1,"ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"153,600","2,354.91","10,321.92"
+283,A12A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Ireland,2022,"69,120","2,348.44","4,644.86"
+284,A11A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Ireland,2022,"69,120","2,348.44","4,644.86"
+285,A17A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Norway,2022,"69,120","2,348.44","4,644.86"
+286,A17A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Switzerland,2022,"69,120","2,348.44","4,644.86"
+287,B1B,"ThinkSystem C2397, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86"
+288,A10A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86"
+289,A4A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"69,120","2,348.44","4,644.86"
+290,Ares,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2021,"37,824","2,338.79","3,510.07"
+291,,"Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"48,160","2,336.00","4,368.00"
+292,,"Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"48,160","2,336.00","4,368.00"
+293,HoreKa-Blue,"ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, Mellanox HDR Infiniband",Lenovo,Germany,2021,"45,752","2,333.51","3,513.75"
+294,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00"
+295,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00"
+296,,"Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"53,760","2,329.00","4,480.00"
+297,Makman-3,"PowerEdge R440/C6320p, Intel Xeon Phi 7250/Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path",DELL EMC,Saudi Arabia,2018,"53,300","2,322.46","3,581.76"
+298,F1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"56,000","2,317.95","4,480.00"
+299,,"Inspur TS10000 HPC Server, Xeon Gold 6226R 16C 2.9GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"49,920","2,316.00","4,412.10"
+300,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2020,"108,800","2,314.21","4,003.84"
+301,VSC-5,"MEGWARE SLIDESX, AMD EPYC 7713 64C 2GHz, Infiniband HDR",MEGWARE,Austria,2022,"95,232","2,312.30","3,047.42"
+302,Taiwania 3,"QCT QuantaPlex T42D-2U/4N, Xeon Platinum 8280 28C 2.7GHz, InfiniBand HDR 100",Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2020,"50,400","2,297.56","4,354.56"
+303,Longhorn,"IBM Power System AC922, IBM POWER9 20C 3.6GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR",IBM,United States,2019,"37,440","2,288.00","2,867.41"
+304,Wilkes-3,"PowerEdge XE8545, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail",DELL EMC,United Kingdom,2021,"26,880","2,287.00","6,641.41"
+305,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2017,"55,104","2,287.00","4,890.00"
+306,MeluXina - Cluster Module,"BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox HDR200 InfiniBand/ParTec ParaStation ClusterSuite",Atos,Luxembourg,2021,"73,344","2,286.56","3,003.18"
+307,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00"
+308,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00"
+309,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00"
+310,,"Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"47,320","2,282.00","4,368.00"
+311,Dardel,"HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10",HPE,Sweden,2021,"69,632","2,279.40","2,506.75"
+312,Béluga,"Dell EMC PowerEdge R640, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, Infiniband EDR",DELL EMC,Canada,2019,"72,480","2,278.00","7,494.78"
+313,,"Inspur TS10000 HPC Server, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, InfiniBand HDR 100",Inspur,China,2020,"40,560","2,276.00","3,923.71"
+314,,"Inspur TS10000 HPC Server, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, Infiniband HDR",Inspur,China,2020,"40,800","2,275.00","3,905.28"
+315,SSC-21 Scalable Module,"Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200",HPE,South Korea,2021,"16,704","2,274.10","2,597.82"
+316,Cumulus,"PowerEdge C6420/C6320, Intel Xeon Phi 7210/Xeon Gold 6142F 16C 2.6GHz, Intel Omni-Path",DELL EMC,United Kingdom,2018,"50,176","2,271.38","2,688.00"
+317,CEA-HFi,"BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2",Atos,France,2021,"73,728","2,262.00","2,890.14"
+318,MTS GROM,"NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Infiniband",Nvidia,Russia,2021,"19,840","2,258.00","3,011.84"
+319,Tethys,"NVIDIA DGX A100 Liquid Cooled Prototype, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR",Nvidia,United States,2021,"19,840","2,255.00","2,680.00"
+320,Makman-2,"Dell PowerEdge R630, Xeon E5-2680v3 12C 2.5GHz, Infiniband QDR",DELL EMC,Saudi Arabia,2015,"76,032","2,249.68","3,041.28"
+321,G1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"54,000","2,242.94","4,320.00"
+322,,"ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet",Lenovo,China,2021,"57,600","2,241.88","4,608.00"
+323,Fritz,"Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100",MEGWARE,Germany,2021,"67,968","2,233.04","3,384.12"
+324,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"67,200","2,192.00","4,515.84"
+325,,"Inspur NF5468M5, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"50,400","2,189.00","4,816.00"
+326,MN-3,"MN-Core Server, Xeon Platinum 8260M 24C 2.4GHz, Preferred Networks MN-Core, MN-Core DirectConnect",Preferred Networks,Japan,2020,"1,664","2,179.60","3,347.58"
+327,B4A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Germany,2021,"49,280","2,166.79","4,257.79"
+328,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"49,280","2,166.79","4,257.79"
+329,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"49,280","2,166.79","4,257.79"
+330,H1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"52,000","2,166.52","4,160.00"
+331,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68"
+332,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68"
+333,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"49,800","2,164.00","4,423.68"
+334,,"ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet",Lenovo,China,2020,"128,000","2,155.99","4,300.80"
+335,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"121,920","2,152.00","8,973.31"
+336,Betty,"Cray CS500, AMD EPYC 7542 32C 2.9GHz, InfiniBand HDR100",HPE,United States,2020,"94,976","2,133.00","4,406.89"
+337,,"ThinkSystem SR650, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"96,640","2,129.54","7,112.70"
+338,Snellius Phase 1 CPU,"ThinkSystem SR645, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR100",Lenovo,Netherlands,2021,"73,728","2,127.80","3,067.08"
+339,HSUper,"Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100",MEGWARE,Germany,2022,"41,832","2,125.83","3,212.70"
+340,Setonix,"HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10",HPE,Australia,2021,"65,536","2,122.03","2,569.01"
+341,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,200","2,121.00","4,056.00"
+342,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00"
+343,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00"
+344,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"44,720","2,121.00","4,056.00"
+345,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR",Sugon,China,2019,"44,720","2,115.00","3,903.43"
+346,,"INSPUR NF5288M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2018,"53,760","2,109.00","4,652.03"
+347,MagicCube3,"Sugon TC6000, Xeon Gold 6142 16C 2.6GHz, Intel Omni-Path, NVIDIA Tesla V100",Sugon,China,2019,"40,960","2,109.00","3,434.09"
+348,I1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"50,000","2,094.00","4,000.00"
+349,ATERUI II ,"Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ",HPE,Japan,2018,"40,000","2,089.98","3,072.00"
+350,Greene,"ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, Infiniband HDR",Lenovo,United States,2020,"32,796","2,088.83","3,042.43"
+351,A15A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Australia,2022,"61,440","2,087.50","4,128.77"
+352,A16A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Brazil,2021,"61,440","2,087.50","4,128.77"
+353,A14A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,Japan,2021,"61,440","2,087.50","4,128.77"
+354,A13A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United Kingdom,2022,"61,440","2,087.50","4,128.77"
+355,A13A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2022,"61,440","2,087.50","4,128.77"
+356,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Sugon,China,2019,"44,032","2,087.00","3,843.38"
+357,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20"
+358,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20"
+359,,"Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"48,160","2,078.00","4,225.20"
+360,Cannon,"ThinkSystem SD650, Xeon Platinum 8268 24C 2.9GHz, InfiniBand HDR100",Lenovo,United States,2019,"32,160","2,076.89","2,984.45"
+361,,"Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"59,760","2,075.00","5,245.78"
+362,JD I1,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"52,320","2,074.04","4,018.18"
+363,Phoenix - 2022,"ThinkSystem SR670 V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Infiniband HDR",Lenovo,Australia,2022,"20,160","2,074.00","3,341.18"
+364,Tianhe-2 LvLiang Solution,"Tianhe-2 LvLiang, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Intel Xeon Phi 31S1P",NUDT,China,2014,"174,720","2,071.39","3,074.53"
+365,Grace-GPU,"PowerEdge R740, Xeon Gold 6248R 24C 3GHz, NVIDIA A100 40GB, InfiniBand HDR 100",DELL EMC,United States,2020,"26,400","2,063.00","3,900.00"
+366,,"ThinkSystem SR650, Xeon Gold 6142 16C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR",Lenovo,China,2019,"44,160","2,059.88","3,862.25"
+367,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",Lenovo,China,2019,"49,200","2,045.93","3,936.00"
+368,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"53,040","2,028.00","4,648.18"
+369,,"INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2019,"53,040","2,028.00","4,648.18"
+370,,"ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2020,"48,000","2,027.52","3,840.00"
+371,,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2019,"55,440","2,026.00","4,080.38"
+372,Champollion,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband",HPE,France,2022,"19,840","2,022.00","2,522.27"
+373,,"Inspur NF5468M5, Xeon Gold 5120 14C 2.2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2020,"48,880","2,016.00","44,982.27"
+374,TX-Green2,"PowerEdge C6420, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet",ACTION,United States,2021,"43,200","2,015.00","53,084.16"
+375,J1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"48,000","2,014.46","3,840.00"
+376,,"Inspur NF5468M5, Xeon Platinum 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"41,280","2,011.00","3,744.00"
+377,,"Inspur NF5468M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"40,800","2,011.00","3,744.00"
+378,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"110,880","2,007.00","8,160.77"
+379,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Sugon,China,2019,"42,312","2,003.00","3,693.54"
+380,Koehr,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"34,560","2,001.99","2,985.98"
+381,Gaffney,"HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path",HPE,United States,2018,"34,560","2,001.99","2,985.98"
+382,Grand Chariot,"PRIMERGY CX2550 M4 M4, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Fujitsu,Japan,2018,"39,760","2,000.00","3,053.57"
+383,A64FX prototype,"Fujitsu A64FX, Fujitsu A64FX 48C 2GHz, Tofu interconnect D",Fujitsu,Japan,2019,"36,864","1,999.50","2,359.30"
+384,TTSystem,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet",Sugon,China,2018,"116,600","1,997.00","4,104.32"
+385,,"Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Sugon,China,2019,"520,000","1,985.00","39,936.00"
+386,K1,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2019,"47,200","1,983.15","3,776.00"
+387,Gaïa,"Bull intel Cluster, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path",Atos,France,2018,"41,472","1,980.53","3,052.34"
+388,HKVDPSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"121,920","1,979.00","4,096.51"
+389,HKVDPSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"121,920","1,979.00","4,096.51"
+390,bsystem,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"60,800","1,976.00","4,085.76"
+391,,"ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"89,600","1,975.07","6,594.56"
+392,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2019,"45,152","1,975.00","4,010.48"
+393,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"45,152","1,975.00","4,010.48"
+394,,"Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"45,152","1,975.00","4,010.48"
+395,B3A,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,Ireland,2021,"44,800","1,969.81","3,870.72"
+396,,"ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet",Lenovo,United States,2021,"44,800","1,969.81","3,870.72"
+397,Mogon II,"NEC Cluster, Xeon Gold 6130 16C 2.1GHz, MEGWARE MiriQuid Xeon E5-2630v4, Intel Omni-Path",NEC/MEGWARE,Germany,2017,"49,432","1,967.81","2,800.87"
+398,Biowulf,"Apollo 2000 Gen 8/9, Xeon E5-2680v4/E5-2695v3 14C 2.4GHz, Infiniband FDR",HPE,United States,2016,"66,304","1,966.08","2,491.37"
+399,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 25G Ethernet, NVIDIA Tesla V100",Sugon,China,2019,"41,280","1,963.00","3,603.46"
+400,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet",Sugon,China,2019,"47,600","1,955.00","3,960.32"
+401,NA-J2,"ZettaScaler3.0, AMD  EPYC 7702P 64C 1.5GHz, PEZY-SC3, Infiniband EDR",PEZY Computing / Exascaler Inc.,Japan,2022,"1,151,360","1,952.46","2,931.81"
+402,,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2019,"53,280","1,952.00","3,921.41"
+403,Alvis,"ThinkSystem SD650-N V2, Xeon 6338 32C 2GHz, NVIDIA A100, Infiniband HDR",Lenovo,Sweden,2022,"41,664","1,937.40","3,603.26"
+404,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"58,112","1,934.00","3,905.13"
+405,,"Inspur NF5468M5, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2020,"51,504","1,928.00","4,618.00"
+406,CTcluster,"Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet",Sugon,China,2018,"54,000","1,928.00","3,974.40"
+407,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR",Inspur,China,2017,"40,320","1,921.00","3,520.51"
+408,,"ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet",Lenovo,China,2019,"57,200","1,914.59","3,660.80"
+409,,"Huawei 2288H V5, Xeon Gold 6150 18C 2.7GHz, 10G Ethernet",Huawei,China,2018,"49,680","1,914.38","4,292.35"
+410,,"ThinkSystem SR650, Xeon E5-2698v3 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"86,400","1,905.48","3,179.52"
+411,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet",Sugon,China,2019,"46,200","1,901.00","3,843.84"
+412,Piz Daint Multicore,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ",HPE,Switzerland,2016,"65,268","1,896.75","2,193.01"
+413,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"56,800","1,896.00","3,816.96"
+414,Rockfish,"ThinkSystem SD530/SR670, Xeon Gold 6248R 24C 3GHz, Infiniband HDR",Lenovo,United States,2020,"32,352","1,886.65","3,105.79"
+415,Agate,"Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, InfiniBand HDR 100",HPE,United States,2021,"31,744","1,884.00","3,551.31"
+416,A1,"Lenovo HR650x, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet",Lenovo,China,2019,"47,040","1,882.56","3,612.67"
+417,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"173,680","1,872.00","15,162.37"
+418,,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2018,"40,320","1,872.00","3,520.51"
+419,Tera-1000-1,"bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR",Atos,France,2016,"70,272","1,871.00","2,586.01"
+420,,"HPE SGI 8600, Xeon Gold 6242R 20C 3.1GHz, Infiniband EDR",HPE,Japan,2020,"28,240","1,870.73","2,801.41"
+421,,"ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet",Lenovo,China,2019,"44,000","1,861.37","3,520.00"
+422,,"Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet",Inspur,China,2019,"46,480","1,854.00","4,080.05"
+423,,"Inspur TS10000, Xeon Gold 6248 20C 2.5GHz/Platinum 8268 24C 2.9GHz, NVIDIA Tesla V100, 100G Ethernet",Inspur,China,2020,"37,440","1,853.00","3,432.00"
+424,Santos Dumont (SDumont),"Bull Sequana X1000, Xeon Gold 6252 24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2",Atos,Brazil,2019,"33,856","1,849.00","2,727.03"
+425,Phoenix,"Relion XE2142/XE1114GT, Intel Xeon Gold 6226 12C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand HDR100",Penguin Computing,United States,2020,"31,104","1,840.89","2,687.39"
+426,bsystem,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"55,040","1,838.00","3,698.69"
+427,,"ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"83,200","1,835.52","6,123.52"
+428,,"Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet",Sugon,China,2019,"48,000","1,833.00","3,686.40"
+429,Astra,"Apollo 70, Marvell ThunderX2 ARM CN9975-2000  28C 2GHz, 4xEDR Infiniband",HPE,United States,2018,"143,640","1,833.00","2,298.24"
+430,,"Sugon TC6000, Xeon Gold 5117 14C 2GHz, 25G Ethernet",Sugon,China,2019,"116,200","1,832.00","7,436.80"
+431,,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet",Lenovo,China,2018,"43,200","1,831.49","3,456.00"
+432,scafellpike,"Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR",Atos,United Kingdom,2017,"80,640","1,829.86","4,329.73"
+433,,"ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet, NVIDIA Tesla P100",Lenovo,China,2019,"66,080","1,828.02","4,981.76"
+434,A2A,"ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet",Lenovo,United States,2021,"53,760","1,826.56","3,612.67"
+435,JGV100System,"Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Sugon,China,2018,"41,760","1,825.00","3,353.18"
+436,,"Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 10G Ethernet",Sugon,China,2019,"44,100","1,824.00","3,669.12"
+437,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"48,880","1,820.00","4,140.03"
+438,,"INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet",Inspur,China,2018,"48,880","1,820.00","4,140.03"
+439,Snellius Phase 1 GPU,"ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR",Lenovo,Netherlands,2021,"6,480","1,818.00","3,007.07"
+440,,"Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet",Sugon,China,2019,"54,240","1,815.00","3,644.93"
+441,szaisystem,"Sugon TC6000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Infiniband EDR",Sugon,China,2019,"30,600","1,814.00","2,674.10"
+442,Bank P A2,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Lenovo,China,2019,"36,000","1,809.34","3,021.60"
+443,Bank P A2,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet",Lenovo,China,2019,"36,000","1,809.34","3,021.60"
+444,JCSystem,"Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Sugon,China,2018,"110,080","1,807.00","3,698.69"
+445,S1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"33,840","1,804.00","2,923.78"
+446,Beskow,"Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ",HPE,Sweden,2017,"67,456","1,802.51","2,438.14"
+447,ESSystem,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet",Sugon,China,2018,"105,000","1,790.00","3,696.00"
+448,Molecular Simulator,"NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path",NEC,Japan,2017,"38,552","1,785.62","3,072.77"
+449,R1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"33,120","1,768.59","2,861.57"
+450,,"ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet",Lenovo,China,2019,"80,000","1,765.81","5,888.00"
+451,,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2019,"99,360","1,765.00","7,312.90"
+452,POD3,"Huawei Cluster, Xeon Gold 6148 20C 2.4GHz, Infiniband",Huawei,United Arab Emirates,2019,"34,800","1,756.75","2,672.64"
+453,QURIOSITY,"Apollo XL230k, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",HPE,Germany,2017,"35,280","1,750.18","2,709.50"
+454,CARA,"NEC LX Cluster, AMD Epyc 7601 32C 2.2GHz, Infiniband HDR",NEC,Germany,2019,"145,920","1,746.00","2,568.19"
+455,,"ThinkSystem SR590, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet",Lenovo,China,2019,"2,312,800","1,741.02","81,410.56"
+456,CSystem,"Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet",Sugon,China,2018,"97,920","1,736.00","7,206.91"
+457,Q1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"32,400","1,735.66","2,799.36"
+458,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00"
+459,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00"
+460,,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet",Inspur,China,2017,"38,400","1,729.00","3,072.00"
+461,Internet Company T DD1,"Lenovo RD350, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet",Lenovo,China,2018,"118,400","1,728.88","3,978.24"
+462,Tryton Plus,"CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR",Huawei,Poland,2021,"30,432","1,728.34","2,824.09"
+463,,"Huawei X6000, Xeon Gold 6242 16C 2.8GHz, Infiniband EDR",Huawei,Germany,2019,"38,400","1,724.45","3,440.64"
+464,,"PRIMERGY CX2550 M4, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path",Fujitsu,Japan,2020,"35,200","1,715.81","2,816.00"
+465,,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100",Inspur,China,2017,"39,680","1,714.00","3,149.60"
+466,Puhti,"Bull Sequana X1000, Xeon Gold 6230 20C 2.1GHz, Mellanox HDR100",Atos,Finland,2019,"40,000","1,706.73","2,688.00"
+467,P1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"31,680","1,703.51","2,737.15"
+468,SwiftLucy,"Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR",HPE,United States,2015,"57,600","1,703.28","2,304.00"
+469,AFI-NITY,"PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Fujitsu,Japan,2018,"35,200","1,691.00","2,703.36"
+470,TaiYi,"ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path",Lenovo,China,2018,"32,400","1,686.54","2,488.32"
+471,,"ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR",Lenovo,China,2018,"35,200","1,684.19","2,703.36"
+472,,"ThinkSystem SD650, Xeon Gold 6240 18C 2.6GHz, Infiniband EDR",Lenovo,China,2019,"28,800","1,683.37","2,695.68"
+473,ISystem,"Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet",Sugon,China,2018,"97,920","1,683.00","3,446.78"
+474,Internet Service D,"Huawei 1288H V5, Xeon Platinum 8160  24C 2.1GHz, Infiniband EDR",Huawei,China,2019,"48,960","1,671.37","3,290.11"
+475,Prometheus,"HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40",HPE,Poland,2015,"55,728","1,670.09","2,348.64"
+476,O1,"ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR",Lenovo,China,2018,"30,960","1,668.16","2,674.94"
+477,,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"41,760","1,667.72","3,207.17"
+478,,"Sugon TC6000, AMD Epyc 7501 32C 2GHz, AMD Vega 20, Infiniband HDR",Sugon,China,2019,"100,800","1,661.00","2,472.96"
+479,Endeavor,"Intel Cluster, Intel Xeon 6245/8280/6230/8268/8260L/8276/9242, Intel Omni-Path",Intel,United States,2011,"31,524","1,653.92","2,467.70"
+480,Internet Company T Y1,"Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet",Lenovo,China,2018,"89,600","1,653.22","3,440.64"
+481,,"ThinkSystem SR570, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet",Lenovo,China,2019,"78,400","1,652.49","2,759.68"
+482,Software Company (M) AA1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Australia,2017,"57,600","1,649.11","2,119.68"
+483,Software Company (M) CA3,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68"
+484,Software Company (M) CA2,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68"
+485,Software Company (M) CA1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2018,"57,600","1,649.11","2,119.68"
+486,,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,Canada,2019,"57,600","1,649.11","2,119.68"
+487,Software Company (M) A16,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+488,Software Company (M) A15,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+489,Software Company (M) A14,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+490,Software Company (M) A13,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+491,Software Company (M) A11,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+492,Software Company (M) A10,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+493,Software Company (M) A9,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+494,Software Company (M) A8,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+495,Software Company (M) A7,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+496,Software Company (M) A6,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+497,Software Company (M) A4,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+498,Software Company (M) A3,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2018,"57,600","1,649.11","2,119.68"
+499,Software Company (M) A2,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2017,"57,600","1,649.11","2,119.68"
+500,Software Company (M) A1,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet",Lenovo,United States,2017,"57,600","1,649.11","2,119.68"

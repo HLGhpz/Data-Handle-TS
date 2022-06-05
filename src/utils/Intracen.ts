@@ -1,8 +1,8 @@
 /*
  * @Author: HLGhpz
- * @Date: 2022-06-03 23:17:48
+ * @Date: 2022-06-05 21:25:27
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-05 16:28:56
+ * @LastEditTime: 2022-06-05 21:47:55
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,15 +15,15 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 import _ from 'lodash'
 
-const __fileName = 'VolleyballWorldRankWomen'
+const __fileName = 'ImportMap'
 const __dirname = path.resolve()
 const IMPORT_FILE_PATH = path.join(
   __dirname,
-  `./src/rowData/Other/${__fileName}.csv`
+  `./src/rowData/Intracen/${__fileName}.csv`
 )
 const EXPORT_FILE_PATH = path.join(
   __dirname,
-  `./distData/Other/${__fileName}.json`
+  `./distData/Intracen/${__fileName}.json`
 )
 
 async function CSV2JSON() {
@@ -35,9 +35,19 @@ async function CSV2JSON() {
   )
 
   let data = _.chain(dv.rows)
+    .filter((item) => {
+      return (
+        item.EaseBusinessRank != 0 &&
+        item.EaseBusinessRank != '0' &&
+        item.EaseBusinessRank != ''
+      )
+    })
     .map((item, index) => {
-      ;(item.Rank = +item.Rank),
-        (item.WRScore = +item.WRScore),
+      ;(item.ImportedValue = +item.ImportedValue),
+        (item.TradeBalance = +item.TradeBalance),
+        (item.AnnualGrowth = +item.AnnualGrowth),
+        (item.WorldShare = +item.WorldShare),
+        (item.EaseBusinessRank = +item.EaseBusinessRank),
         (item.Index = index + 1)
       return item
     })
