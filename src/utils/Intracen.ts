@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-05 21:25:27
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-05 21:47:55
+ * @LastEditTime: 2022-06-06 21:49:06
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -43,7 +43,7 @@ async function CSV2JSON() {
       )
     })
     .map((item, index) => {
-      ;(item.ImportedValue = +item.ImportedValue),
+      ;(item.TradeValue = +item.TradeValue),
         (item.TradeBalance = +item.TradeBalance),
         (item.AnnualGrowth = +item.AnnualGrowth),
         (item.WorldShare = +item.WorldShare),

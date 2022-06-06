@@ -1,4 +1,4 @@
-Country,ImportedValue,TradeBalance,AnnualGrowth,WorldShare,EaseBusinessRank
+Country,TradeValue,TradeBalance,AnnualGrowth,WorldShare,EaseBusinessRank
 United States of America,2937064484,-1183123078,22,13.4,6
 China,2438686293,587547398,19,11.1,31
 Germany,1421195357,205192436,21,6.5,22
