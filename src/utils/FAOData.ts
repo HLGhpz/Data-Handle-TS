@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-30 13:30:33
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-02 20:25:53
+ * @LastEditTime: 2022-06-13 20:23:54
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'CowMilk'
+const CategoryName = 'Cattle'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,

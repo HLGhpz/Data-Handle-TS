@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-05 21:33:16
+ * @LastEditTime: 2022-06-13 20:24:40
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -31,9 +31,9 @@ import Intracen from './utils/Intracen'
 // CheckData()
 // OurWorldInData()
 // Test()
-// FAOData()
+FAOData()
 // FAOStackData()
 // Invest()
 // SuperCalculate()
-Intracen()
+// Intracen()
 

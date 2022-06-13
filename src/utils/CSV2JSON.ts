@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-03 23:17:48
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-05 16:28:56
+ * @LastEditTime: 2022-06-13 16:25:11
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 import _ from 'lodash'
 
-const __fileName = 'VolleyballWorldRankWomen'
+const __fileName = 'VolleyballWorldRankMen'
 const __dirname = path.resolve()
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -51,7 +51,7 @@ async function CSV2JSON() {
         try {
           let res = await db.Nation.findOne({
             where: {
-              [Op.or]: [{ en: item.Country }, { alias: item.Country }]
+              [Op.or]: [{ en: item.NationalTeam }, { alias: item.NationalTeam }]
             }
           })
           item.zhName = res.zh
