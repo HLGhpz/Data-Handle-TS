@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-13 20:24:40
+ * @LastEditTime: 2022-06-16 19:49:33
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -22,6 +22,9 @@ import FAOStackData from './utils/FAOStackData'
 import Invest from './utils/Invest'
 import SuperCalculate from './utils/SuperCalculate'
 import Intracen from './utils/Intracen'
+import NationData from './utils/NationData'
+import IMF from './utils/IMF'
+import Province from './utils/Province'
 
 // BulkInsertDB()
 // FillNationCode()
@@ -31,9 +34,11 @@ import Intracen from './utils/Intracen'
 // CheckData()
 // OurWorldInData()
 // Test()
-FAOData()
+// FAOData()
 // FAOStackData()
 // Invest()
 // SuperCalculate()
 // Intracen()
-
+// NationData()
+// IMF()
+Province()
