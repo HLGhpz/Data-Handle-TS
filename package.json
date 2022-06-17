@@ -19,6 +19,7 @@
     "pushVersion": "git push --follow-tags origin main",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
+  "type": "module",
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",

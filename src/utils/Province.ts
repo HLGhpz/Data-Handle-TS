@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:37:07
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-16 23:37:51
+ * @LastEditTime: 2022-06-17 21:39:59
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -14,7 +14,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'ProvinceGDP'
+const CategoryName = 'HigherEducation'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -27,7 +27,7 @@ const EXPORT_FILE_PATH = path.join(
 )
 
 async function nationData() {
-  const foldData = ['FirstIndustry', 'SecondIndustry', 'ThirdIndustry']
+  const foldData = ['Undergraduate', 'CollegeStudent']
   // for (let index = 1949; index <= 2021; index++) {
   //   foldData.push(`${index}年`)
   // }
@@ -42,13 +42,13 @@ async function nationData() {
 
     let data = _.chain(dv.rows)
       .map((item) => {
-        item.FirstIndustry = +item.FirstIndustry
-        item.SecondIndustry = +item.SecondIndustry
-        item.ThirdIndustry = +item.ThirdIndustry
-        item.GDP = +item.GDP
+        item.Colleges = +item.Colleges
+        item.Total = +item.Total
+        item.Undergraduate = +item.Undergraduate
+        item.CollegeStudent = +item.CollegeStudent
         return item
       })
-      .sortBy('GDP')
+      .sortBy('Total')
       .reverse()
       .map((item, index)=>{
         item.Index = index + 1
