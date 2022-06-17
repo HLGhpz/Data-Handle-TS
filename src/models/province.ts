@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:32:39
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-16 19:33:55
+ * @LastEditTime: 2022-06-16 23:28:47
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -20,6 +20,8 @@ function provinceModel(sequelize: any, DataTypes: any) {
     short: {
       type: DataTypes.STRING
     }
+  }, {
+    timestamps: false
   })
   return Province
 }

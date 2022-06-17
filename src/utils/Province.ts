@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:37:07
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-16 19:48:52
+ * @LastEditTime: 2022-06-16 23:37:51
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -39,12 +39,6 @@ async function nationData() {
         type: 'csv'
       }
     )
-    // .transform({
-    //   type: 'fold',
-    //   fields: foldData,
-    //   key: 'Year',
-    //   value: 'Product'
-    // })
 
     let data = _.chain(dv.rows)
       .map((item) => {
@@ -54,7 +48,8 @@ async function nationData() {
         item.GDP = +item.GDP
         return item
       })
-      .sortBy('GDP', 'desc')
+      .sortBy('GDP')
+      .reverse()
       .map((item, index)=>{
         item.Index = index + 1
         return item
@@ -80,11 +75,18 @@ async function nationData() {
         .value()
     )
 
-    console.log(data)
-    // fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(data), {
-    //   encoding: 'utf-8',
-    //   flag: 'w'
-    // })
+    const dv2 = new DataSet.View().source(data).transform({
+      type: 'fold',
+      fields: foldData,
+      key: 'Category',
+      value: 'value'
+    })
+
+    // console.log(data)
+    fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(dv2.rows), {
+      encoding: 'utf-8',
+      flag: 'w'
+    })
   } catch (err) {
     console.log(err)
   }

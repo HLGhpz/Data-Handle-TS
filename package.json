@@ -11,8 +11,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "nodemon -e ts --exec esmo src/index.ts",
-    "start": "esmo src/index.ts",
+    "dev": "nodemon -e ts --exec tsx src/index.ts",
+    "start": "tsx src/index.ts",
     "format": "prettier --write .",
     "prepare": "husky install",
     "release": "standard-version",
