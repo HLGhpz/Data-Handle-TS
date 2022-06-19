@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:37:07
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-17 21:39:59
+ * @LastEditTime: 2022-06-19 22:38:06
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -14,7 +14,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'HigherEducation'
+const CategoryName = 'ProvinceCar'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -27,7 +27,7 @@ const EXPORT_FILE_PATH = path.join(
 )
 
 async function nationData() {
-  const foldData = ['Undergraduate', 'CollegeStudent']
+  const foldData = ['PerCapitaOther','PerCapitaCargo','PerCapitaManned']
   // for (let index = 1949; index <= 2021; index++) {
   //   foldData.push(`${index}年`)
   // }
@@ -40,21 +40,36 @@ async function nationData() {
       }
     )
 
+
     let data = _.chain(dv.rows)
       .map((item) => {
-        item.Colleges = +item.Colleges
-        item.Total = +item.Total
-        item.Undergraduate = +item.Undergraduate
-        item.CollegeStudent = +item.CollegeStudent
+        item['Total'] = +item['Total']
+        item['Population'] = +item['Population']
+        item.Manned = +item.Manned
+        item.Cargo = +item.Cargo
+        item.Other = +item.Other
+        item.PerCapita = +((item.Total / item.Population * 100).toFixed(2))
+        item.PerCapitaManned = +((item.Manned / item.Population* 100).toFixed(2))
+        item.PerCapitaCargo = +((item.Cargo / item.Population * 100).toFixed(2))
+        item.PerCapitaOther = +((item.Other / item.Population * 100).toFixed(2))
         return item
       })
-      .sortBy('Total')
+      .sortBy('PerCapita')
       .reverse()
       .map((item, index)=>{
         item.Index = index + 1
         return item
       })
       .value()
+
+    let sumTotal = _.sumBy(data, 'Total')
+
+
+    data = _.chain(data)
+      .map((item) => {
+        item.Scale = `${(item.Total / sumTotal * 100).toFixed(2)}%`
+        return item
+      }).value()
 
     data = await Promise.all(
       _.chain(data)
@@ -65,9 +80,9 @@ async function nationData() {
                 name: item.Province
               }
             })
-            item.short = res.short
+            item.Short = res.short
           } catch (err) {
-            item.short = ''
+            item.Short = ''
             console.log(item.Province)
           }
           return item
@@ -79,7 +94,7 @@ async function nationData() {
       type: 'fold',
       fields: foldData,
       key: 'Category',
-      value: 'value'
+      value: 'Value'
     })
 
     // console.log(data)
