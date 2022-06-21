@@ -1,0 +1,285 @@
+[{
+  "Province": "四川省",
+  "Book": 4350.47,
+  "PerBook": 0.52,
+  "Index": 1,
+  "Scale": "6.45%",
+  "Short": "四川",
+  "Category": "Total",
+  "Value": 207
+}, {
+  "Province": "河北省",
+  "Book": 3432.31,
+  "PerBook": 0.46,
+  "Index": 2,
+  "Scale": "5.48%",
+  "Short": "河北",
+  "Category": "Total",
+  "Value": 176
+}, {
+  "Province": "河南省",
+  "Book": 4065.3,
+  "PerBook": 0.41,
+  "Index": 3,
+  "Scale": "5.17%",
+  "Short": "河南",
+  "Category": "Total",
+  "Value": 166
+}, {
+  "Province": "山东省",
+  "Book": 6975.47,
+  "PerBook": 0.69,
+  "Index": 4,
+  "Scale": "4.80%",
+  "Short": "山东",
+  "Category": "Total",
+  "Value": 154
+}, {
+  "Province": "云南省",
+  "Book": 2344.02,
+  "PerBook": 0.5,
+  "Index": 5,
+  "Scale": "4.64%",
+  "Short": "云南",
+  "Category": "Total",
+  "Value": 149
+}, {
+  "Province": "广东省",
+  "Book": 11687.33,
+  "PerBook": 0.93,
+  "Index": 6,
+  "Scale": "4.61%",
+  "Short": "广东",
+  "Category": "Total",
+  "Value": 148
+}, {
+  "Province": "湖南省",
+  "Book": 3922.77,
+  "PerBook": 0.59,
+  "Index": 7,
+  "Scale": "4.45%",
+  "Short": "湖南",
+  "Category": "Total",
+  "Value": 143
+}, {
+  "Province": "安徽省",
+  "Book": 3545.81,
+  "PerBook": 0.58,
+  "Index": 8,
+  "Scale": "4.08%",
+  "Short": "安徽",
+  "Category": "Total",
+  "Value": 131
+}, {
+  "Province": "辽宁省",
+  "Book": 4533.18,
+  "PerBook": 1.06,
+  "Index": 9,
+  "Scale": "4.02%",
+  "Short": "辽宁",
+  "Category": "Total",
+  "Value": 129
+}, {
+  "Province": "山西省",
+  "Book": 2152.88,
+  "PerBook": 0.62,
+  "Index": 10,
+  "Scale": "3.99%",
+  "Short": "山西",
+  "Category": "Total",
+  "Value": 128
+}, {
+  "Province": "江苏省",
+  "Book": 10546.24,
+  "PerBook": 1.24,
+  "Index": 11,
+  "Scale": "3.74%",
+  "Short": "江苏",
+  "Category": "Total",
+  "Value": 120
+}, {
+  "Province": "陕西省",
+  "Book": 2155.26,
+  "PerBook": 0.55,
+  "Index": 12,
+  "Scale": "3.64%",
+  "Short": "陕西",
+  "Category": "Total",
+  "Value": 117
+}, {
+  "Province": "湖北省",
+  "Book": 4416.1,
+  "PerBook": 0.76,
+  "Index": 13,
+  "Scale": "3.64%",
+  "Short": "湖北",
+  "Category": "Total",
+  "Value": 117
+}, {
+  "Province": "内蒙古自治区",
+  "Book": 2049.59,
+  "PerBook": 0.85,
+  "Index": 14,
+  "Scale": "3.64%",
+  "Short": "内蒙古",
+  "Category": "Total",
+  "Value": 117
+}, {
+  "Province": "广西壮族自治区",
+  "Book": 3003.06,
+  "PerBook": 0.6,
+  "Index": 15,
+  "Scale": "3.61%",
+  "Short": "广西",
+  "Category": "Total",
+  "Value": 116
+}, {
+  "Province": "江西省",
+  "Book": 2857.01,
+  "PerBook": 0.63,
+  "Index": 16,
+  "Scale": "3.55%",
+  "Short": "江西",
+  "Category": "Total",
+  "Value": 114
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Book": 1512.75,
+  "PerBook": 0.59,
+  "Index": 17,
+  "Scale": "3.33%",
+  "Short": "新疆",
+  "Category": "Total",
+  "Value": 107
+}, {
+  "Province": "甘肃省",
+  "Book": 1813.97,
+  "PerBook": 0.73,
+  "Index": 18,
+  "Scale": "3.24%",
+  "Short": "甘肃",
+  "Category": "Total",
+  "Value": 104
+}, {
+  "Province": "浙江省",
+  "Book": 9867.39,
+  "PerBook": 1.53,
+  "Index": 19,
+  "Scale": "3.24%",
+  "Short": "浙江",
+  "Category": "Total",
+  "Value": 104
+}, {
+  "Province": "黑龙江省",
+  "Book": 2356.53,
+  "PerBook": 0.74,
+  "Index": 20,
+  "Scale": "3.21%",
+  "Short": "黑龙江",
+  "Category": "Total",
+  "Value": 103
+}, {
+  "Province": "贵州省",
+  "Book": 1673.59,
+  "PerBook": 0.43,
+  "Index": 21,
+  "Scale": "3.11%",
+  "Short": "贵州",
+  "Category": "Total",
+  "Value": 100
+}, {
+  "Province": "福建省",
+  "Book": 4606.32,
+  "PerBook": 1.11,
+  "Index": 22,
+  "Scale": "3.02%",
+  "Short": "福建",
+  "Category": "Total",
+  "Value": 97
+}, {
+  "Province": "西藏自治区",
+  "Book": 249.14,
+  "PerBook": 0.68,
+  "Index": 23,
+  "Scale": "2.52%",
+  "Short": "西藏",
+  "Category": "Total",
+  "Value": 81
+}, {
+  "Province": "吉林省",
+  "Book": 2258.15,
+  "PerBook": 0.94,
+  "Index": 24,
+  "Scale": "2.06%",
+  "Short": "吉林",
+  "Category": "Total",
+  "Value": 66
+}, {
+  "Province": "青海省",
+  "Book": 581.89,
+  "PerBook": 0.98,
+  "Index": 25,
+  "Scale": "1.56%",
+  "Short": "青海",
+  "Category": "Total",
+  "Value": 50
+}, {
+  "Province": "重庆市",
+  "Book": 1997.49,
+  "PerBook": 0.62,
+  "Index": 26,
+  "Scale": "1.34%",
+  "Short": "重庆",
+  "Category": "Total",
+  "Value": 43
+}, {
+  "Province": "宁夏回族自治区",
+  "Book": 802.71,
+  "PerBook": 1.11,
+  "Index": 27,
+  "Scale": "0.84%",
+  "Short": "宁夏",
+  "Category": "Total",
+  "Value": 27
+}, {
+  "Province": "天津市",
+  "Book": 2175.12,
+  "PerBook": 1.57,
+  "Index": 28,
+  "Scale": "0.84%",
+  "Short": "天津",
+  "Category": "Total",
+  "Value": 27
+}, {
+  "Province": "海南省",
+  "Book": 665.32,
+  "PerBook": 0.66,
+  "Index": 29,
+  "Scale": "0.75%",
+  "Short": "海南",
+  "Category": "Total",
+  "Value": 24
+}, {
+  "Province": "上海市",
+  "Book": 8091.75,
+  "PerBook": 3.25,
+  "Index": 30,
+  "Scale": "0.72%",
+  "Short": "上海",
+  "Category": "Total",
+  "Value": 23
+}, {
+  "Province": "北京市",
+  "Book": 3133.09,
+  "PerBook": 1.43,
+  "Index": 31,
+  "Scale": "0.72%",
+  "Short": "北京",
+  "Category": "Total",
+  "Value": 23
+}, {
+  "Province": "Unit",
+  "Total": "个",
+  "Book": "万册",
+  "PerBook": "册/人"
+}]

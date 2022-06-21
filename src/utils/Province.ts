@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:37:07
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-20 12:29:13
+ * @LastEditTime: 2022-06-20 23:26:21
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -14,7 +14,7 @@ import DataSet from '@antv/data-set'
 import { db } from '@/models'
 
 const __dirname = path.resolve()
-const CategoryName = 'ProvinceMuseum'
+const CategoryName = 'ProvinceLibrary'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -40,13 +40,18 @@ async function nationData() {
       }
     )
 
+    let unit = _.head(dv.rows)
+    console.log(unit)
 
+
+    // Data deal
     let data = _.chain(dv.rows)
+      .drop(1)
       .map((item) => {
         item['Total'] = +item['Total']
-        item['Population'] = +item['Population']
-        item.CulturalRelic = +item.CulturalRelic
-        item.People = +item.People
+        // item['Population'] = +item['Population']
+        item.Book = +item.Book
+        item.PerBook = +item.PerBook
         // item.InventionPatent = +item.InventionPatent
         // item.UtilityModelPatent = +item.UtilityModelPatent
         // item.DesignPatent = +item.DesignPatent
@@ -65,16 +70,18 @@ async function nationData() {
       .value()
 
     let sumTotal = _.sumBy(data, 'Total')
-    let sumCulturalRelic = _.sumBy(data, 'CulturalRelic')
+    // let sumCulturalRelic = _.sumBy(data, 'CulturalRelic')
 
 
+    // compute percentage
     data = _.chain(data)
       .map((item) => {
-        item.Scale = `${(item.Total / sumTotal * 100).toFixed(2)}%`,
-        item.CulturalRelicScale = `${(item.CulturalRelic / sumCulturalRelic * 100).toFixed(2)}%`
+        item.Scale = `${(item.Total / sumTotal * 100).toFixed(2)}%`
+        // item.CulturalRelicScale = `${(item.CulturalRelic / sumCulturalRelic * 100).toFixed(2)}%`
         return item
       }).value()
 
+      // Completion of the data (item.short)
     data = await Promise.all(
       _.chain(data)
         .map(async (item) => {
@@ -100,6 +107,9 @@ async function nationData() {
       key: 'Category',
       value: 'Value'
     })
+
+    // Add unit to the data
+    dv2.rows.push(unit)
 
     // console.log(data)
     fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(dv2.rows), {
