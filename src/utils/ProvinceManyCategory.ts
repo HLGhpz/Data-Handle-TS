@@ -1,12 +1,13 @@
 /*
  * @Author: HLGhpz
- * @Date: 2022-06-16 19:37:07
+ * @Date: 2022-06-21 16:41:59
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-21 16:38:28
+ * @LastEditTime: 2022-06-21 17:27:18
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
+
 import _ from 'lodash'
 import fs from 'fs'
 import path from 'path'
@@ -53,26 +54,14 @@ async function nationData() {
       })
       .value()
 
-    // Data Sort
-    for (let kind of sortData) {
-      _.chain(data).sortBy(kind).reverse().map((item,index)=>{
-        item[`${kind}Index`] = index + 1
-        return item
-      }).value()
-    }
-
-
-    // let sumTotal = _.sumBy(data, 'Total')
-    // // let sumCulturalRelic = _.sumBy(data, 'CulturalRelic')
-
-
-    // // Compute percentage
-    // data = _.chain(data)
-    //   .map((item) => {
-    //     item.Scale = `${(item.Total / sumTotal * 100).toFixed(2)}%`
-    //     // item.CulturalRelicScale = `${(item.CulturalRelic / sumCulturalRelic * 100).toFixed(2)}%`
+    // // Data Sort
+    // for (let kind of sortData) {
+    //   _.chain(data).sortBy(kind).reverse().map((item,index)=>{
+    //     item[`${kind}Index`] = index + 1
     //     return item
     //   }).value()
+    // }
+
 
     // Completion of the data (item.short)
     data = await Promise.all(
@@ -94,24 +83,59 @@ async function nationData() {
         .value()
     )
 
+    // // Data Sort
+    // for (let kind of sortData) {
+    //   _.chain(data).filter(item=>{
+    //     return item.Short !== ''
+    //   }).sortBy(kind).reverse().map((item,index)=>{
+    //     item[`${kind}Index`] = index + 1
+    //     return item
+    //   }).value()
+    // }
+
+    console.log(data)
+
     const dv2 = new DataSet.View().source(data).transform({
       type: 'fold',
       fields: foldData,
       key: 'Category',
       value: 'Value',
-      retains: _.concat(['Province', 'Short'], _.map(sortData, (item)=>{
-        return `${item}Index`
-      }))
+      retains: ['Province', 'Short']
     })
 
-    // Add unit to the data
-    dv2.rows.push(unit)
+    // console.log(dv2.rows)
 
-    // console.log(data)
-    fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(dv2.rows), {
-      encoding: 'utf-8',
-      flag: 'w'
-    })
+    let result = []
+    for (let kind of sortData) {
+      let temp = _.chain(dv2.rows).filter(item=>{
+        return _.includes(item.Category, kind)
+      })
+      .value()
+      let temp2 = _.chain(temp).filter(item=>{
+        return item.Category === kind
+      }).sortBy(kind).reverse().map((item,index)=>{
+        item[`Index`] = index + 1
+        return item
+      }).value()
+
+      for (let item1 of temp2){
+        _.chain(temp).filter(item2=>{item2.Short === item1.Short}).map((item2)=>{
+          item2[`Index`] = item1[`Index`]
+          return item2
+        }).value()
+      }
+      result.push(temp)
+    }
+
+
+    // // Add unit to the data
+    result.push(unit)
+
+    // // console.log(data)
+    // fs.writeFileSync(EXPORT_FILE_PATH, JSON.stringify(result), {
+    //   encoding: 'utf-8',
+    //   flag: 'w'
+    // })
   } catch (err) {
     console.log(err)
   }
