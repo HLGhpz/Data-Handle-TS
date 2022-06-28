@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-21 13:35:59
+ * @LastEditTime: 2022-06-28 22:44:52
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -25,6 +25,9 @@ import Intracen from './utils/Intracen'
 import NationData from './utils/NationData'
 import IMF from './utils/IMF'
 import Province from './utils/Province'
+import NestedJsonDeal from './utils/NestedJsonDeal'
+import Area from './utils/Area'
+import City from './utils/City'
 
 // BulkInsertDB()
 // FillNationCode()
@@ -41,4 +44,7 @@ import Province from './utils/Province'
 // Intracen()
 // NationData()
 // IMF()
-Province()
+// Province()
+// NestedJsonDeal()
+// Area()
+City()

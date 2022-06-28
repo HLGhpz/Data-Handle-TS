@@ -2,16 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-05-28 19:29:02
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-05 15:13:06
- * @Description:
- *
- * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
- */
-/*
- * @Author: HLGhpz
- * @Date: 2022-05-27 19:57:52
- * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-28 17:32:28
+ * @LastEditTime: 2022-06-24 16:40:08
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -27,6 +18,7 @@ import tempData from '@/rowData/country.json'
 const __dirname = path.resolve()
 const EXPORT_FILE_PATH = path.join(__dirname, './distData/temp.json')
 
+console.log('test')
 async function test() {
   await db.NationCode.sync({ alert: true })
   try {

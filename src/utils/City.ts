@@ -1,12 +1,13 @@
 /*
  * @Author: HLGhpz
- * @Date: 2022-06-16 19:37:07
+ * @Date: 2022-06-28 22:38:16
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-28 20:33:51
+ * @LastEditTime: 2022-06-28 22:47:43
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
+
 import _ from 'lodash'
 import fs from 'fs'
 import path from 'path'
@@ -15,20 +16,20 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 
 const __dirname = path.resolve()
-const CategoryName = 'ProvinceEmployedPerson'
+const CategoryName = 'CityAboveIndustry'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
-  `./src/rowData/Province/${CategoryName}.csv`
+  `./src/rowData/City/${CategoryName}.csv`
 )
 
 const EXPORT_FILE_PATH = path.join(
   __dirname,
-  `./distData/Province/${CategoryName}.json`
+  `./distData/City/${CategoryName}.json`
 )
 
 async function nationData() {
-  let foldData = _.reverse(['Total','PrimaryIndustry','SecondaryIndustry','TertiaryIndustry'])
+  let foldData = ['Total','DomesticFunded','HKMacaoTaiwan','ForeignFunded']
   let sortData = ['Total']
 
   try {
@@ -57,13 +58,9 @@ async function nationData() {
     // Data Sort
     for (let kind of sortData) {
       _.chain(data).filter((item)=>{
-        return item.Province !== '全国'
+        return item.City !== '全国'
       }).sortBy(kind).reverse().map((item,index)=>{
-        if (kind === 'Total') {
-          item.Index = index + 1
-        }else {
-          item[`${kind}Index`] = index + 1
-        }
+        item[`${kind}Index`] = index + 1
         return item
       }).value()
     }
@@ -86,39 +83,49 @@ async function nationData() {
       _.chain(data)
         .map(async (item) => {
           try {
-            let res = await db.Province.findOne({
+            let res = await db.City.findOne({
               where: {
-                [Op.or]: [{
-                  name: item.Province
-                }, {
-                  short: item.Province
-                }]
+                city : item.City
               }
             })
+            item.ProvinceCode = res.provinceCode
             item.Short = res.short
-            item.ProvinceCode = res.code
           } catch (err) {
+            console.log(item.City)
             item.ProvinceCode = ''
-            console.log(item.ProvinceCode)
           }
           return item
         })
         .value()
     )
 
-    // console.log(data)
+    // data = await Promise.all(
+    //   _.chain(data)
+    //     .map(async (item) => {
+    //       try {
+    //         let res = await db.Province.findOne({
+    //           where: {
+    //             code : item.ProvinceCode
+    //           }
+    //         })
+    //         item.Short = res.short
+
+    //       } catch (err) {
+    //         console.log(item.ProvinceCode)
+    //         item.Short = ''
+    //       }
+    //       return item
+    //     })
+    //     .value()
+    // )
 
     const dv2 = new DataSet.View().source(data).transform({
       type: 'fold',
       fields: foldData,
       key: 'Category',
       value: 'Value',
-      retains: _.concat(['Province', 'ProvinceCode', 'Short'], _.map(sortData, (item)=>{
-        if (item === 'Total') {
-          return 'Index'
-        }else{
-          return `${item}Index`
-        }
+      retains: _.concat(['City', 'ProvinceCode', 'Short'], _.map(sortData, (item)=>{
+        return `${item}Index`
       }))
     })
 
