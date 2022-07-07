@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 14:50:55
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-06-28 22:44:52
+ * @LastEditTime: 2022-07-06 15:54:08
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -28,10 +28,12 @@ import Province from './utils/Province'
 import NestedJsonDeal from './utils/NestedJsonDeal'
 import Area from './utils/Area'
 import City from './utils/City'
+import ParseXls from './utils/ParseXls'
+import ParseCsv from './utils/ParseCsv'
 
 // BulkInsertDB()
 // FillNationCode()
-// CSV2JSON()
+CSV2JSON()
 // CalendarUse()
 // Array2Json()
 // CheckData()
@@ -47,4 +49,6 @@ import City from './utils/City'
 // Province()
 // NestedJsonDeal()
 // Area()
-City()
+// City()
+// ParseXls()
+// ParseCsv()
