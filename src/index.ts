@@ -23,6 +23,7 @@ import Invest from './utils/Invest'
 import SuperCalculate from './utils/SuperCalculate'
 import Intracen from './utils/Intracen'
 import NationData from './utils/NationData'
+import National from './utils/National'
 import IMF from './utils/IMF'
 import Province from './utils/Province'
 import NestedJsonDeal from './utils/NestedJsonDeal'
@@ -33,7 +34,7 @@ import ParseCsv from './utils/ParseCsv'
 
 // BulkInsertDB()
 // FillNationCode()
-CSV2JSON()
+// CSV2JSON()
 // CalendarUse()
 // Array2Json()
 // CheckData()
@@ -52,3 +53,4 @@ CSV2JSON()
 // City()
 // ParseXls()
 // ParseCsv()
+National()
