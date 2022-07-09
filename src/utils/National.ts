@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-07-08 15:24:11
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-07-08 22:53:52
+ * @LastEditTime: 2022-07-09 18:11:58
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 
 const __dirname = path.resolve()
-const CategoryName = 'A0203全国各民族分性别、受教育程度的3岁及以上人口'
+const CategoryName = 'B0207全国各民族岁妇女平均活产子女数和平均存活子女数'
 const PATH = 'CensusYearbook/National'
 
 const IMPORT_FILE_PATH = path.join(
@@ -31,14 +31,15 @@ const EXPORT_FILE_PATH = path.join(
 async function national() {
   let CountryJoinRank = false
   // let foldData = _.reverse(['L14Ratio','F15T64Ratio','M65Ratio'])
-  let dealData =['3岁及以上人口','未上过学','学前教育','小学','初中','高中','大学专科','大学本科','硕士研究生','博士研究生']
-  let ratioData:any = ['未上过学','学前教育','小学','初中','高中','大学专科','大学本科','硕士研究生','博士研究生']
-  let foldData =  ['未上过学','学前教育','小学','初中','高中','大学专科','大学本科','硕士研究生','博士研究生']
-  foldData= _.map(foldData, (item)=>{
-    return `${item}Ratio`
-  })
+  let dealData =['存活率','平均活产','平均存活']
+  let ratioData:any = []
+  let scale:any = []
+  let foldData =  ['平均活产']
+  // foldData= _.map(foldData, (item)=>{
+  //   return `${item}Ratio`
+  // })
   // foldData = _.reverse(foldData)
-  let sortData = ['博士研究生Ration']
+  let sortData = ['平均活产']
 
   try {
     const dv = new DataSet.View().source(
@@ -68,9 +69,9 @@ async function national() {
         }
         // CalcScale
         for (let kind of ratioData) {
-          item[`${kind}Ratio`] = +(item[kind] / item['3岁及以上人口'] * 100).toFixed(2)
+          item[`${kind}Ratio`] = +(item[kind] / item[scale] * 100).toFixed(2)
         }
-
+        // item.本科及以上Ratio = item.大学本科Ratio + item.硕士研究生Ratio + item.博士研究生Ratio
         return item
       })
       .value()
