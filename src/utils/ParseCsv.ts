@@ -47,7 +47,10 @@ async function parseCsv() {
   })
   _.chain(fileFold).map(item => {
     let data = fs.readFileSync(item, 'utf8')
-    let dataArr = data.replace(/ /g, '').replace(/\r\n/g, '\n').split('\n')
+    let dataArr = data
+    // .replace(/ /g, '')
+    .replace(/\r\n/g, '\n')
+    .split('\n')
     dataArr = _.chain(dataArr).filter((item: any) => {
       return item.replace(/",*/g, '').length > 0
     }).value()

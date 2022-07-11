@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-07-04 14:19:13
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-07-04 20:24:55
+ * @LastEditTime: 2022-07-11 15:25:52
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -17,8 +17,6 @@ import { json, Op } from 'sequelize'
 import xlsx from 'node-xlsx'
 
 const __dirname = path.resolve()
-const csvForm = 'data:text/csv;charset=utf-8,'
-const CategoryName = 'F0201ProvinceOutlander'
 const PATH = 'CensusYearbook/Row'
 const outPATH = 'CensusYearbook/Trade'
 
@@ -27,18 +25,9 @@ const IMPORT_FILE_DIR = path.join(
 )
 
 const EXPORT_FILE_DIR = path.join(
-  __dirname,`./src/rowData/${PATH}`
+  __dirname,`./src/rowData/${outPATH}`
 )
 
-const IMPORT_FILE_PATH = path.join(
-  __dirname,
-  `./src/rowData/${PATH}/${CategoryName}.csv`
-)
-
-const EXPORT_FILE_PATH = path.join(
-  __dirname,
-  `./distData/${PATH}/${CategoryName}.json`
-)
 
 async function parseXls() {
   let fileFold:any = []
@@ -61,8 +50,8 @@ async function parseXls() {
       //   item[0] = item[0].toString().replace(/\s*/g, '')
       // }
       if (index === 0) {
-        // fileTitle = baseName + item[0].toString().replace(/\d*-\d*\s*/g, '')
-        fileTitle = item[0].toString().replace(/\s*/g, '')
+        fileTitle = baseName + item[0].toString().replace(/\d*-\d*\s*/g, '')
+        // fileTitle = item[0].toString().replace(/\s*/g, '')
       }
       return item
       })
@@ -73,7 +62,7 @@ async function parseXls() {
       return item.join(',')
     }).join('\n').replace(/ /g, '')
 
-    fs.writeFileSync(path.join(IMPORT_FILE_DIR, fileTitle + '.csv'),csvContent, {
+    fs.writeFileSync(path.join(EXPORT_FILE_DIR, fileTitle + '.csv'),csvContent, {
       encoding: 'utf-8',
       flag: 'w'
     })
