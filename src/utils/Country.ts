@@ -2,11 +2,12 @@
  * @Author: HLGhpz
  * @Date: 2022-07-08 15:24:11
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-07-13 21:59:35
+ * @LastEditTime: 2022-07-14 17:06:03
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
+
 import _ from 'lodash'
 import fs from 'fs'
 import path from 'path'
@@ -15,8 +16,8 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 
 const __dirname = path.resolve()
-const CategoryName = 'F0102中国人民解放军现役军人的民族构成'
-const PATH = 'National'
+const CategoryName = '各国CPI数据'
+const PATH = 'Country'
 
 const IMPORT_FILE_PATH = path.join(
   __dirname,
@@ -29,17 +30,17 @@ const EXPORT_FILE_PATH = path.join(
 )
 
 async function national() {
-  let CountryJoinRank = false
+  let TotalJoinRank = false
   // let foldData = _.reverse(['L14Ratio','F15T64Ratio','M65Ratio'])
-  let dealData =['参军人数','参军比重','总人数','比重']
+  let dealData =['GDP','GDP同比','GDP环比','利率','通货膨胀率','失业率','政府预算','债务','往来账户','人口']
   let ratioData:any = []
   let scale:any = []
-  let foldData =  ['参军人数']
+  let foldData =  ['通货膨胀率']
   // foldData= _.map(foldData, (item)=>{
   //   return `${item}Ratio`
   // })
   // foldData = _.reverse(foldData)
-  let sortData = ['参军人数']
+  let sortData = ['通货膨胀率']
 
   try {
     const dv = new DataSet.View().source(
@@ -51,16 +52,16 @@ async function national() {
 
     // Extraction unit and remark
     let unit = _.filter(dv.rows, (item)=>{
-      return item.民族 === 'Unit'
+      return item.Country === 'Unit'
     })[0]
     let remark = _.filter(dv.rows, (item)=>{
-      return item.民族 === 'Remark'
+      return item.Country === 'Remark'
     })[0]
 
     // String to Number
     let data = _.chain(dv.rows)
       .filter((item)=>{
-        return item.民族 !== 'Unit' && item.民族 !== 'Remark'
+        return item.Country !== 'Unit' && item.Country !== 'Remark'
       })
       .map((item) => {
         // Str2Num
@@ -77,12 +78,14 @@ async function national() {
       .value()
 
 
+
+
     // Data Sort
     for (let kind of sortData) {
       // 国家整体数据是否参加排行
-      if (!CountryJoinRank) {
+      if (!TotalJoinRank) {
         data = _.filter(data, (item)=>{
-          return item.民族 !== '总计'
+          return item.Country !== '总计'
         })
         // console.log('data', data)
       }
@@ -96,21 +99,45 @@ async function national() {
       }).value()
     }
 
+    // Completion of the data (item.short)
+    data = await Promise.all(
+      _.chain(data)
+        .map(async (item) => {
+          try {
+            let res = await db.Nation.findOne({
+              where: {
+                [Op.or]: [{
+                  en: item.Country
+                }, {
+                  alias: item.Country
+                }]
+              }
+            })
+            item.国家 = res.zh
+            item.编码 = res.short
+          } catch (err) {
+            item.编码= ''
+            item.国家= ''
+            console.log(item.Country)
+          }
+          return item
+        })
+        .value()
+    )
+
+
     const dv2 = new DataSet.View().source(data).transform({
       type: 'fold',
       fields: foldData,
       key: 'Category',
       value: 'Value',
-      retains: _.concat(['民族'],_.without(dealData, ...foldData), _.map(sortData, (item)=>{
+      retains: _.concat(['Country', '国家', '编码'],_.without(dealData, ...foldData), _.map(sortData, (item)=>{
         if (item === 'Total') {
           return 'Index'
         }else{
           return `${item}Index`
         }
       })
-      // , _.map(ratioData, (item)=>{
-      //   return `${item}Ratio`
-      // })
       )
     })
 
