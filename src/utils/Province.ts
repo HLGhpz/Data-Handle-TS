@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-06-16 19:37:07
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-07-11 20:39:31
+ * @LastEditTime: 2022-07-12 22:41:34
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 
 const __dirname = path.resolve()
-const CategoryName = 'B0905各地区按月租房费用分的家庭户户数'
+const CategoryName = '7-39 2020年各地区肉类总产量'
 const PATH = 'Province'
 
 const IMPORT_FILE_PATH = path.join(
@@ -29,17 +29,17 @@ const EXPORT_FILE_PATH = path.join(
 )
 
 async function province() {
-  let CountryJoinRank = true
+  let CountryJoinRank = false
   // let foldData = _.reverse(['L14Ratio','F15T64Ratio','M65Ratio'])
-  let dealData =['农村居民人均可支配收入', '城镇居民人均可支配收入', '城乡居民收入水平对比']
+  let dealData =['肉类总产量','#猪牛羊肉','猪肉','牛肉','羊肉','禽肉']
   let ratioData:any = []
-  let foldData =  ['L1000','F1000T1999','F2000T3999','F4000T5999','M6000']
-  foldData= _.map(foldData, (item)=>{
-    return `${item}Ratio`
-  })
+  let foldData =  ['猪肉','牛肉','羊肉','禽肉']
+  // foldData= _.map(foldData, (item)=>{
+  //   return `${item}Ratio`
+  // })
   // foldData = _.reverse(foldData)
   // let RetainData = ['L1000','F1000T1999','F2000T3999','F4000T5999','M6000']
-  let sortData = ['M6000Ratio']
+  let sortData = ['肉类总产量']
   let scale = '合计'
 
   try {
@@ -68,11 +68,7 @@ async function province() {
         for (let kind of dealData) {
           item[kind] = +item[kind]
         }
-        item.L1000 = item.L200 + item.F200T499 + item.F500T999
-        item.F1000T1999 = item.F1000T1999
-        item.F2000T3999 = item.F2000T2999 + item.F3000T3999
-        item.F4000T5999 = item.F4000T5999
-        item.M6000 = item.F6000T7999 + item.F8000T9999 + item.M10000
+
         // // CalcScale
         for (let kind of ratioData) {
           item[`${kind}Ratio`] = +(item[kind] / item[scale] * 100).toFixed(2)
