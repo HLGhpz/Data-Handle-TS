@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-07-15 20:46:37
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-07-15 20:58:57
+ * @LastEditTime: 2022-07-15 23:16:10
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import { db } from '@/models'
 import { Op } from 'sequelize'
 
 const __dirname = path.resolve()
-const CategoryName = '中国县域统计年鉴（县市）'
+const CategoryName = '中国县域统计年鉴（县市）改'
 const PATH = 'Other'
 
 const IMPORT_FILE_PATH = path.join(
@@ -84,6 +84,28 @@ async function area() {
         return item
       })
       .value()
+
+      data = await Promise.all(
+        _.chain(data)
+          .map(async (item) => {
+            try {
+              let res = await db.Province.findOne({
+                where: {
+                  [Op.or]: [{
+                    name: item.Province
+                  }, {
+                    short: item.Province
+                  }]
+                }
+              })
+              item.Province = res.short
+            } catch (err) {
+              console.log(item.ProvinceCode)
+            }
+            return item
+          })
+          .value()
+      )
 
 
     // Add unit to the data
