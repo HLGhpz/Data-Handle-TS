@@ -22,6 +22,9 @@ function areaModel(sequelize: any, DataTypes: any) {
     },
     provinceCode: {
       type: DataTypes.INTEGER
+    },
+    short: {
+      type: DataTypes.STRING
     }
   }, {
     timestamps: false
